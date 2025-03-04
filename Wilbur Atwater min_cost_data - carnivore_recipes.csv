@@ -1,0 +1,1340 @@
+parent_foodcode,parent_desc,ingred_code,ingred_desc,ingred_wt
+13142000,"Milk dessert bar or stick, frozen, with coconut",12109,"Nuts, coconut meat, dried (desiccated), sweetened, flaked, packaged",16.5
+13210820,"Fresh corn custard, Puerto Rican style",12117,"Nuts, coconut milk, raw (liquid expressed from grated meat and water)",480
+13252100,"Coconut custard, Puerto Rican style",12179,"Nuts, coconut meat, dried (desiccated), sweetened, shredded",99.225
+24301210,"Duck, coated, fried",5141,"Duck, domesticated, meat only, raw",114.3
+27243700,Chicken in cheese sauce with Spanish rice,5361,"Chicken, broiler, rotisserie, BBQ, thigh meat and skin",100
+27500200,"Wrap sandwich, filled with meat, poultry, or fish, vegetables, and cheese",5000,"Chicken, broiler, rotisserie, BBQ, breast meat only",28.35
+27500200,"Wrap sandwich, filled with meat, poultry, or fish, vegetables, and cheese",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",11.34
+27500200,"Wrap sandwich, filled with meat, poultry, or fish, vegetables, and cheese",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",17.01
+27510110,"Beef barbecue sandwich or Sloppy Joe, on bun",23580,"Beef, ground, 75% lean meat / 25% fat, crumbles, cooked, pan-browned",43.5
+27510150,"Cheeseburger, 1 miniature patty, on miniature bun, from school",23563,"Beef, ground, 90% lean meat / 10% fat, patty, cooked, broiled",20
+27510205,"Cheeseburger, 1 small patty, with condiments, on white bun",23573,"Beef, ground, 80% lean meat / 20% fat, patty, cooked, broiled",32.24206349
+27510205,"Cheeseburger, 1 small patty, with condiments, on white bun",23578,"Beef, ground, 75% lean meat / 25% fat, patty, cooked, broiled",32.24206349
+27510206,"Cheeseburger, 1 small patty, with condiments, on wheat bun",23573,"Beef, ground, 80% lean meat / 20% fat, patty, cooked, broiled",32.24206349
+27510206,"Cheeseburger, 1 small patty, with condiments, on wheat bun",23578,"Beef, ground, 75% lean meat / 25% fat, patty, cooked, broiled",32.24206349
+27510207,"Cheeseburger, 1 small patty, with condiments, on whole wheat bun",23573,"Beef, ground, 80% lean meat / 20% fat, patty, cooked, broiled",32.24206349
+27510207,"Cheeseburger, 1 small patty, with condiments, on whole wheat bun",23578,"Beef, ground, 75% lean meat / 25% fat, patty, cooked, broiled",32.24206349
+27510243,"Cheeseburger, 1 medium patty, plain, on whole wheat bun",23573,"Beef, ground, 80% lean meat / 20% fat, patty, cooked, broiled",42.16269841
+27510243,"Cheeseburger, 1 medium patty, plain, on whole wheat bun",23578,"Beef, ground, 75% lean meat / 25% fat, patty, cooked, broiled",42.16269841
+27510251,"Cheeseburger, 1 medium patty, with condiments, on white bun",23573,"Beef, ground, 80% lean meat / 20% fat, patty, cooked, broiled",42.16269841
+27510251,"Cheeseburger, 1 medium patty, with condiments, on white bun",23578,"Beef, ground, 75% lean meat / 25% fat, patty, cooked, broiled",42.16269841
+27510252,"Cheeseburger, 1 medium patty, with condiments, on wheat bun",23573,"Beef, ground, 80% lean meat / 20% fat, patty, cooked, broiled",42.16269841
+27510252,"Cheeseburger, 1 medium patty, with condiments, on wheat bun",23578,"Beef, ground, 75% lean meat / 25% fat, patty, cooked, broiled",42.16269841
+27510253,"Cheeseburger, 1 medium patty, with condiments, on whole wheat bun",23573,"Beef, ground, 80% lean meat / 20% fat, patty, cooked, broiled",42.16269841
+27510253,"Cheeseburger, 1 medium patty, with condiments, on whole wheat bun",23578,"Beef, ground, 75% lean meat / 25% fat, patty, cooked, broiled",42.16269841
+27510331,"Bacon cheeseburger, 1 medium patty, plain, on white bun",23573,"Beef, ground, 80% lean meat / 20% fat, patty, cooked, broiled",42.16269841
+27510331,"Bacon cheeseburger, 1 medium patty, plain, on white bun",23578,"Beef, ground, 75% lean meat / 25% fat, patty, cooked, broiled",42.16269841
+27510341,"Bacon cheeseburger, 1 medium patty, with condiments, on white bun",23573,"Beef, ground, 80% lean meat / 20% fat, patty, cooked, broiled",42.16269841
+27510341,"Bacon cheeseburger, 1 medium patty, with condiments, on white bun",23578,"Beef, ground, 75% lean meat / 25% fat, patty, cooked, broiled",42.16269841
+27510342,"Bacon cheeseburger, 1 medium patty, with condiments, on wheat bun",23573,"Beef, ground, 80% lean meat / 20% fat, patty, cooked, broiled",42.16269841
+27510342,"Bacon cheeseburger, 1 medium patty, with condiments, on wheat bun",23578,"Beef, ground, 75% lean meat / 25% fat, patty, cooked, broiled",42.16269841
+27510343,"Bacon cheeseburger, 1 medium patty, with condiments, on whole wheat bun",23573,"Beef, ground, 80% lean meat / 20% fat, patty, cooked, broiled",42.16269841
+27510343,"Bacon cheeseburger, 1 medium patty, with condiments, on whole wheat bun",23578,"Beef, ground, 75% lean meat / 25% fat, patty, cooked, broiled",42.16269841
+27510511,"Hamburger, 1 miniature patty, on miniature bun, from school",23563,"Beef, ground, 90% lean meat / 10% fat, patty, cooked, broiled",20
+27510577,"Hamburger, 1 small patty, plain, on whole wheat bun",23573,"Beef, ground, 80% lean meat / 20% fat, patty, cooked, broiled",32.24206349
+27510577,"Hamburger, 1 small patty, plain, on whole wheat bun",23578,"Beef, ground, 75% lean meat / 25% fat, patty, cooked, broiled",32.24206349
+27510585,"Hamburger, 1 small patty, with condiments, on white bun",23573,"Beef, ground, 80% lean meat / 20% fat, patty, cooked, broiled",32.24206349
+27510585,"Hamburger, 1 small patty, with condiments, on white bun",23578,"Beef, ground, 75% lean meat / 25% fat, patty, cooked, broiled",32.24206349
+27510587,"Hamburger, 1 small patty, with condiments, on whole wheat bun",23573,"Beef, ground, 80% lean meat / 20% fat, patty, cooked, broiled",32.24206349
+27510587,"Hamburger, 1 small patty, with condiments, on whole wheat bun",23578,"Beef, ground, 75% lean meat / 25% fat, patty, cooked, broiled",32.24206349
+27510633,"Hamburger, 1 medium patty, plain, on whole wheat bun",23573,"Beef, ground, 80% lean meat / 20% fat, patty, cooked, broiled",42.16269841
+27510633,"Hamburger, 1 medium patty, plain, on whole wheat bun",23578,"Beef, ground, 75% lean meat / 25% fat, patty, cooked, broiled",42.16269841
+27510641,"Hamburger, 1 medium patty, with condiments, on white bun",23573,"Beef, ground, 80% lean meat / 20% fat, patty, cooked, broiled",42.16269841
+27510641,"Hamburger, 1 medium patty, with condiments, on white bun",23578,"Beef, ground, 75% lean meat / 25% fat, patty, cooked, broiled",42.16269841
+27510642,"Hamburger, 1 medium patty, with condiments, on wheat bun",23573,"Beef, ground, 80% lean meat / 20% fat, patty, cooked, broiled",42.16269841
+27510642,"Hamburger, 1 medium patty, with condiments, on wheat bun",23578,"Beef, ground, 75% lean meat / 25% fat, patty, cooked, broiled",42.16269841
+27510643,"Hamburger, 1 medium patty, with condiments, on whole wheat bun",23573,"Beef, ground, 80% lean meat / 20% fat, patty, cooked, broiled",42.16269841
+27510643,"Hamburger, 1 medium patty, with condiments, on whole wheat bun",23578,"Beef, ground, 75% lean meat / 25% fat, patty, cooked, broiled",42.16269841
+27520160,"Bacon, chicken, and tomato club sandwich, on multigrain roll with lettuce and spread",5064,"Chicken, broilers or fryers, breast, meat only, cooked, roasted",60
+27540200,"Fajita-style chicken sandwich with cheese, on pita bread, with lettuce and tomato",5014,"Chicken, broilers or fryers, meat only, stewed",56.7
+27540240,"Chicken fillet, broiled, sandwich, on whole wheat roll, with lettuce, tomato and spread",5064,"Chicken, broilers or fryers, breast, meat only, cooked, roasted",75
+27540250,"Chicken fillet, broiled, sandwich with cheese, on whole wheat roll, with lettuce, tomato and non-mayonnaise type spread",5064,"Chicken, broilers or fryers, breast, meat only, cooked, roasted",75
+27540260,"Chicken fillet, broiled, sandwich, on oat bran bun, with lettuce, tomato, spread",5064,"Chicken, broilers or fryers, breast, meat only, cooked, roasted",75
+27540330,"Turkey sandwich, with gravy",5168,"Turkey, whole, meat only, cooked, roasted",113.4
+28110340,"Salisbury steak with gravy, potatoes, vegetable, soup or macaroni and cheese, dessert, frozen meal",5009,"Chicken, broilers or fryers, meat and skin, cooked, roasted",2.3
+28110340,"Salisbury steak with gravy, potatoes, vegetable, soup or macaroni and cheese, dessert, frozen meal",23578,"Beef, ground, 75% lean meat / 25% fat, patty, cooked, broiled",70.8
+28110640,"Meatballs, Swedish, in sauce, with noodles, frozen meal",23580,"Beef, ground, 75% lean meat / 25% fat, crumbles, cooked, pan-browned",90.56
+28140150,"Chicken divan, frozen meal",5004,"Chicken, broilers or fryers, meat and skin and giblets and neck, roasted",45.8
+28140250,"Chicken, boneless, with gravy, dressing, rice, vegetable, dessert, frozen meal",5013,"Chicken, broilers or fryers, meat only, roasted",110
+28140730,"Chicken patty, breaded, with tomato sauce and cheese, fettuccine alfredo, vegetable, frozen meal",5064,"Chicken, broilers or fryers, breast, meat only, cooked, roasted",75.128
+28141050,"Chicken patty parmigiana, breaded, with vegetable, diet frozen meal",5052,"Chicken, broilers or fryers, back, meat and skin, cooked, stewed",49.72
+28141600,"Chicken a la king with rice, frozen meal",5000,"Chicken, broiler, rotisserie, BBQ, breast meat only",67.5
+28141600,"Chicken a la king with rice, frozen meal",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",27
+28141600,"Chicken a la king with rice, frozen meal",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",40.5
+28141610,"Chicken and vegetables in cream or white sauce, diet frozen meal",5014,"Chicken, broilers or fryers, meat only, stewed",76.54
+28143110,"Chicken cacciatore with noodles, diet frozen meal",5045,"Chicken, broilers or fryers, dark meat, meat only, cooked, roasted",61.6
+28143210,"Chicken in orange sauce with almond rice, diet frozen meal",5042,"Chicken, broilers or fryers, light meat, meat only, cooked, stewed",79.45
+28145610,"Turkey with gravy, dressing, potatoes, vegetable, dessert, frozen meal",5186,"Turkey, all classes, light meat, cooked, roasted",39.7
+28145710,"Turkey tetrazzini, frozen meal",5200,"Turkey, fryer-roasters, meat and skin, cooked, roasted",26.8
+28160650,"Stuffed green pepper, frozen meal",23580,"Beef, ground, 75% lean meat / 25% fat, crumbles, cooked, pan-browned",26.28
+28160710,"Stuffed cabbage, with meat and tomato sauce, diet frozen meal",23580,"Beef, ground, 75% lean meat / 25% fat, crumbles, cooked, pan-browned",36.6
+28345170,Duck soup,5141,"Duck, domesticated, meat only, raw",1865.5
+28500030,"Gravy, poultry, low sodium",6977,"Gravy, meat or poultry, low sodium, prepared",100
+28500060,"Gravy, beef or meat, low sodium",6977,"Gravy, meat or poultry, low sodium, prepared",100
+32202040,"Egg, cheese, and beef on English Muffin",23573,"Beef, ground, 80% lean meat / 20% fat, patty, cooked, broiled",31.7
+41210160,"Stewed pink beans with pig's feet, Puerto Rican style",10173,"Pork, fresh, variety meats and by-products, feet, cooked, simmered",390
+41210170,"Stewed red beans with pig's feet, Puerto Rican style",10173,"Pork, fresh, variety meats and by-products, feet, cooked, simmered",390
+41210190,"Stewed red beans with pig's feet and potatoes, Puerto Rican style",10173,"Pork, fresh, variety meats and by-products, feet, cooked, simmered",390.4
+41310200,"Chickpeas stewed with pig's feet, Puerto Rican style",10173,"Pork, fresh, variety meats and by-products, feet, cooked, simmered",390
+41812900,Vegetarian meat loaf,43137,Vegetarian meatloaf or patties,100
+58118110,"Cornstarch coconut dessert, Puerto Rican style",12117,"Nuts, coconut milk, raw (liquid expressed from grated meat and water)",960
+58126310,"Turnover, chicken, with gravy",5000,"Chicken, broiler, rotisserie, BBQ, breast meat only",67.5
+58126310,"Turnover, chicken, with gravy",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",27
+58126310,"Turnover, chicken, with gravy",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",40.5
+58127220,"Croissant sandwich, filled with chicken, broccoli, and cheese sauce",5013,"Chicken, broilers or fryers, meat only, roasted",28.25
+58146200,"Pasta, meat-filled, with gravy, canned",5014,"Chicken, broilers or fryers, meat only, stewed",29
+58157210,"Rice pudding made with coconut milk, Puerto Rican style",12117,"Nuts, coconut milk, raw (liquid expressed from grated meat and water)",720
+58160130,Rice with beans and chicken,5000,"Chicken, broiler, rotisserie, BBQ, breast meat only",112
+58160130,Rice with beans and chicken,5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",44.8
+58160130,Rice with beans and chicken,5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",67.2
+58200100,"Wrap sandwich, filled with meat, poultry, or fish, vegetables, and rice",5000,"Chicken, broiler, rotisserie, BBQ, breast meat only",42.525
+58200100,"Wrap sandwich, filled with meat, poultry, or fish, vegetables, and rice",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",17.01
+58200100,"Wrap sandwich, filled with meat, poultry, or fish, vegetables, and rice",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",25.515
+58200300,"Wrap sandwich, filled with meat, poultry, or fish, vegetables, rice, and cheese",5000,"Chicken, broiler, rotisserie, BBQ, breast meat only",35.4375
+58200300,"Wrap sandwich, filled with meat, poultry, or fish, vegetables, rice, and cheese",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",14.175
+58200300,"Wrap sandwich, filled with meat, poultry, or fish, vegetables, rice, and cheese",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",21.2625
+58304020,"Spaghetti and meatballs with tomato sauce, sliced apples, bread, frozen meal",23580,"Beef, ground, 75% lean meat / 25% fat, crumbles, cooked, pan-browned",55
+58304220,"Rigatoni with meat sauce and cheese, diet frozen meal",23575,"Beef, ground, 80% lean meat / 20% fat, crumbles, cooked, pan-browned",11.3
+58304300,"Cannelloni, cheese-filled, with tomato sauce, diet frozen meal",23570,"Beef, ground, 85% lean meat / 15% fat, crumbles, cooked, pan-browned",1.3
+58306100,"Chicken enchilada, diet frozen meal",5042,"Chicken, broilers or fryers, light meat, meat only, cooked, stewed",48.2
+58306200,"Chicken fajitas, diet frozen meal",5013,"Chicken, broilers or fryers, meat only, roasted",21.2
+58306500,"Chicken burritos, diet frozen meal",5014,"Chicken, broilers or fryers, meat only, stewed",27.3
+91723050,"Marshmallow, coconut-coated",12179,"Nuts, coconut meat, dried (desiccated), sweetened, shredded",15
+14650180,Alfredo sauce with poultry,5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",30
+14650185,Alfredo sauce with poultry and added vegetables,5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",30
+20000070,"Meat, baby food, NS as to type, NS as to strained or junior",3002,"Babyfood, meat, beef, strained",50
+20000070,"Meat, baby food, NS as to type, NS as to strained or junior",3012,"Babyfood, meat, chicken, strained",50
+20000090,"Meat sticks, baby food, NS as to type of meat",3021,"Babyfood, meat, meat sticks, junior",100
+20000200,"Ground meat, NFS",23563,"Beef, ground, 90% lean meat / 10% fat, patty, cooked, broiled",15
+20000200,"Ground meat, NFS",23568,"Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled",15
+20000200,"Ground meat, NFS",23573,"Beef, ground, 80% lean meat / 20% fat, patty, cooked, broiled",30
+20000200,"Ground meat, NFS",23578,"Beef, ground, 75% lean meat / 25% fat, patty, cooked, broiled",40
+21500310,"Ground beef patty, cooked",23573,"Beef, ground, 80% lean meat / 20% fat, patty, cooked, broiled",50
+21500310,"Ground beef patty, cooked",23578,"Beef, ground, 75% lean meat / 25% fat, patty, cooked, broiled",50
+21701000,"Beef, baby food, NS as to strained or junior",3002,"Babyfood, meat, beef, strained",50
+21701000,"Beef, baby food, NS as to strained or junior",3003,"Babyfood, meat, beef, junior",50
+21701010,"Beef, baby food, strained",3002,"Babyfood, meat, beef, strained",100
+21701020,"Beef, baby food, junior",3003,"Babyfood, meat, beef, junior",100
+22431000,"Pork roll, cured, fried",7908,"Luncheon meat, pork with ham, minced, canned, includes Spam (Hormel)",100
+22707010,"Pork, pig's feet, cooked",10173,"Pork, fresh, variety meats and by-products, feet, cooked, simmered",100
+22810010,"Ham, baby food, strained",3008,"Babyfood, meat, ham, strained",100
+22820000,"Meat stick, baby food",3021,"Babyfood, meat, meat sticks, junior",100
+23150100,"Goat, boiled",17169,"Game meat, goat, cooked, roasted",100
+23150200,"Goat, fried",17169,"Game meat, goat, cooked, roasted",100
+23150250,"Goat, baked",17169,"Game meat, goat, cooked, roasted",100
+23150270,"Goat head, cooked",13320,"Beef, variety meats and by-products, brain, cooked, simmered",33
+23150270,"Goat head, cooked",17169,"Game meat, goat, cooked, roasted",67
+23150300,"Goat ribs, cooked",17169,"Game meat, goat, cooked, roasted",100
+23310000,"Rabbit, NS as to domestic or wild, cooked",17179,"Game meat, rabbit, domesticated, composite of cuts, cooked, stewed",100
+23311100,"Rabbit, domestic, NS as to cooking method",17179,"Game meat, rabbit, domesticated, composite of cuts, cooked, stewed",100
+23311120,"Rabbit, NS as to domestic or wild, breaded, fried",17179,"Game meat, rabbit, domesticated, composite of cuts, cooked, stewed",100
+23311200,"Rabbit, wild, cooked",17181,"Game meat, rabbit, wild, cooked, stewed",100
+23321000,"Venison/deer, NFS",17346,"Game meat, deer, shoulder clod, separable lean only, cooked, braised",99.44311854
+23321050,"Venison/deer, cured",17346,"Game meat, deer, shoulder clod, separable lean only, cooked, braised",75
+23321100,"Venison/deer, roasted",17346,"Game meat, deer, shoulder clod, separable lean only, cooked, braised",75
+23321200,"Venison/deer steak, cooked, NS as to cooking method",17345,"Game meat, deer, loin, separable lean only, 1"" steak, cooked, broiled",76.5
+23321250,"Venison/deer steak, breaded or floured, cooked, NS as to cooking method",17345,"Game meat, deer, loin, separable lean only, 1"" steak, cooked, broiled",451.332
+23321900,Venison/deer jerky,17343,"Game meat, deer, ground, raw",100
+23322300,"Deer chop, cooked",17345,"Game meat, deer, loin, separable lean only, 1"" steak, cooked, broiled",76.5
+23322350,"Venison/deer ribs, cooked",17346,"Game meat, deer, shoulder clod, separable lean only, cooked, braised",75
+23322400,"Venison/deer, stewed",17346,"Game meat, deer, shoulder clod, separable lean only, cooked, braised",75
+23323100,"Moose, cooked",17173,"Game meat, moose, cooked, roasted",100
+23323500,"Bear, cooked",17147,"Game meat, bear, cooked, simmered",100
+23324100,"Caribou, cooked",17163,"Game meat, caribou, cooked, roasted",100
+23326100,"Bison, cooked",17157,"Game meat, bison, separable lean only, cooked, roasted",100
+23332100,"Opossum, cooked",17176,"Game meat, opossum, cooked, roasted",100
+23333100,"Squirrel, cooked",17184,"Game meat, squirrel, cooked, roasted",100
+23334100,"Beaver, cooked",17151,"Game meat, beaver, cooked, roasted",100
+23335100,"Raccoon, cooked",17182,"Game meat, raccoon, cooked, roasted",100
+23340100,"Armadillo, cooked",17159,"Game meat, boar, wild, cooked, roasted",100
+23345100,"Wild pig, smoked",17159,"Game meat, boar, wild, cooked, roasted",100
+23410010,"Lamb, baby food, strained",3010,"Babyfood, meat, lamb, strained",100
+23420010,"Veal, baby food, strained",3005,"Babyfood, meat, veal, strained",100
+24100000,"Chicken, NS as to part and cooking method, NS as to skin eaten",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",50
+24100000,"Chicken, NS as to part and cooking method, NS as to skin eaten",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",20
+24100000,"Chicken, NS as to part and cooking method, NS as to skin eaten",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",30
+24100010,"Chicken, NS as to part and cooking method, skin eaten",5358,"Chicken, broiler, rotisserie, BBQ, breast, meat and skin",50
+24100010,"Chicken, NS as to part and cooking method, skin eaten",5359,"Chicken, broiler, rotisserie, BBQ, drumstick, meat and skin",20
+24100010,"Chicken, NS as to part and cooking method, skin eaten",5361,"Chicken, broiler, rotisserie, BBQ, thigh, meat and skin",30
+24100020,"Chicken, NS as to part and cooking method, skin not eaten",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",50
+24100020,"Chicken, NS as to part and cooking method, skin not eaten",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",20
+24100020,"Chicken, NS as to part and cooking method, skin not eaten",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",30
+24102000,"Chicken, NS as to part, baked, broiled, or roasted, NS as to skin eaten",5062,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw",49.70178926
+24102000,"Chicken, NS as to part, baked, broiled, or roasted, NS as to skin eaten",5073,"Chicken, broilers or fryers, dark meat, drumstick, meat only, cooked, roasted",19.88071571
+24102000,"Chicken, NS as to part, baked, broiled, or roasted, NS as to skin eaten",5098,"Chicken, broilers or fryers, thigh, meat only, cooked, roasted",29.82107356
+24102010,"Chicken, NS as to part, baked, broiled, or roasted, skin eaten",5062,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw",42.24652087
+24102010,"Chicken, NS as to part, baked, broiled, or roasted, skin eaten",5069,"Chicken, broilers or fryers, drumstick, meat and skin, cooked, roasted",19.88071571
+24102010,"Chicken, NS as to part, baked, broiled, or roasted, skin eaten",5094,"Chicken, broilers or fryers, thigh, meat and skin, cooked, roasted",29.82107356
+24102020,"Chicken, NS as to part, baked, broiled, or roasted, skin not eaten",5062,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw",49.70178926
+24102020,"Chicken, NS as to part, baked, broiled, or roasted, skin not eaten",5073,"Chicken, broilers or fryers, dark meat, drumstick, meat only, cooked, roasted",19.88071571
+24102020,"Chicken, NS as to part, baked, broiled, or roasted, skin not eaten",5098,"Chicken, broilers or fryers, thigh, meat only, cooked, roasted",29.82107356
+24102050,"Chicken, NS as to part, rotisserie, NS as to skin eaten",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",50
+24102050,"Chicken, NS as to part, rotisserie, NS as to skin eaten",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",20
+24102050,"Chicken, NS as to part, rotisserie, NS as to skin eaten",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",30
+24102060,"Chicken, NS as to part, rotisserie, skin eaten",5358,"Chicken, broiler, rotisserie, BBQ, breast, meat and skin",50
+24102060,"Chicken, NS as to part, rotisserie, skin eaten",5359,"Chicken, broiler, rotisserie, BBQ, drumstick, meat and skin",20
+24102060,"Chicken, NS as to part, rotisserie, skin eaten",5361,"Chicken, broiler, rotisserie, BBQ, thigh, meat and skin",30
+24102070,"Chicken, NS as to part, rotisserie, skin not eaten",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",50
+24102070,"Chicken, NS as to part, rotisserie, skin not eaten",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",20
+24102070,"Chicken, NS as to part, rotisserie, skin not eaten",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",30
+24103000,"Chicken, NS as to part, stewed, NS as to skin eaten",5062,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw",49.70178926
+24103000,"Chicken, NS as to part, stewed, NS as to skin eaten",5671,"Chicken, broilers or fryers, drumstick, meat only, cooked, braised",19.84126984
+24103000,"Chicken, NS as to part, stewed, NS as to skin eaten",5672,"Chicken, broilers or fryers, dark meat, thigh, meat only, cooked, braised",29.76190476
+24103010,"Chicken, NS as to part, stewed, skin eaten",5062,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw",42.24652087
+24103010,"Chicken, NS as to part, stewed, skin eaten",5676,"Chicken, broilers or fryers, dark meat, drumstick, meat and skin, cooked, braised",19.84126984
+24103010,"Chicken, NS as to part, stewed, skin eaten",5677,"Chicken, broilers or fryers, dark meat, thigh, meat and skin, cooked, braised",29.76190476
+24103020,"Chicken, NS as to part, stewed, skin not eaten",5062,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw",49.70178926
+24103020,"Chicken, NS as to part, stewed, skin not eaten",5671,"Chicken, broilers or fryers, drumstick, meat only, cooked, braised",19.84126984
+24103020,"Chicken, NS as to part, stewed, skin not eaten",5672,"Chicken, broilers or fryers, dark meat, thigh, meat only, cooked, braised",29.76190476
+24103050,"Chicken, NS as to part, grilled without sauce, NS as to skin eaten",5062,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw",97.41550696
+24103050,"Chicken, NS as to part, grilled without sauce, NS as to skin eaten",5073,"Chicken, broilers or fryers, dark meat, drumstick, meat only, cooked, roasted",19.44444444
+24103050,"Chicken, NS as to part, grilled without sauce, NS as to skin eaten",5098,"Chicken, broilers or fryers, thigh, meat only, cooked, roasted",29.16666667
+24103055,"Chicken, NS as to part, grilled without sauce, skin eaten",5062,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw",82.80318091
+24103055,"Chicken, NS as to part, grilled without sauce, skin eaten",5069,"Chicken, broilers or fryers, drumstick, meat and skin, cooked, roasted",19.44444444
+24103055,"Chicken, NS as to part, grilled without sauce, skin eaten",5094,"Chicken, broilers or fryers, thigh, meat and skin, cooked, roasted",29.16666667
+24103060,"Chicken, NS as to part, grilled without sauce, skin not eaten",5062,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw",97.41550696
+24103060,"Chicken, NS as to part, grilled without sauce, skin not eaten",5073,"Chicken, broilers or fryers, dark meat, drumstick, meat only, cooked, roasted",19.44444444
+24103060,"Chicken, NS as to part, grilled without sauce, skin not eaten",5098,"Chicken, broilers or fryers, thigh, meat only, cooked, roasted",29.16666667
+24103070,"Chicken, NS as to part, grilled with sauce, NS as to skin eaten",5062,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw",79.52286282
+24103070,"Chicken, NS as to part, grilled with sauce, NS as to skin eaten",5073,"Chicken, broilers or fryers, dark meat, drumstick, meat only, cooked, roasted",15.87301587
+24103070,"Chicken, NS as to part, grilled with sauce, NS as to skin eaten",5098,"Chicken, broilers or fryers, thigh, meat only, cooked, roasted",23.80952381
+24103075,"Chicken, NS as to part, grilled with sauce, skin eaten",5062,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw",67.5944334
+24103075,"Chicken, NS as to part, grilled with sauce, skin eaten",5069,"Chicken, broilers or fryers, drumstick, meat and skin, cooked, roasted",15.87301587
+24103075,"Chicken, NS as to part, grilled with sauce, skin eaten",5094,"Chicken, broilers or fryers, thigh, meat and skin, cooked, roasted",23.80952381
+24103080,"Chicken, NS as to part, grilled with sauce, skin not eaten",5062,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw",79.52286282
+24103080,"Chicken, NS as to part, grilled with sauce, skin not eaten",5073,"Chicken, broilers or fryers, dark meat, drumstick, meat only, cooked, roasted",15.87301587
+24103080,"Chicken, NS as to part, grilled with sauce, skin not eaten",5098,"Chicken, broilers or fryers, thigh, meat only, cooked, roasted",23.80952381
+24104049,"Chicken, NS as to part, sauteed, skin eaten",5062,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw",82.80318091
+24104049,"Chicken, NS as to part, sauteed, skin eaten",5069,"Chicken, broilers or fryers, drumstick, meat and skin, cooked, roasted",19.44444444
+24104049,"Chicken, NS as to part, sauteed, skin eaten",5094,"Chicken, broilers or fryers, thigh, meat and skin, cooked, roasted",29.16666667
+24104051,"Chicken, NS as to part, sauteed, skin not eaten",5062,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw",97.41550696
+24104051,"Chicken, NS as to part, sauteed, skin not eaten",5073,"Chicken, broilers or fryers, dark meat, drumstick, meat only, cooked, roasted",19.44444444
+24104051,"Chicken, NS as to part, sauteed, skin not eaten",5098,"Chicken, broilers or fryers, thigh, meat only, cooked, roasted",29.16666667
+24107070,"Chicken, NS as to part, fried, coated, skin / coating eaten",21469,"Fast Foods, Fried Chicken, Breast, meat and skin and breading",50
+24107070,"Chicken, NS as to part, fried, coated, skin / coating eaten",21470,"Fast Foods, Fried Chicken, Drumstick, meat and skin with breading",20
+24107070,"Chicken, NS as to part, fried, coated, skin / coating eaten",21471,"Fast Foods, Fried Chicken, Thigh, meat and skin and breading",30
+24107071,"Chicken, NS as to part, fried, coated, skin / coating not eaten",21464,"Fast Foods, Fried Chicken, Breast, meat only, skin and breading removed",50
+24107071,"Chicken, NS as to part, fried, coated, skin / coating not eaten",21465,"Fast Foods, Fried Chicken, Drumstick, meat only, skin and breading removed",20
+24107071,"Chicken, NS as to part, fried, coated, skin / coating not eaten",21466,"Fast Foods, Fried Chicken, Thigh, meat only, skin and breading removed",30
+24107080,"Chicken, NS as to part, baked, coated, skin / coating eaten",21469,"Fast Foods, Fried Chicken, Breast, meat and skin and breading",50
+24107080,"Chicken, NS as to part, baked, coated, skin / coating eaten",21470,"Fast Foods, Fried Chicken, Drumstick, meat and skin with breading",20
+24107080,"Chicken, NS as to part, baked, coated, skin / coating eaten",21471,"Fast Foods, Fried Chicken, Thigh, meat and skin and breading",30
+24107081,"Chicken, NS as to part, baked, coated, skin / coating not eaten",21464,"Fast Foods, Fried Chicken, Breast, meat only, skin and breading removed",50
+24107081,"Chicken, NS as to part, baked, coated, skin / coating not eaten",21465,"Fast Foods, Fried Chicken, Drumstick, meat only, skin and breading removed",20
+24107081,"Chicken, NS as to part, baked, coated, skin / coating not eaten",21466,"Fast Foods, Fried Chicken, Thigh, meat only, skin and breading removed",30
+24120110,"Chicken breast, NS as to cooking method, skin eaten",5358,"Chicken, broiler, rotisserie, BBQ, breast, meat and skin",100
+24120120,"Chicken breast, NS as to cooking method, skin not eaten",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",100
+24122130,"Chicken breast, baked, broiled, or roasted, skin eaten, from raw",5062,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw",85
+24122131,"Chicken breast, baked, broiled, or roasted, skin not eaten, from raw",5062,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw",100
+24122140,"Chicken breast, baked or broiled, skin eaten, from pre-cooked",5358,"Chicken, broiler, rotisserie, BBQ, breast, meat and skin",100
+24122141,"Chicken breast, baked or broiled, skin not eaten, from pre-cooked",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",100
+24122150,"Chicken breast, baked or broiled, skin eaten, from fast food / restaurant",5062,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw",82.80318091
+24122151,"Chicken breast, baked or broiled, skin not eaten, from fast food / restaurant",5062,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw",97.41550696
+24122160,"Chicken breast, baked, broiled, or roasted with marinade, skin eaten, from raw",5062,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw",81.11332008
+24122161,"Chicken breast, baked, broiled, or roasted with marinade, skin not eaten, from raw",5062,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw",95.42743539
+24122170,"Chicken breast, rotisserie, skin eaten",5358,"Chicken, broiler, rotisserie, BBQ, breast, meat and skin",100
+24122171,"Chicken breast, rotisserie, skin not eaten",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",100
+24123110,"Chicken breast, stewed, skin eaten",5062,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw",85
+24123120,"Chicken breast, stewed, skin not eaten",5062,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw",100
+24123300,"Chicken breast, grilled without sauce, skin eaten",5062,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw",82.80318091
+24123301,"Chicken breast, grilled without sauce, skin not eaten",5062,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw",97.41550696
+24123310,"Chicken breast, grilled with sauce, skin eaten",5062,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw",67.5944334
+24123311,"Chicken breast, grilled with sauce, skin not eaten",5062,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw",79.52286282
+24124200,"Chicken breast, sauteed, skin eaten",5062,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw",82.80318091
+24124201,"Chicken breast, sauteed, skin not eaten",5062,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw",97.41550696
+24127200,"Chicken breast, fried, coated, skin / coating eaten, from raw",5062,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw",65.90457256
+24127201,"Chicken breast, fried, coated, skin / coating not eaten, from raw",5062,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw",97.41550696
+24127202,"Chicken breast, fried, coated, prepared skinless, coating eaten, from raw",5062,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw",77.53479125
+24127210,"Chicken breast, fried, coated, skin / coating eaten, from pre-cooked",5062,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw",62.52485089
+24127211,"Chicken breast, fried, coated, skin / coating not eaten, from pre-cooked",5062,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw",97.41550696
+24127220,"Chicken breast, fried, coated, skin / coating eaten, from fast food / restaurant",21469,"Fast Foods, Fried Chicken, Breast, meat and skin and breading",78
+24127221,"Chicken breast, fried, coated, skin / coating not eaten, from fast food / restaurant",21464,"Fast Foods, Fried Chicken, Breast, meat only, skin and breading removed",78
+24127500,"Chicken breast, baked, coated, skin / coating eaten",5062,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw",74.35387674
+24127501,"Chicken breast, baked, coated, skin / coating not eaten",5062,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw",97.41550696
+24130210,"Chicken leg, drumstick and thigh, NS as to cooking method, skin eaten",5359,"Chicken, broiler, rotisserie, BBQ, drumstick, meat and skin",40
+24130210,"Chicken leg, drumstick and thigh, NS as to cooking method, skin eaten",5361,"Chicken, broiler, rotisserie, BBQ, thigh, meat and skin",60
+24130220,"Chicken leg, drumstick and thigh, NS as to cooking method, skin not eaten",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",40
+24130220,"Chicken leg, drumstick and thigh, NS as to cooking method, skin not eaten",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",60
+24132230,"Chicken leg, drumstick and thigh, baked or broiled, skin eaten",5069,"Chicken, broilers or fryers, drumstick, meat and skin, cooked, roasted",40
+24132230,"Chicken leg, drumstick and thigh, baked or broiled, skin eaten",5094,"Chicken, broilers or fryers, thigh, meat and skin, cooked, roasted",60
+24132231,"Chicken leg, drumstick and thigh, baked or broiled, skin not eaten",5073,"Chicken, broilers or fryers, dark meat, drumstick, meat only, cooked, roasted",40
+24132231,"Chicken leg, drumstick and thigh, baked or broiled, skin not eaten",5098,"Chicken, broilers or fryers, thigh, meat only, cooked, roasted",60
+24132240,"Chicken leg, drumstick and thigh, rotisserie, skin eaten",5359,"Chicken, broiler, rotisserie, BBQ, drumstick, meat and skin",40
+24132240,"Chicken leg, drumstick and thigh, rotisserie, skin eaten",5361,"Chicken, broiler, rotisserie, BBQ, thigh, meat and skin",60
+24132241,"Chicken leg, drumstick and thigh, rotisserie, skin not eaten",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",40
+24132241,"Chicken leg, drumstick and thigh, rotisserie, skin not eaten",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",60
+24133210,"Chicken leg, drumstick and thigh, stewed, skin eaten",5676,"Chicken, broilers or fryers, dark meat, drumstick, meat and skin, cooked, braised",40
+24133210,"Chicken leg, drumstick and thigh, stewed, skin eaten",5677,"Chicken, broilers or fryers, dark meat, thigh, meat and skin, cooked, braised",60
+24133220,"Chicken leg, drumstick and thigh, stewed, skin not eaten",5671,"Chicken, broilers or fryers, drumstick, meat only, cooked, braised",40
+24133220,"Chicken leg, drumstick and thigh, stewed, skin not eaten",5672,"Chicken, broilers or fryers, dark meat, thigh, meat only, cooked, braised",60
+24134100,"Chicken leg, drumstick and thigh, grilled without sauce, skin eaten",5069,"Chicken, broilers or fryers, drumstick, meat and skin, cooked, roasted",39
+24134100,"Chicken leg, drumstick and thigh, grilled without sauce, skin eaten",5094,"Chicken, broilers or fryers, thigh, meat and skin, cooked, roasted",59
+24134101,"Chicken leg, drumstick and thigh, grilled without sauce, skin not eaten",5073,"Chicken, broilers or fryers, dark meat, drumstick, meat only, cooked, roasted",39
+24134101,"Chicken leg, drumstick and thigh, grilled without sauce, skin not eaten",5098,"Chicken, broilers or fryers, thigh, meat only, cooked, roasted",59
+24134150,"Chicken leg, drumstick and thigh, grilled with sauce, skin eaten",5069,"Chicken, broilers or fryers, drumstick, meat and skin, cooked, roasted",32
+24134150,"Chicken leg, drumstick and thigh, grilled with sauce, skin eaten",5094,"Chicken, broilers or fryers, thigh, meat and skin, cooked, roasted",48
+24134151,"Chicken leg, drumstick and thigh, grilled with sauce, skin not eaten",5073,"Chicken, broilers or fryers, dark meat, drumstick, meat only, cooked, roasted",32
+24134151,"Chicken leg, drumstick and thigh, grilled with sauce, skin not eaten",5098,"Chicken, broilers or fryers, thigh, meat only, cooked, roasted",48
+24134300,"Chicken leg, drumstick and thigh, sauteed, skin eaten",5069,"Chicken, broilers or fryers, drumstick, meat and skin, cooked, roasted",39
+24134300,"Chicken leg, drumstick and thigh, sauteed, skin eaten",5094,"Chicken, broilers or fryers, thigh, meat and skin, cooked, roasted",59
+24134301,"Chicken leg, drumstick and thigh, sauteed, skin not eaten",5073,"Chicken, broilers or fryers, dark meat, drumstick, meat only, cooked, roasted",39
+24134301,"Chicken leg, drumstick and thigh, sauteed, skin not eaten",5098,"Chicken, broilers or fryers, thigh, meat only, cooked, roasted",59
+24137300,"Chicken leg, drumstick and thigh, fried, coated, skin / coating eaten",5069,"Chicken, broilers or fryers, drumstick, meat and skin, cooked, roasted",31
+24137300,"Chicken leg, drumstick and thigh, fried, coated, skin / coating eaten",5094,"Chicken, broilers or fryers, thigh, meat and skin, cooked, roasted",47
+24137301,"Chicken leg, drumstick and thigh, fried, coated, skin / coating not eaten",5073,"Chicken, broilers or fryers, dark meat, drumstick, meat only, cooked, roasted",39
+24137301,"Chicken leg, drumstick and thigh, fried, coated, skin / coating not eaten",5098,"Chicken, broilers or fryers, thigh, meat only, cooked, roasted",59
+24137310,"Chicken leg, drumstick and thigh, baked, coated, skin / coating eaten",5069,"Chicken, broilers or fryers, drumstick, meat and skin, cooked, roasted",35
+24137310,"Chicken leg, drumstick and thigh, baked, coated, skin / coating eaten",5094,"Chicken, broilers or fryers, thigh, meat and skin, cooked, roasted",53
+24137311,"Chicken leg, drumstick and thigh, baked, coated, skin / coating not eaten",5073,"Chicken, broilers or fryers, dark meat, drumstick, meat only, cooked, roasted",39
+24137311,"Chicken leg, drumstick and thigh, baked, coated, skin / coating not eaten",5098,"Chicken, broilers or fryers, thigh, meat only, cooked, roasted",59
+24140210,"Chicken drumstick, NS as to cooking method, skin eaten",5359,"Chicken, broiler, rotisserie, BBQ, drumstick, meat and skin",100
+24140220,"Chicken drumstick, NS as to cooking method, skin not eaten",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",100
+24142300,"Chicken drumstick, baked, broiled, or roasted, skin eaten, from raw",5069,"Chicken, broilers or fryers, drumstick, meat and skin, cooked, roasted",100
+24142301,"Chicken drumstick, baked, broiled, or roasted, skin not eaten, from raw",5073,"Chicken, broilers or fryers, dark meat, drumstick, meat only, cooked, roasted",100
+24142310,"Chicken drumstick, baked or broiled, skin eaten, from pre-cooked",5359,"Chicken, broiler, rotisserie, BBQ, drumstick, meat and skin",100
+24142311,"Chicken drumstick, baked or broiled, skin not eaten, from pre-cooked",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",100
+24142320,"Chicken drumstick, baked or broiled, skin eaten, from fast food / restaurant",5069,"Chicken, broilers or fryers, drumstick, meat and skin, cooked, roasted",98
+24142321,"Chicken drumstick, baked or broiled, skin not eaten, from fast food / restaurant",5073,"Chicken, broilers or fryers, dark meat, drumstick, meat only, cooked, roasted",98
+24142400,"Chicken drumstick, rotisserie, skin eaten",5359,"Chicken, broiler, rotisserie, BBQ, drumstick, meat and skin",100
+24142401,"Chicken drumstick, rotisserie, skin not eaten",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",100
+24142500,"Chicken drumstick, grilled without sauce, skin eaten",5069,"Chicken, broilers or fryers, drumstick, meat and skin, cooked, roasted",98
+24142501,"Chicken drumstick, grilled without sauce, skin not eaten",5073,"Chicken, broilers or fryers, dark meat, drumstick, meat only, cooked, roasted",98
+24142510,"Chicken drumstick, grilled with sauce, skin eaten",5069,"Chicken, broilers or fryers, drumstick, meat and skin, cooked, roasted",80
+24142511,"Chicken drumstick, grilled with sauce, skin not eaten",5073,"Chicken, broilers or fryers, dark meat, drumstick, meat only, cooked, roasted",80
+24143210,"Chicken drumstick, stewed, skin eaten",5676,"Chicken, broilers or fryers, dark meat, drumstick, meat and skin, cooked, braised",100
+24143220,"Chicken drumstick, stewed, skin not eaten",5671,"Chicken, broilers or fryers, drumstick, meat only, cooked, braised",100
+24144300,"Chicken drumstick, sauteed, skin eaten",5069,"Chicken, broilers or fryers, drumstick, meat and skin, cooked, roasted",98
+24144301,"Chicken drumstick, sauteed, skin not eaten",5073,"Chicken, broilers or fryers, dark meat, drumstick, meat only, cooked, roasted",98
+24147300,"Chicken drumstick, fried, coated, skin / coating eaten, from raw",5069,"Chicken, broilers or fryers, drumstick, meat and skin, cooked, roasted",78
+24147301,"Chicken drumstick, fried, coated, skin / coating not eaten, from raw",5073,"Chicken, broilers or fryers, dark meat, drumstick, meat only, cooked, roasted",98
+24147302,"Chicken drumstick, fried, coated, prepared skinless, coating eaten, from raw",5073,"Chicken, broilers or fryers, dark meat, drumstick, meat only, cooked, roasted",78
+24147310,"Chicken drumstick, fried, coated, skin / coating eaten, from pre-cooked",5069,"Chicken, broilers or fryers, drumstick, meat and skin, cooked, roasted",74
+24147311,"Chicken drumstick, fried, coated, skin / coating not eaten, from pre-cooked",5073,"Chicken, broilers or fryers, dark meat, drumstick, meat only, cooked, roasted",98
+24147320,"Chicken drumstick, fried, coated, skin / coating eaten, from fast food / restaurant",21470,"Fast Foods, Fried Chicken, Drumstick, meat and skin with breading",78
+24147321,"Chicken drumstick, fried, coated, skin / coating not eaten, from fast food / restaurant",21465,"Fast Foods, Fried Chicken, Drumstick, meat only, skin and breading removed",78
+24147400,"Chicken drumstick, baked, coated, skin / coating eaten",5069,"Chicken, broilers or fryers, drumstick, meat and skin, cooked, roasted",88
+24147401,"Chicken drumstick, baked, coated, skin / coating not eaten",5073,"Chicken, broilers or fryers, dark meat, drumstick, meat only, cooked, roasted",98
+24150210,"Chicken thigh, NS as to cooking method, skin eaten",5361,"Chicken, broiler, rotisserie, BBQ, thigh, meat and skin",100
+24150220,"Chicken thigh, NS as to cooking method, skin not eaten",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",100
+24152230,"Chicken thigh, baked, broiled, or roasted, skin eaten, from raw",5094,"Chicken, broilers or fryers, thigh, meat and skin, cooked, roasted",100
+24152231,"Chicken thigh, baked, broiled, or roasted, skin not eaten, from raw",5098,"Chicken, broilers or fryers, thigh, meat only, cooked, roasted",100
+24152240,"Chicken thigh, baked or broiled, skin eaten, from pre-cooked",5361,"Chicken, broiler, rotisserie, BBQ, thigh, meat and skin",100
+24152241,"Chicken thigh, baked or broiled, skin not eaten, from pre-cooked",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",100
+24152250,"Chicken thigh, baked or broiled, skin eaten, from fast food / restaurant",5094,"Chicken, broilers or fryers, thigh, meat and skin, cooked, roasted",98
+24152251,"Chicken thigh, baked or broiled, skin not eaten, from fast food / restaurant",5098,"Chicken, broilers or fryers, thigh, meat only, cooked, roasted",98
+24152300,"Chicken thigh, rotisserie, skin eaten",5361,"Chicken, broiler, rotisserie, BBQ, thigh, meat and skin",100
+24152301,"Chicken thigh, rotisserie, skin not eaten",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",100
+24153210,"Chicken thigh, stewed, skin eaten",5677,"Chicken, broilers or fryers, dark meat, thigh, meat and skin, cooked, braised",100
+24153220,"Chicken thigh, stewed, skin not eaten",5672,"Chicken, broilers or fryers, dark meat, thigh, meat only, cooked, braised",100
+24154010,"Chicken thigh, grilled without sauce, skin eaten",5094,"Chicken, broilers or fryers, thigh, meat and skin, cooked, roasted",98
+24154011,"Chicken thigh, grilled without sauce, skin not eaten",5098,"Chicken, broilers or fryers, thigh, meat only, cooked, roasted",98
+24154020,"Chicken thigh, grilled with sauce, skin eaten",5094,"Chicken, broilers or fryers, thigh, meat and skin, cooked, roasted",80
+24154021,"Chicken thigh, grilled with sauce, skin not eaten",5098,"Chicken, broilers or fryers, thigh, meat only, cooked, roasted",80
+24154300,"Chicken thigh, sauteed, skin eaten",5094,"Chicken, broilers or fryers, thigh, meat and skin, cooked, roasted",98
+24154301,"Chicken thigh, sauteed, skin not eaten",5098,"Chicken, broilers or fryers, thigh, meat only, cooked, roasted",98
+24157300,"Chicken thigh, fried, coated, skin / coating eaten, from raw",5094,"Chicken, broilers or fryers, thigh, meat and skin, cooked, roasted",78
+24157301,"Chicken thigh, fried, coated, skin / coating not eaten, from raw",5098,"Chicken, broilers or fryers, thigh, meat only, cooked, roasted",98
+24157302,"Chicken thigh, fried, coated, prepared skinless, coating eaten, from raw",5098,"Chicken, broilers or fryers, thigh, meat only, cooked, roasted",78
+24157310,"Chicken thigh, fried, coated, skin / coating eaten, from pre-cooked",5094,"Chicken, broilers or fryers, thigh, meat and skin, cooked, roasted",74
+24157311,"Chicken thigh, fried, coated, skin / coating not eaten, from pre-cooked",5098,"Chicken, broilers or fryers, thigh, meat only, cooked, roasted",98
+24157320,"Chicken thigh, fried, coated, skin / coating eaten, from fast food",21471,"Fast Foods, Fried Chicken, Thigh, meat and skin and breading",78
+24157321,"Chicken thigh, fried, coated, skin / coating not eaten, from fast food",21466,"Fast Foods, Fried Chicken, Thigh, meat only, skin and breading removed",78
+24157330,"Chicken thigh, fried, coated, skin / coating eaten, from restaurant",21471,"Fast Foods, Fried Chicken, Thigh, meat and skin and breading",78
+24157331,"Chicken thigh, fried, coated, skin / coating not eaten, from restaurant",21466,"Fast Foods, Fried Chicken, Thigh, meat only, skin and breading removed",78
+24157400,"Chicken thigh, baked, coated, skin / coating eaten",5094,"Chicken, broilers or fryers, thigh, meat and skin, cooked, roasted",88
+24157401,"Chicken thigh, baked, coated, skin / coating not eaten",5098,"Chicken, broilers or fryers, thigh, meat only, cooked, roasted",98
+24160110,"Chicken wing, NS as to cooking method",5362,"Chicken, broiler, rotisserie, BBQ, wing, meat and skin",100
+24162130,"Chicken wing, baked, broiled, or roasted, from raw",5103,"Chicken, broilers or fryers, wing, meat and skin, cooked, roasted",100
+24162140,"Chicken wing, baked or broiled, from pre-cooked",5362,"Chicken, broiler, rotisserie, BBQ, wing, meat and skin",100
+24162150,"Chicken wing, baked or broiled, from fast food / restaurant",5103,"Chicken, broilers or fryers, wing, meat and skin, cooked, roasted",98
+24162200,"Chicken wing, rotisserie",5362,"Chicken, broiler, rotisserie, BBQ, wing, meat and skin",100
+24163110,"Chicken wing, stewed",5104,"Chicken, broilers or fryers, wing, meat and skin, cooked, stewed",100
+24164000,"Chicken wing, grilled without sauce",5103,"Chicken, broilers or fryers, wing, meat and skin, cooked, roasted",98
+24164010,"Chicken wing, grilled with sauce",5103,"Chicken, broilers or fryers, wing, meat and skin, cooked, roasted",80
+24164200,"Chicken wing, sauteed",5103,"Chicken, broilers or fryers, wing, meat and skin, cooked, roasted",98
+24167200,"Chicken wing, fried, coated, from raw",5103,"Chicken, broilers or fryers, wing, meat and skin, cooked, roasted",78
+24167210,"Chicken wing, fried, coated, from pre-cooked",5103,"Chicken, broilers or fryers, wing, meat and skin, cooked, roasted",74
+24167220,"Chicken wing, fried, coated, from fast food",21472,"Fast Foods, Fried Chicken, Wing, meat and skin and breading",78
+24167230,"Chicken wing, fried, coated, from restaurant",21472,"Fast Foods, Fried Chicken, Wing, meat and skin and breading",78
+24167300,"Chicken wing, baked, coated",5103,"Chicken, broilers or fryers, wing, meat and skin, cooked, roasted",88
+24168000,"Chicken ""wings"" with hot sauce, from fast food / restaurant",5362,"Chicken, broiler, rotisserie, BBQ, wing, meat and skin",40
+24168000,"Chicken ""wings"" with hot sauce, from fast food / restaurant",21472,"Fast Foods, Fried Chicken, Wing, meat and skin and breading",35
+24168001,"Chicken ""wings"" with other sauces or seasoning, from fast food / restaurant",5362,"Chicken, broiler, rotisserie, BBQ, wing, meat and skin",40
+24168001,"Chicken ""wings"" with other sauces or seasoning, from fast food / restaurant",21472,"Fast Foods, Fried Chicken, Wing, meat and skin and breading",35
+24168002,"Chicken ""wings"", plain, from fast food / restaurant",21472,"Fast Foods, Fried Chicken, Wing, meat and skin and breading",79.34893184
+24168010,"Chicken ""wings"" with hot sauce, from precooked",5362,"Chicken, broiler, rotisserie, BBQ, wing, meat and skin",75
+24168011,"Chicken ""wings"" with other sauces or seasoning, from precooked",5362,"Chicken, broiler, rotisserie, BBQ, wing, meat and skin",75
+24168012,"Chicken ""wings"", plain, from precooked",5103,"Chicken, broilers or fryers, wing, meat and skin, cooked, roasted",73.33994054
+24168020,"Chicken ""wings"" with hot sauce, from other sources",5362,"Chicken, broiler, rotisserie, BBQ, wing, meat and skin",50.19880716
+24168020,"Chicken ""wings"" with hot sauce, from other sources",21472,"Fast Foods, Fried Chicken, Wing, meat and skin and breading",24.35387674
+24168021,"Chicken ""wings"" with other sauces or seasoning, from other sources",5362,"Chicken, broiler, rotisserie, BBQ, wing, meat and skin",50.5
+24168021,"Chicken ""wings"" with other sauces or seasoning, from other sources",21472,"Fast Foods, Fried Chicken, Wing, meat and skin and breading",24.5
+24168022,"Chicken ""wings"", plain, from other sources",5103,"Chicken, broilers or fryers, wing, meat and skin, cooked, roasted",73.33994054
+24168022,"Chicken ""wings"", plain, from other sources",21472,"Fast Foods, Fried Chicken, Wing, meat and skin and breading",79.34893184
+24170200,"Chicken, back",5051,"Chicken, broilers or fryers, back, meat and skin, cooked, roasted",100
+24180200,"Chicken, neck or ribs",5087,"Chicken, broilers or fryers, neck, meat and skin, cooked simmered",100
+24198670,"Chicken, chicken roll, roasted",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",49.8
+24198670,"Chicken, chicken roll, roasted",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",19.92
+24198670,"Chicken, chicken roll, roasted",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",29.88
+24198683,"Chicken fillet, grilled",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",80
+24198736,"Chicken nuggets, from frozen",22974,"Chicken, nuggets, dark and white meat, precooked, frozen, not reheated",100
+24198737,"Chicken nuggets, from other sources",22974,"Chicken, nuggets, dark and white meat, precooked, frozen, not reheated",30
+24198840,"Fried chicken chunks, Puerto Rican style",5091,"Chicken, broilers or fryers, thigh, meat and skin, raw",552
+24201000,"Turkey, NFS",5186,"Turkey, all classes, light meat, cooked, roasted",66
+24201000,"Turkey, NFS",5697,"Turkey from whole, light meat, meat only, with added solution, cooked, roasted",34
+24201020,"Turkey, light meat, skin not eaten",5186,"Turkey, all classes, light meat, cooked, roasted",66
+24201020,"Turkey, light meat, skin not eaten",5697,"Turkey from whole, light meat, meat only, with added solution, cooked, roasted",34
+24201030,"Turkey, light meat, skin eaten",5182,"Turkey, whole, light meat, meat and skin, cooked, roasted",66
+24201030,"Turkey, light meat, skin eaten",5703,"Turkey from whole, light meat, meat and skin, with added solution, cooked, roasted",34
+24201060,"Turkey, light meat, breaded, baked or fried, skin not eaten",5186,"Turkey, all classes, light meat, cooked, roasted",66
+24201060,"Turkey, light meat, breaded, baked or fried, skin not eaten",5697,"Turkey from whole, light meat, meat only, with added solution, cooked, roasted",34
+24201070,"Turkey, light meat, breaded, baked or fried, skin eaten",5182,"Turkey, whole, light meat, meat and skin, cooked, roasted",66
+24201070,"Turkey, light meat, breaded, baked or fried, skin eaten",5703,"Turkey from whole, light meat, meat and skin, with added solution, cooked, roasted",34
+24201120,"Turkey, light meat, roasted, skin not eaten",5186,"Turkey, all classes, light meat, cooked, roasted",66
+24201120,"Turkey, light meat, roasted, skin not eaten",5697,"Turkey from whole, light meat, meat only, with added solution, cooked, roasted",34
+24201130,"Turkey, light meat, roasted, skin eaten",5182,"Turkey, whole, light meat, meat and skin, cooked, roasted",66
+24201130,"Turkey, light meat, roasted, skin eaten",5703,"Turkey from whole, light meat, meat and skin, with added solution, cooked, roasted",34
+24201220,"Turkey, dark meat, roasted, skin not eaten",5188,"Turkey, whole, dark meat, cooked, roasted",66
+24201220,"Turkey, dark meat, roasted, skin not eaten",5695,"Turkey, dark meat, meat only, with added solution, cooked, roasted",34
+24201230,"Turkey, dark meat, roasted, skin eaten",5184,"Turkey, whole, dark meat, meat and skin, cooked, roasted",66
+24201230,"Turkey, dark meat, roasted, skin eaten",5701,"Turkey, dark meat from whole, meat and skin, with added solution, cooked, roasted",34
+24201320,"Turkey, light and dark meat, roasted, skin not eaten",5168,"Turkey, whole, meat only, cooked, roasted",66
+24201320,"Turkey, light and dark meat, roasted, skin not eaten",5705,"Turkey, whole, meat only, with added solution, roasted",34
+24201330,"Turkey, light and dark meat, roasted, skin eaten",5166,"Turkey, whole, meat and skin, cooked, roasted",66
+24201330,"Turkey, light and dark meat, roasted, skin eaten",5707,"Turkey, whole, meat and skin, with added solution, roasted",34
+24201360,"Turkey, light or dark meat, fried, coated, skin not eaten",5168,"Turkey, whole, meat only, cooked, roasted",66
+24201360,"Turkey, light or dark meat, fried, coated, skin not eaten",5705,"Turkey, whole, meat only, with added solution, roasted",34
+24201370,"Turkey, light or dark meat, fried, coated, skin eaten",5166,"Turkey, whole, meat and skin, cooked, roasted",66
+24201370,"Turkey, light or dark meat, fried, coated, skin eaten",5707,"Turkey, whole, meat and skin, with added solution, roasted",34
+24201410,"Turkey, light or dark meat, stewed, skin not eaten",5167,"Turkey, whole, meat only, raw",100
+24201420,"Turkey light or dark meat, stewed, skin eaten",5165,"Turkey, whole, meat and skin, raw",66
+24201420,"Turkey light or dark meat, stewed, skin eaten",5727,"Turkey, retail parts, breast, meat and skin, with added solution, raw",34
+24201510,"Turkey, light or dark meat, smoked, skin eaten",43390,"Turkey, light or dark meat, smoked, cooked, with skin, bone removed",100
+24201520,"Turkey, light or dark meat, smoked, skin not eaten",43391,"Turkey, light or dark meat, smoked, cooked, skin and bone removed",100
+24202010,"Turkey, drumstick, cooked, skin not eaten",5725,"Turkey, drumstick, from whole bird, meat only, with added solution, roasted",34
+24202010,"Turkey, drumstick, cooked, skin not eaten",5739,"Turkey, drumstick, from whole bird, meat only, roasted",66
+24202020,"Turkey, drumstick, cooked, skin eaten",5194,"Turkey, all classes, leg, meat and skin, cooked, roasted",100
+24202060,"Turkey, drumstick, roasted, skin not eaten",5725,"Turkey, drumstick, from whole bird, meat only, with added solution, roasted",34
+24202060,"Turkey, drumstick, roasted, skin not eaten",5739,"Turkey, drumstick, from whole bird, meat only, roasted",66
+24202070,"Turkey, drumstick, roasted, skin eaten",5194,"Turkey, all classes, leg, meat and skin, cooked, roasted",66
+24202070,"Turkey, drumstick, roasted, skin eaten",5701,"Turkey, dark meat from whole, meat and skin, with added solution, cooked, roasted",34
+24202460,"Turkey, thigh, cooked, skin eaten",5728,"Turkey, thigh, from whole bird, meat only, with added solution, roasted",31
+24202460,"Turkey, thigh, cooked, skin eaten",5743,"Turkey, retail parts, thigh, meat and skin, cooked, roasted",66
+24202500,"Turkey, thigh, cooked, skin not eaten",5728,"Turkey, thigh, from whole bird, meat only, with added solution, roasted",34
+24202500,"Turkey, thigh, cooked, skin not eaten",5741,"Turkey, thigh, from whole bird, meat only, roasted",66
+24202600,"Turkey, neck",5180,"Turkey, whole, neck, meat only, cooked, simmered",100
+24203010,"Turkey, wing, cooked, skin not eaten",5228,"Turkey, whole, wing, meat only, cooked, roasted",66
+24203010,"Turkey, wing, cooked, skin not eaten",5730,"Turkey, wing, from whole bird, meat only, with added solution, roasted",34
+24203020,"Turkey, wing, cooked, skin eaten",5196,"Turkey, all classes, wing, meat and skin, cooked, roasted",66
+24203020,"Turkey, wing, cooked, skin eaten",5730,"Turkey, wing, from whole bird, meat only, with added solution, roasted",31
+24205000,"Turkey, tail",5745,"Turkey, back, from whole bird, meat and skin, with added solution, roasted",100
+24205100,"Turkey, back",5745,"Turkey, back, from whole bird, meat and skin, with added solution, roasted",100
+24208000,"Turkey, nuggets",5705,"Turkey, whole, meat only, with added solution, roasted",75
+24209000,"Turkey with barbecue sauce, skin eaten",5695,"Turkey, dark meat, meat only, with added solution, cooked, roasted",20
+24209000,"Turkey with barbecue sauce, skin eaten",5697,"Turkey from whole, light meat, meat only, with added solution, cooked, roasted",35
+24209001,"Turkey with barbecue sauce, skin not eaten",5695,"Turkey, dark meat, meat only, with added solution, cooked, roasted",30
+24209001,"Turkey with barbecue sauce, skin not eaten",5697,"Turkey from whole, light meat, meat only, with added solution, cooked, roasted",40
+24300110,"Duck, cooked, skin eaten",5140,"Duck, domesticated, meat and skin, cooked, roasted",100
+24300120,"Duck, cooked, skin not eaten",5142,"Duck, domesticated, meat only, cooked, roasted",100
+24301010,"Duck, roasted, skin eaten",5140,"Duck, domesticated, meat and skin, cooked, roasted",100
+24301020,"Duck, roasted, skin not eaten",5142,"Duck, domesticated, meat only, cooked, roasted",100
+24302010,"Duck, pressed, Chinese",5140,"Duck, domesticated, meat and skin, cooked, roasted",198.45
+24311010,"Goose, wild, roasted",5147,"Goose, domesticated, meat and skin, cooked, roasted",100
+24400010,"Cornish game hen, cooked, skin eaten",5308,"Chicken, cornish game hens, meat and skin, cooked, roasted",100
+24400020,"Cornish game hen, cooked, skin not eaten",5310,"Chicken, cornish game hens, meat only, cooked, roasted",100
+24401010,"Cornish game hen, roasted, skin eaten",5308,"Chicken, cornish game hens, meat and skin, cooked, roasted",100
+24401020,"Cornish game hen, roasted, skin not eaten",5310,"Chicken, cornish game hens, meat only, cooked, roasted",100
+24701000,"Chicken, baby food, NS as to strained or junior",3012,"Babyfood, meat, chicken, strained",50
+24701000,"Chicken, baby food, NS as to strained or junior",3013,"Babyfood, meat, chicken, junior",50
+24701010,"Chicken, baby food, strained",3012,"Babyfood, meat, chicken, strained",100
+24701020,"Chicken, baby food, junior",3013,"Babyfood, meat, chicken, junior",100
+24703000,"Turkey, baby food, NS as to strained or junior",3015,"Babyfood, meat, turkey, strained",50
+24703000,"Turkey, baby food, NS as to strained or junior",3016,"Babyfood, meat, turkey, junior",50
+24703010,"Turkey, baby food, strained",3015,"Babyfood, meat, turkey, strained",100
+24703020,"Turkey, baby food, junior",3016,"Babyfood, meat, turkey, junior",100
+24705010,"Chicken stick, baby food",3014,"Babyfood, meat, chicken sticks, junior",100
+24706010,"Turkey stick, baby food",3017,"Babyfood, meat, turkey sticks, junior",100
+25110120,"Beef liver, braised",13326,"Beef, variety meats and by-products, liver, cooked, braised",100
+25110140,"Beef liver, fried",13327,"Beef, variety meats and by-products, liver, cooked, pan-fried",100
+25120000,"Heart, cooked",13322,"Beef, variety meats and by-products, heart, cooked, simmered",100
+25130000,"Kidney, cooked",13324,"Beef, variety meats and by-products, kidneys, cooked, simmered",100
+25140110,"Sweetbreads, cooked",17219,"Veal, variety meats and by-products, thymus, cooked, braised",100
+25150000,"Brains, cooked",13320,"Beef, variety meats and by-products, brain, cooked, simmered",100
+25160000,"Tongue, cooked",13340,"Beef, variety meats and by-products, tongue, cooked, simmered",100
+25160110,"Tongue, smoked, cured, or pickled, cooked",13340,"Beef, variety meats and by-products, tongue, cooked, simmered",100
+25160130,"Tongue pot roast, Puerto Rican style",13340,"Beef, variety meats and by-products, tongue, cooked, simmered",647.5
+25170110,"Tripe, cooked",13341,"Beef, variety meats and by-products, tripe, raw",100
+25170210,"Chitterlings, cooked",10099,"Pork, fresh, variety meats and by-products, chitterlings, cooked, simmered",100
+25170310,"Hog maws, cooked",10119,"Pork, fresh, variety meats and by-products, stomach, raw",100
+25210150,"Frankfurter or hot dog, cheese-filled",7962,"Frankfurter, meat and poultry, unheated",90
+25210220,"Frankfurter or hot dog, beef and pork",7962,"Frankfurter, meat and poultry, unheated",100
+25210240,"Frankfurter or hot dog, beef and pork, reduced fat or light",7962,"Frankfurter, meat and poultry, unheated",100
+25210280,"Frankfurter or hot dog, meat and poultry",7962,"Frankfurter, meat and poultry, unheated",100
+25210290,"Frankfurter or hot dog, meat and poultry, reduced fat or light",42280,"Frankfurter, meat and poultry, low fat",100
+25210620,"Frankfurter or hot dog, beef, reduced fat or light",42280,"Frankfurter, meat and poultry, low fat",100
+25210750,"Frankfurter or hot dog, reduced fat or light, NFS",42280,"Frankfurter, meat and poultry, low fat",100
+25220410,"Bologna, NFS",7971,"Bologna, meat and poultry",100
+25220435,"Bologna, made from any kind of meat, reduced sodium",907971,"REDUCED SODIUM: Bologna, meat and poultry",100
+25230110,"Luncheon meat, NFS",7028,"Ham, sliced, pre-packaged, deli meat (96%fat free, water added)",100
+25230210,"Ham, prepackaged or deli, luncheon meat",7028,"Ham, sliced, pre-packaged, deli meat (96%fat free, water added)",100
+25230220,"Ham, prepackaged or deli, luncheon meat, reduced sodium",907028,"REDUCED SODIUM: Ham, sliced, pre-packaged, deli meat (96%fat free, water added)",100
+25230530,"Ham and pork, canned luncheon meat, chopped, minced, pressed, spiced",7908,"Luncheon meat, pork with ham, minced, canned, includes Spam (Hormel)",100
+25230540,"Ham, pork and chicken, canned luncheon meat, chopped, minced, pressed, spiced, reduced fat and reduced sodium",7906,"Luncheon meat, pork, ham, and chicken, minced, canned, reduced sodium, added ascorbic acid, includes SPAM, 25% less sodium",100
+25230550,"Ham, pork, and chicken, canned luncheon meat, chopped, minced, pressed, spiced, reduced sodium",7906,"Luncheon meat, pork, ham, and chicken, minced, canned, reduced sodium, added ascorbic acid, includes SPAM, 25% less sodium",100
+27111405,"Chili con carne with beans, from restaurant",36037,"Restaurant, family style, chili with meat and beans",100
+27113300,Swedish meatballs with cream or white sauce,23575,"Beef, ground, 80% lean meat / 20% fat, crumbles, cooked, pan-browned",362.88
+27116100,Beef curry,12117,"Nuts, coconut milk, raw (liquid expressed from grated meat and water)",2.8
+27116110,Beef curry with rice,12117,"Nuts, coconut milk, raw (liquid expressed from grated meat and water)",2.8
+27116400,Steak tartare,23567,"Beef, ground, 85% lean meat / 15% fat, raw (Includes foods for USDA's Food Distribution Program)",680.4
+27133010,"Stewed goat, Puerto Rican style",17169,"Game meat, goat, cooked, roasted",680
+27135150,Veal cordon bleu,7028,"Ham, sliced, pre-packaged, deli meat (96%fat free, water added)",113
+27136050,Venison or deer with tomato-based sauce,17346,"Game meat, deer, shoulder clod, separable lean only, cooked, braised",70
+27136080,Venison or deer with gravy,17346,"Game meat, deer, shoulder clod, separable lean only, cooked, braised",70
+27136100,Chili con carne with venison/deer and beans,17344,"Game meat, deer, ground, cooked, pan-broiled",340.2
+27141000,Chicken or turkey cacciatore,21469,"Fast Foods, Fried Chicken, Breast, meat and skin and breading",445
+27141000,Chicken or turkey cacciatore,21470,"Fast Foods, Fried Chicken, Drumstick, meat and skin with breading",178
+27141000,Chicken or turkey cacciatore,21471,"Fast Foods, Fried Chicken, Thigh, meat and skin and breading",267
+27141030,Spaghetti sauce with poultry,5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",30
+27141035,Spaghetti sauce with poultry and added vegetables,5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",30
+27141050,"Stewed chicken with tomato-based sauce, Mexican style",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",290
+27141050,"Stewed chicken with tomato-based sauce, Mexican style",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",116
+27141050,"Stewed chicken with tomato-based sauce, Mexican style",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",174
+27142000,Chicken with gravy,5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",35
+27142000,Chicken with gravy,5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",14
+27142000,Chicken with gravy,5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",21
+27142100,Chicken or turkey fricassee,5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",270
+27142100,Chicken or turkey fricassee,5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",108
+27142100,Chicken or turkey fricassee,5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",162
+27142200,Turkey with gravy,5168,"Turkey, whole, meat only, cooked, roasted",70
+27143000,Chicken or turkey with cream sauce,5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",35
+27143000,Chicken or turkey with cream sauce,5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",14
+27143000,Chicken or turkey with cream sauce,5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",21
+27144000,Chicken or turkey with mushroom sauce,5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",35
+27144000,Chicken or turkey with mushroom sauce,5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",14
+27144000,Chicken or turkey with mushroom sauce,5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",21
+27145000,Chicken or turkey with teriyaki,5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",45
+27145000,Chicken or turkey with teriyaki,5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",18
+27145000,Chicken or turkey with teriyaki,5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",27
+27146011,"Chicken, shredded or pulled, with barbecue sauce",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",35
+27146011,"Chicken, shredded or pulled, with barbecue sauce",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",14
+27146011,"Chicken, shredded or pulled, with barbecue sauce",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",21
+27146150,Chicken curry,5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",10
+27146150,Chicken curry,5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",4
+27146150,Chicken curry,5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",6
+27146150,Chicken curry,12117,"Nuts, coconut milk, raw (liquid expressed from grated meat and water)",2.8
+27146155,Chicken curry with rice,5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",10
+27146155,Chicken curry with rice,5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",4
+27146155,Chicken curry with rice,5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",6
+27146155,Chicken curry with rice,12117,"Nuts, coconut milk, raw (liquid expressed from grated meat and water)",2.8
+27146160,Chicken with mole sauce,5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",35
+27146160,Chicken with mole sauce,5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",14
+27146160,Chicken with mole sauce,5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",21
+27146200,Chicken or turkey with cheese sauce,5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",35
+27146200,Chicken or turkey with cheese sauce,5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",14
+27146200,Chicken or turkey with cheese sauce,5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",21
+27146250,Chicken or turkey cordon bleu,5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",680.4
+27146250,Chicken or turkey cordon bleu,7028,"Ham, sliced, pre-packaged, deli meat (96%fat free, water added)",113
+27146300,Chicken or turkey parmigiana,5062,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw",510.3
+27146300,Chicken or turkey parmigiana,5314,"Chicken, broilers or fryers, breast, skinless, boneless, meat only, with added solution, raw",170.1
+27146400,Chicken kiev,21469,"Fast Foods, Fried Chicken, Breast, meat and skin and breading",90.3
+27148010,"Stuffed chicken, drumstick or breast, Puerto Rican style",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",354
+27148010,"Stuffed chicken, drumstick or breast, Puerto Rican style",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",141.6
+27148010,"Stuffed chicken, drumstick or breast, Puerto Rican style",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",212.4
+27150320,Fish curry,12117,"Nuts, coconut milk, raw (liquid expressed from grated meat and water)",2.8
+27150325,Fish curry with rice,12117,"Nuts, coconut milk, raw (liquid expressed from grated meat and water)",2.8
+27161010,"Meat loaf, Puerto Rican style",23572,"Beef, ground, 80% lean meat / 20% fat, raw",226.8
+27212050,Beef and macaroni with cheese sauce,43212,"Bacon bits, meatless",4
+27212100,Beef and noodles with tomato-based sauce,23562,"Beef, ground, 90% lean meat / 10% fat, raw",453.6
+27214100,Meat loaf made with beef,23575,"Beef, ground, 80% lean meat / 20% fat, crumbles, cooked, pan-browned",428.652
+27214110,"Meat loaf made with beef, with tomato-based sauce",23575,"Beef, ground, 80% lean meat / 20% fat, crumbles, cooked, pan-browned",428.652
+27221100,"Stewed pig's feet, Puerto Rican style",10173,"Pork, fresh, variety meats and by-products, feet, cooked, simmered",520
+27235000,Meat loaf made with venison/deer,17343,"Game meat, deer, ground, raw",680.4
+27236000,Venison or deer and noodles with cream or white sauce,17346,"Game meat, deer, shoulder clod, separable lean only, cooked, braised",15
+27241000,Chicken or turkey hash,5168,"Turkey, whole, meat only, cooked, roasted",140
+27241010,Chicken or turkey and potatoes with gravy,5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",67.5
+27241010,Chicken or turkey and potatoes with gravy,5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",27
+27241010,Chicken or turkey and potatoes with gravy,5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",40.5
+27242000,"Chicken or turkey and noodles, no sauce",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",7.5
+27242000,"Chicken or turkey and noodles, no sauce",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",3
+27242000,"Chicken or turkey and noodles, no sauce",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",4.5
+27242200,Chicken or turkey and noodles with gravy,5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",7.5
+27242200,Chicken or turkey and noodles with gravy,5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",3
+27242200,Chicken or turkey and noodles with gravy,5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",4.5
+27242250,Chicken or turkey and noodles with mushroom sauce,5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",7.5
+27242250,Chicken or turkey and noodles with mushroom sauce,5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",3
+27242250,Chicken or turkey and noodles with mushroom sauce,5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",4.5
+27242300,Chicken or turkey and noodles with cream or white sauce,5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",7.5
+27242300,Chicken or turkey and noodles with cream or white sauce,5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",3
+27242300,Chicken or turkey and noodles with cream or white sauce,5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",4.5
+27242310,Chicken or turkey and noodles with cheese sauce,5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",7.5
+27242310,Chicken or turkey and noodles with cheese sauce,5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",3
+27242310,Chicken or turkey and noodles with cheese sauce,5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",4.5
+27242350,Chicken or turkey tetrazzini,5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",992.25
+27242400,Chicken or turkey and noodles with tomato-based sauce,5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",7.5
+27242400,Chicken or turkey and noodles with tomato-based sauce,5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",3
+27242400,Chicken or turkey and noodles with tomato-based sauce,5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",4.5
+27242500,Chicken or turkey and noodles with soy-based sauce,5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",170.1
+27242500,Chicken or turkey and noodles with soy-based sauce,5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",68.04
+27242500,Chicken or turkey and noodles with soy-based sauce,5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",102.06
+27243000,"Chicken or turkey and rice, no sauce",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",7.5
+27243000,"Chicken or turkey and rice, no sauce",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",3
+27243000,"Chicken or turkey and rice, no sauce",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",4.5
+27243100,Biryani with chicken,5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",288
+27243100,Biryani with chicken,5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",115.2
+27243100,Biryani with chicken,5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",172.8
+27243300,Chicken or turkey and rice with cream sauce,5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",135
+27243300,Chicken or turkey and rice with cream sauce,5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",54
+27243300,Chicken or turkey and rice with cream sauce,5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",81
+27243400,Chicken or turkey and rice with mushroom sauce,5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",7.5
+27243400,Chicken or turkey and rice with mushroom sauce,5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",3
+27243400,Chicken or turkey and rice with mushroom sauce,5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",4.5
+27243500,Chicken or turkey and rice with tomato-based sauce,5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",7.5
+27243500,Chicken or turkey and rice with tomato-based sauce,5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",3
+27243500,Chicken or turkey and rice with tomato-based sauce,5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",4.5
+27243600,Chicken or turkey and rice with soy-based sauce,5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",170.1
+27243600,Chicken or turkey and rice with soy-based sauce,5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",68.04
+27243600,Chicken or turkey and rice with soy-based sauce,5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",102.06
+27246100,Chicken or turkey with dumplings,5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",756
+27246100,Chicken or turkey with dumplings,5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",302.4
+27246100,Chicken or turkey with dumplings,5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",453.6
+27246200,Chicken or turkey with stuffing,5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",504
+27246200,Chicken or turkey with stuffing,5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",201.6
+27246200,Chicken or turkey with stuffing,5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",302.4
+27246300,"Chicken or turkey cake, patty, or croquette",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",181.5
+27246300,"Chicken or turkey cake, patty, or croquette",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",72.6
+27246300,"Chicken or turkey cake, patty, or croquette",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",108.9
+27246400,Chicken or turkey souffle,5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",67.5
+27246400,Chicken or turkey souffle,5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",27
+27246400,Chicken or turkey souffle,5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",40.5
+27260010,"Meat loaf, NS as to type of meat",23575,"Beef, ground, 80% lean meat / 20% fat, crumbles, cooked, pan-browned",428.652
+27260050,"Meatballs, with breading, NS as to type of meat, with gravy",23575,"Beef, ground, 80% lean meat / 20% fat, crumbles, cooked, pan-browned",428.652
+27260080,Meat loaf made with beef and pork,23575,"Beef, ground, 80% lean meat / 20% fat, crumbles, cooked, pan-browned",317.52
+27260090,"Meat loaf made with beef, veal and pork",23575,"Beef, ground, 80% lean meat / 20% fat, crumbles, cooked, pan-browned",317.52
+27260100,"Meat loaf made with beef and pork, with tomato-based sauce",23575,"Beef, ground, 80% lean meat / 20% fat, crumbles, cooked, pan-browned",317.52
+27260510,Liver dumpling,13326,"Beef, variety meats and by-products, liver, cooked, braised",307.994
+27261000,"Breaded brains, Puerto Rican style",13320,"Beef, variety meats and by-products, brain, cooked, simmered",262.5
+27261500,"Stewed, seasoned, ground beef and pork with potatoes, Mexican style",23572,"Beef, ground, 80% lean meat / 20% fat, raw",454
+27313110,Beef chow mein or chop suey with noodles,36624,"Restaurant, Chinese, vegetable chow mein, without meat or noodles",680.4
+27320310,Pork chow mein or chop suey with noodles,36624,"Restaurant, Chinese, vegetable chow mein, without meat or noodles",680.4
+27335100,Rabbit stew with potatoes and vegetables,17179,"Game meat, rabbit, domesticated, composite of cuts, cooked, stewed",822.25
+27335500,"Stewed rabbit, Puerto Rican style,",17179,"Game meat, rabbit, domesticated, composite of cuts, cooked, stewed",1134
+27336100,"Venison or deer stew with potatoes and vegetables including carrots, broccoli, and/or dark-green leafy; tomato-based sauce",17346,"Game meat, deer, shoulder clod, separable lean only, cooked, braised",255.15
+27336150,"Venison or deer stew with potatoes and vegetables excluding carrots, broccoli, and dark-green leafy; tomato-based sauce",17346,"Game meat, deer, shoulder clod, separable lean only, cooked, braised",255.15
+27336200,"Venison or deer, potatoes, and vegetables including carrots, broccoli, and/or dark-green leafy; gravy",17346,"Game meat, deer, shoulder clod, separable lean only, cooked, braised",15
+27336250,"Venison or deer, potatoes, and vegetables excluding carrots, broccoli, and dark-green leafy; gravy",17346,"Game meat, deer, shoulder clod, separable lean only, cooked, braised",15
+27336300,"Venison or deer, noodles, and vegetables including carrots, broccoli, and/or dark-green leafy; tomato-based sauce",17346,"Game meat, deer, shoulder clod, separable lean only, cooked, braised",15
+27336310,"Venison or deer, noodles, and vegetables excluding carrots, broccoli, and dark-green leafy; tomato-based sauce",17346,"Game meat, deer, shoulder clod, separable lean only, cooked, braised",15
+27341010,"Chicken or turkey, potatoes, and vegetables including carrots, broccoli, and/or dark-green leafy; no sauce",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",7.5
+27341010,"Chicken or turkey, potatoes, and vegetables including carrots, broccoli, and/or dark-green leafy; no sauce",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",3
+27341010,"Chicken or turkey, potatoes, and vegetables including carrots, broccoli, and/or dark-green leafy; no sauce",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",4.5
+27341020,"Chicken or turkey, potatoes, and vegetables excluding carrots, broccoli, and dark-green leafy; no sauce",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",7.5
+27341020,"Chicken or turkey, potatoes, and vegetables excluding carrots, broccoli, and dark-green leafy; no sauce",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",3
+27341020,"Chicken or turkey, potatoes, and vegetables excluding carrots, broccoli, and dark-green leafy; no sauce",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",4.5
+27341025,"Chicken or turkey, potatoes, and vegetables including carrots, broccoli, and/or dark-green leafy; gravy",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",7.5
+27341025,"Chicken or turkey, potatoes, and vegetables including carrots, broccoli, and/or dark-green leafy; gravy",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",3
+27341025,"Chicken or turkey, potatoes, and vegetables including carrots, broccoli, and/or dark-green leafy; gravy",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",4.5
+27341030,"Chicken or turkey, potatoes, and vegetables excluding carrots, broccoli, and dark-green leafy; gravy",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",7.5
+27341030,"Chicken or turkey, potatoes, and vegetables excluding carrots, broccoli, and dark-green leafy; gravy",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",3
+27341030,"Chicken or turkey, potatoes, and vegetables excluding carrots, broccoli, and dark-green leafy; gravy",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",4.5
+27341035,"Chicken or turkey, potatoes, and vegetables including carrots, broccoli, and/or dark-green leafy; cream sauce, white sauce, or mushroom sauce",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",7.5
+27341035,"Chicken or turkey, potatoes, and vegetables including carrots, broccoli, and/or dark-green leafy; cream sauce, white sauce, or mushroom sauce",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",3
+27341035,"Chicken or turkey, potatoes, and vegetables including carrots, broccoli, and/or dark-green leafy; cream sauce, white sauce, or mushroom sauce",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",4.5
+27341040,"Chicken or turkey, potatoes, and vegetables excluding carrots, broccoli, and dark-green leafy; cream sauce, white sauce, or mushroom sauce",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",7.5
+27341040,"Chicken or turkey, potatoes, and vegetables excluding carrots, broccoli, and dark-green leafy; cream sauce, white sauce, or mushroom sauce",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",3
+27341040,"Chicken or turkey, potatoes, and vegetables excluding carrots, broccoli, and dark-green leafy; cream sauce, white sauce, or mushroom sauce",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",4.5
+27341045,"Chicken or turkey, potatoes, and vegetables including carrots, broccoli, and/or dark-green leafy; cheese sauce",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",7.5
+27341045,"Chicken or turkey, potatoes, and vegetables including carrots, broccoli, and/or dark-green leafy; cheese sauce",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",3
+27341045,"Chicken or turkey, potatoes, and vegetables including carrots, broccoli, and/or dark-green leafy; cheese sauce",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",4.5
+27341050,"Chicken or turkey, potatoes, and vegetables excluding carrots, broccoli, and dark-green leafy; cheese sauce",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",7.5
+27341050,"Chicken or turkey, potatoes, and vegetables excluding carrots, broccoli, and dark-green leafy; cheese sauce",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",3
+27341050,"Chicken or turkey, potatoes, and vegetables excluding carrots, broccoli, and dark-green leafy; cheese sauce",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",4.5
+27341055,"Chicken or turkey, potatoes, and vegetables including carrots, broccoli, and/or dark-green leafy; tomato-based sauce",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",7.5
+27341055,"Chicken or turkey, potatoes, and vegetables including carrots, broccoli, and/or dark-green leafy; tomato-based sauce",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",3
+27341055,"Chicken or turkey, potatoes, and vegetables including carrots, broccoli, and/or dark-green leafy; tomato-based sauce",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",4.5
+27341060,"Chicken or turkey, potatoes, and vegetables excluding carrots, broccoli, and dark-green leafy; tomato-based sauce",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",7.5
+27341060,"Chicken or turkey, potatoes, and vegetables excluding carrots, broccoli, and dark-green leafy; tomato-based sauce",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",3
+27341060,"Chicken or turkey, potatoes, and vegetables excluding carrots, broccoli, and dark-green leafy; tomato-based sauce",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",4.5
+27341310,"Chicken or turkey stew with potatoes and vegetables including carrots, broccoli, and/or dark-green leafy; gravy",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",126
+27341310,"Chicken or turkey stew with potatoes and vegetables including carrots, broccoli, and/or dark-green leafy; gravy",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",50.4
+27341310,"Chicken or turkey stew with potatoes and vegetables including carrots, broccoli, and/or dark-green leafy; gravy",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",75.6
+27341320,"Chicken or turkey stew with potatoes and vegetables excluding carrots, broccoli, and dark-green leafy; gravy",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",126
+27341320,"Chicken or turkey stew with potatoes and vegetables excluding carrots, broccoli, and dark-green leafy; gravy",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",50.4
+27341320,"Chicken or turkey stew with potatoes and vegetables excluding carrots, broccoli, and dark-green leafy; gravy",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",75.6
+27341510,"Chicken or turkey stew with potatoes and vegetables including carrots, broccoli, and/or dark-green leafy; tomato-based sauce",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",126
+27341510,"Chicken or turkey stew with potatoes and vegetables including carrots, broccoli, and/or dark-green leafy; tomato-based sauce",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",50.4
+27341510,"Chicken or turkey stew with potatoes and vegetables including carrots, broccoli, and/or dark-green leafy; tomato-based sauce",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",75.6
+27341520,"Chicken or turkey stew with potatoes and vegetables excluding carrots, broccoli, and dark-green leafy; tomato- based sauce",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",126
+27341520,"Chicken or turkey stew with potatoes and vegetables excluding carrots, broccoli, and dark-green leafy; tomato- based sauce",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",50.4
+27341520,"Chicken or turkey stew with potatoes and vegetables excluding carrots, broccoli, and dark-green leafy; tomato- based sauce",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",75.6
+27343010,"Chicken or turkey, noodles, and vegetables including carrots, broccoli, and/or dark-green leafy; no sauce",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",7.5
+27343010,"Chicken or turkey, noodles, and vegetables including carrots, broccoli, and/or dark-green leafy; no sauce",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",3
+27343010,"Chicken or turkey, noodles, and vegetables including carrots, broccoli, and/or dark-green leafy; no sauce",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",4.5
+27343020,"Chicken or turkey, noodles, and vegetables excluding carrots, broccoli, and dark-green leafy; no sauce",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",7.5
+27343020,"Chicken or turkey, noodles, and vegetables excluding carrots, broccoli, and dark-green leafy; no sauce",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",3
+27343020,"Chicken or turkey, noodles, and vegetables excluding carrots, broccoli, and dark-green leafy; no sauce",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",4.5
+27343410,"Chicken or turkey, noodles, and vegetables including carrots, broccoli, and/or dark-green leafy; gravy",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",7.5
+27343410,"Chicken or turkey, noodles, and vegetables including carrots, broccoli, and/or dark-green leafy; gravy",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",3
+27343410,"Chicken or turkey, noodles, and vegetables including carrots, broccoli, and/or dark-green leafy; gravy",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",4.5
+27343420,"Chicken or turkey, noodles, and vegetables excluding carrots, broccoli, and dark-green leafy; gravy",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",7.5
+27343420,"Chicken or turkey, noodles, and vegetables excluding carrots, broccoli, and dark-green leafy; gravy",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",3
+27343420,"Chicken or turkey, noodles, and vegetables excluding carrots, broccoli, and dark-green leafy; gravy",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",4.5
+27343470,"Chicken or turkey, noodles, and vegetables including carrots, broccoli, and/or dark-green leafy; cream sauce, white sauce, or mushroom sauce",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",7.5
+27343470,"Chicken or turkey, noodles, and vegetables including carrots, broccoli, and/or dark-green leafy; cream sauce, white sauce, or mushroom sauce",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",3
+27343470,"Chicken or turkey, noodles, and vegetables including carrots, broccoli, and/or dark-green leafy; cream sauce, white sauce, or mushroom sauce",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",4.5
+27343480,"Chicken or turkey, noodles, and vegetables excluding carrots, broccoli, and/or dark-green leafy; cream sauce, white sauce, or mushroom sauce",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",7.5
+27343480,"Chicken or turkey, noodles, and vegetables excluding carrots, broccoli, and/or dark-green leafy; cream sauce, white sauce, or mushroom sauce",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",3
+27343480,"Chicken or turkey, noodles, and vegetables excluding carrots, broccoli, and/or dark-green leafy; cream sauce, white sauce, or mushroom sauce",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",4.5
+27343510,"Chicken or turkey, noodles, and vegetables including carrots, broccoli, and/or dark-green leafy; tomato-based sauce",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",7.5
+27343510,"Chicken or turkey, noodles, and vegetables including carrots, broccoli, and/or dark-green leafy; tomato-based sauce",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",3
+27343510,"Chicken or turkey, noodles, and vegetables including carrots, broccoli, and/or dark-green leafy; tomato-based sauce",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",4.5
+27343520,"Chicken or turkey, noodles, and vegetables excluding carrots, broccoli, and dark-green leafy; tomato-based sauce",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",7.5
+27343520,"Chicken or turkey, noodles, and vegetables excluding carrots, broccoli, and dark-green leafy; tomato-based sauce",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",3
+27343520,"Chicken or turkey, noodles, and vegetables excluding carrots, broccoli, and dark-green leafy; tomato-based sauce",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",4.5
+27343910,Chicken or turkey chow mein or chop suey with noodles,5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",168.75
+27343910,Chicken or turkey chow mein or chop suey with noodles,5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",67.5
+27343910,Chicken or turkey chow mein or chop suey with noodles,5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",101.25
+27343910,Chicken or turkey chow mein or chop suey with noodles,36624,"Restaurant, Chinese, vegetable chow mein, without meat or noodles",680.4
+27343950,"Chicken or turkey, noodles, and vegetables including carrots, broccoli, and/or dark-green leafy; cheese sauce",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",7.5
+27343950,"Chicken or turkey, noodles, and vegetables including carrots, broccoli, and/or dark-green leafy; cheese sauce",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",3
+27343950,"Chicken or turkey, noodles, and vegetables including carrots, broccoli, and/or dark-green leafy; cheese sauce",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",4.5
+27343960,"Chicken or turkey, noodles, and vegetables excluding carrots, broccoli, and dark-green leafy; cheese sauce",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",7.5
+27343960,"Chicken or turkey, noodles, and vegetables excluding carrots, broccoli, and dark-green leafy; cheese sauce",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",3
+27343960,"Chicken or turkey, noodles, and vegetables excluding carrots, broccoli, and dark-green leafy; cheese sauce",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",4.5
+27345010,"Chicken or turkey, rice, and vegetables including carrots, broccoli, and/or dark-green leafy; no sauce",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",7.5
+27345010,"Chicken or turkey, rice, and vegetables including carrots, broccoli, and/or dark-green leafy; no sauce",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",3
+27345010,"Chicken or turkey, rice, and vegetables including carrots, broccoli, and/or dark-green leafy; no sauce",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",4.5
+27345020,"Chicken or turkey, rice, and vegetables excluding carrots, broccoli, and dark-green leafy; no sauce",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",7.5
+27345020,"Chicken or turkey, rice, and vegetables excluding carrots, broccoli, and dark-green leafy; no sauce",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",3
+27345020,"Chicken or turkey, rice, and vegetables excluding carrots, broccoli, and dark-green leafy; no sauce",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",4.5
+27345210,"Chicken or turkey, rice, and vegetables including carrots, broccoli, and/or dark-green leafy; gravy",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",7.5
+27345210,"Chicken or turkey, rice, and vegetables including carrots, broccoli, and/or dark-green leafy; gravy",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",3
+27345210,"Chicken or turkey, rice, and vegetables including carrots, broccoli, and/or dark-green leafy; gravy",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",4.5
+27345220,"Chicken or turkey, rice, and vegetables excluding carrots, broccoli, and dark-green leafy; gravy",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",7.5
+27345220,"Chicken or turkey, rice, and vegetables excluding carrots, broccoli, and dark-green leafy; gravy",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",3
+27345220,"Chicken or turkey, rice, and vegetables excluding carrots, broccoli, and dark-green leafy; gravy",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",4.5
+27345230,"Chicken or turkey, rice, corn, and cheese, with gravy",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",2.5
+27345230,"Chicken or turkey, rice, corn, and cheese, with gravy",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",1
+27345230,"Chicken or turkey, rice, corn, and cheese, with gravy",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",1.5
+27345310,"Chicken or turkey, rice, and vegetables including carrots, broccoli, and/or dark-green leafy; soy-based sauce",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",170.1
+27345310,"Chicken or turkey, rice, and vegetables including carrots, broccoli, and/or dark-green leafy; soy-based sauce",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",68.04
+27345310,"Chicken or turkey, rice, and vegetables including carrots, broccoli, and/or dark-green leafy; soy-based sauce",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",102.06
+27345320,"Chicken or turkey, rice, and vegetables excluding carrots, broccoli, and dark-green leafy; soy-based sauce",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",170.1
+27345320,"Chicken or turkey, rice, and vegetables excluding carrots, broccoli, and dark-green leafy; soy-based sauce",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",68.04
+27345320,"Chicken or turkey, rice, and vegetables excluding carrots, broccoli, and dark-green leafy; soy-based sauce",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",102.06
+27345410,"Chicken or turkey, rice, and vegetables including carrots, broccoli, and/or dark-green leafy; cream sauce, white sauce, or mushroom sauce",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",7.5
+27345410,"Chicken or turkey, rice, and vegetables including carrots, broccoli, and/or dark-green leafy; cream sauce, white sauce, or mushroom sauce",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",3
+27345410,"Chicken or turkey, rice, and vegetables including carrots, broccoli, and/or dark-green leafy; cream sauce, white sauce, or mushroom sauce",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",4.5
+27345420,"Chicken or turkey, rice, and vegetables excluding carrots, broccoli, and dark-green leafy; cream sauce, white sauce, or mushroom sauce",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",7.5
+27345420,"Chicken or turkey, rice, and vegetables excluding carrots, broccoli, and dark-green leafy; cream sauce, white sauce, or mushroom sauce",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",3
+27345420,"Chicken or turkey, rice, and vegetables excluding carrots, broccoli, and dark-green leafy; cream sauce, white sauce, or mushroom sauce",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",4.5
+27345440,"Chicken or turkey, rice, and vegetables including carrots, broccoli, and/or dark-green leafy; cheese sauce",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",7.5
+27345440,"Chicken or turkey, rice, and vegetables including carrots, broccoli, and/or dark-green leafy; cheese sauce",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",3
+27345440,"Chicken or turkey, rice, and vegetables including carrots, broccoli, and/or dark-green leafy; cheese sauce",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",4.5
+27345450,"Chicken or turkey, rice, and vegetables excluding carrots, broccoli, and dark-green leafy; cheese sauce",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",7.5
+27345450,"Chicken or turkey, rice, and vegetables excluding carrots, broccoli, and dark-green leafy; cheese sauce",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",3
+27345450,"Chicken or turkey, rice, and vegetables excluding carrots, broccoli, and dark-green leafy; cheese sauce",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",4.5
+27345510,"Chicken or turkey, rice, and vegetables including carrots, broccoli, and/or dark-green leafy; tomato-based sauce",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",7.5
+27345510,"Chicken or turkey, rice, and vegetables including carrots, broccoli, and/or dark-green leafy; tomato-based sauce",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",3
+27345510,"Chicken or turkey, rice, and vegetables including carrots, broccoli, and/or dark-green leafy; tomato-based sauce",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",4.5
+27345520,"Chicken or turkey, rice, and vegetables excluding carrots, broccoli, and dark-green leafy; tomato-based sauce",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",7.5
+27345520,"Chicken or turkey, rice, and vegetables excluding carrots, broccoli, and dark-green leafy; tomato-based sauce",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",3
+27345520,"Chicken or turkey, rice, and vegetables excluding carrots, broccoli, and dark-green leafy; tomato-based sauce",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",4.5
+27347200,"Chicken or turkey, stuffing, and vegetables including carrots, broccoli, and/or dark-green leafy; no sauce",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",7.5
+27347200,"Chicken or turkey, stuffing, and vegetables including carrots, broccoli, and/or dark-green leafy; no sauce",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",3
+27347200,"Chicken or turkey, stuffing, and vegetables including carrots, broccoli, and/or dark-green leafy; no sauce",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",4.5
+27347210,"Chicken or turkey,stuffing, and vegetables excluding carrots, broccoli, and dark green leafy; no sauce",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",7.5
+27347210,"Chicken or turkey,stuffing, and vegetables excluding carrots, broccoli, and dark green leafy; no sauce",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",3
+27347210,"Chicken or turkey,stuffing, and vegetables excluding carrots, broccoli, and dark green leafy; no sauce",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",4.5
+27347220,"Chicken or turkey, stuffing, and vegetables including carrots, broccoli, and/or dark-green leafy; gravy",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",7.5
+27347220,"Chicken or turkey, stuffing, and vegetables including carrots, broccoli, and/or dark-green leafy; gravy",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",3
+27347220,"Chicken or turkey, stuffing, and vegetables including carrots, broccoli, and/or dark-green leafy; gravy",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",4.5
+27347230,"Chicken or turkey, stuffing, and vegetables excluding carrots, broccoli, and dark-green leafy; gravy",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",7.5
+27347230,"Chicken or turkey, stuffing, and vegetables excluding carrots, broccoli, and dark-green leafy; gravy",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",3
+27347230,"Chicken or turkey, stuffing, and vegetables excluding carrots, broccoli, and dark-green leafy; gravy",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",4.5
+27347240,"Chicken or turkey, dumplings, and vegetables including carrots, broccoli, and/or dark green leafy; gravy",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",7.5
+27347240,"Chicken or turkey, dumplings, and vegetables including carrots, broccoli, and/or dark green leafy; gravy",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",3
+27347240,"Chicken or turkey, dumplings, and vegetables including carrots, broccoli, and/or dark green leafy; gravy",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",4.5
+27347250,"Chicken or turkey, dumplings, and vegetables excluding carrots, broccoli, and dark green leafy; gravy",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",7.5
+27347250,"Chicken or turkey, dumplings, and vegetables excluding carrots, broccoli, and dark green leafy; gravy",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",3
+27347250,"Chicken or turkey, dumplings, and vegetables excluding carrots, broccoli, and dark green leafy; gravy",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",4.5
+27348100,"Chicken fricassee, Puerto Rican style",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",269
+27348100,"Chicken fricassee, Puerto Rican style",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",107.6
+27348100,"Chicken fricassee, Puerto Rican style",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",161.4
+27350020,Paella with seafood,5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",135
+27350020,Paella with seafood,5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",54
+27350020,Paella with seafood,5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",81
+27350050,Shrimp chow mein or chop suey with noodles,36624,"Restaurant, Chinese, vegetable chow mein, without meat or noodles",680.4
+27360080,"Chow mein or chop suey, NS as to type of meat, with noodles",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",168.75
+27360080,"Chow mein or chop suey, NS as to type of meat, with noodles",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",67.5
+27360080,"Chow mein or chop suey, NS as to type of meat, with noodles",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",101.25
+27360080,"Chow mein or chop suey, NS as to type of meat, with noodles",36624,"Restaurant, Chinese, vegetable chow mein, without meat or noodles",680.4
+27360090,"Paella, NFS",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",135
+27360090,"Paella, NFS",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",54
+27360090,"Paella, NFS",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",81
+27360100,Brunswick stew,5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",340.2
+27360100,Brunswick stew,5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",136.08
+27360100,Brunswick stew,5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",204.12
+27360120,"Chow mein or chop suey, various types of meat, with noodles",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",56.25
+27360120,"Chow mein or chop suey, various types of meat, with noodles",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",22.5
+27360120,"Chow mein or chop suey, various types of meat, with noodles",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",33.75
+27360120,"Chow mein or chop suey, various types of meat, with noodles",36624,"Restaurant, Chinese, vegetable chow mein, without meat or noodles",680.4
+27361010,"Stewed variety meats, mostly liver, Puerto Rican style",13326,"Beef, variety meats and by-products, liver, cooked, braised",455.868
+27362000,"Stewed tripe, with potatoes, Puerto Rican style",13341,"Beef, variety meats and by-products, tripe, raw",680.4
+27363000,Gumbo with rice,5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",181.5
+27363000,Gumbo with rice,5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",72.6
+27363000,Gumbo with rice,5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",108.9
+27363100,Jambalaya with meat and rice,5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",420
+27363100,Jambalaya with meat and rice,5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",168
+27363100,Jambalaya with meat and rice,5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",252
+27415150,"Beef chow mein or chop suey, no noodles",36624,"Restaurant, Chinese, vegetable chow mein, without meat or noodles",680.4
+27416300,"Beef taco filling: beef, cheese, tomato, taco sauce",23580,"Beef, ground, 75% lean meat / 25% fat, crumbles, cooked, pan-browned",21.75
+27420390,"Pork chow mein or chop suey, no noodles",36624,"Restaurant, Chinese, vegetable chow mein, without meat or noodles",680.4
+27440110,"Chicken or turkey and vegetables including carrots, broccoli, and/or dark-green leafy; no potatoes, no sauce",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",7.5
+27440110,"Chicken or turkey and vegetables including carrots, broccoli, and/or dark-green leafy; no potatoes, no sauce",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",3
+27440110,"Chicken or turkey and vegetables including carrots, broccoli, and/or dark-green leafy; no potatoes, no sauce",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",4.5
+27440120,"Chicken or turkey and vegetables excluding carrots, broccoli, and dark-green leafy; no potatoes, no sauce",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",7.5
+27440120,"Chicken or turkey and vegetables excluding carrots, broccoli, and dark-green leafy; no potatoes, no sauce",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",3
+27440120,"Chicken or turkey and vegetables excluding carrots, broccoli, and dark-green leafy; no potatoes, no sauce",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",4.5
+27440130,"Chicken or turkey shish kabob with vegetables, excluding potatoes",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",453.6
+27440130,"Chicken or turkey shish kabob with vegetables, excluding potatoes",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",181.44
+27440130,"Chicken or turkey shish kabob with vegetables, excluding potatoes",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",272.16
+27441120,"Chicken or turkey creole, without rice",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",1440
+27441120,"Chicken or turkey creole, without rice",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",576
+27441120,"Chicken or turkey creole, without rice",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",864
+27442110,"Chicken or turkey and vegetables including carrots, broccoli, and/or dark-green leafy; no potatoes, gravy",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",7.5
+27442110,"Chicken or turkey and vegetables including carrots, broccoli, and/or dark-green leafy; no potatoes, gravy",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",3
+27442110,"Chicken or turkey and vegetables including carrots, broccoli, and/or dark-green leafy; no potatoes, gravy",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",4.5
+27442120,"Chicken or turkey and vegetables excluding carrots, broccoli, and dark-green leafy; no potatoes, gravy",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",7.5
+27442120,"Chicken or turkey and vegetables excluding carrots, broccoli, and dark-green leafy; no potatoes, gravy",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",3
+27442120,"Chicken or turkey and vegetables excluding carrots, broccoli, and dark-green leafy; no potatoes, gravy",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",4.5
+27443110,"Chicken or turkey a la king with vegetables including carrots, broccoli, and/or dark-green leafy; no potatoes, cream, white, or soup-based sauce",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",67.5
+27443110,"Chicken or turkey a la king with vegetables including carrots, broccoli, and/or dark-green leafy; no potatoes, cream, white, or soup-based sauce",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",27
+27443110,"Chicken or turkey a la king with vegetables including carrots, broccoli, and/or dark-green leafy; no potatoes, cream, white, or soup-based sauce",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",40.5
+27443120,"Chicken or turkey a la king with vegetables excluding carrorts, broccoli, and dark-green leafy; no potatoes, cream, white, or soup-based sauce",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",67.5
+27443120,"Chicken or turkey a la king with vegetables excluding carrorts, broccoli, and dark-green leafy; no potatoes, cream, white, or soup-based sauce",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",27
+27443120,"Chicken or turkey a la king with vegetables excluding carrorts, broccoli, and dark-green leafy; no potatoes, cream, white, or soup-based sauce",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",40.5
+27443150,Chicken or turkey divan,5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",281.5
+27443150,Chicken or turkey divan,5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",112.6
+27443150,Chicken or turkey divan,5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",168.9
+27445120,"Chicken or turkey and vegetables excluding carrots, broccoli, and dark-green leafy; no potatoes, soy-based sauce",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",170.1
+27445120,"Chicken or turkey and vegetables excluding carrots, broccoli, and dark-green leafy; no potatoes, soy-based sauce",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",68.04
+27445120,"Chicken or turkey and vegetables excluding carrots, broccoli, and dark-green leafy; no potatoes, soy-based sauce",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",102.06
+27445125,"Chicken or turkey and vegetables including carrots, broccoli, and/or dark-green leafy; no potatoes, tomato-based sauce",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",7.5
+27445125,"Chicken or turkey and vegetables including carrots, broccoli, and/or dark-green leafy; no potatoes, tomato-based sauce",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",3
+27445125,"Chicken or turkey and vegetables including carrots, broccoli, and/or dark-green leafy; no potatoes, tomato-based sauce",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",4.5
+27445130,"Chicken or turkey and vegetables excluding carrots, broccoli, and dark-green leafy; no potatoes, tomato-based sauce",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",7.5
+27445130,"Chicken or turkey and vegetables excluding carrots, broccoli, and dark-green leafy; no potatoes, tomato-based sauce",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",3
+27445130,"Chicken or turkey and vegetables excluding carrots, broccoli, and dark-green leafy; no potatoes, tomato-based sauce",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",4.5
+27445180,Moo Goo Gai Pan,5062,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw",302.415
+27445180,Moo Goo Gai Pan,5314,"Chicken, broilers or fryers, breast, skinless, boneless, meat only, with added solution, raw",151.185
+27445250,Almond chicken,5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",226.8
+27445250,Almond chicken,5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",90.72
+27445250,Almond chicken,5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",136.08
+27446100,"Chicken or turkey chow mein or chop suey, no noodles",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",168.75
+27446100,"Chicken or turkey chow mein or chop suey, no noodles",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",67.5
+27446100,"Chicken or turkey chow mein or chop suey, no noodles",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",101.25
+27446100,"Chicken or turkey chow mein or chop suey, no noodles",36624,"Restaurant, Chinese, vegetable chow mein, without meat or noodles",680.4
+27446200,"Chicken or turkey salad, made with mayonnaise",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",135
+27446200,"Chicken or turkey salad, made with mayonnaise",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",54
+27446200,"Chicken or turkey salad, made with mayonnaise",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",81
+27446205,Chicken or turkey salad with nuts and/or fruits,5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",135
+27446205,Chicken or turkey salad with nuts and/or fruits,5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",54
+27446205,Chicken or turkey salad with nuts and/or fruits,5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",81
+27446220,Chicken or turkey salad with egg,5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",135
+27446220,Chicken or turkey salad with egg,5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",54
+27446220,Chicken or turkey salad with egg,5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",81
+27446225,"Chicken or turkey salad, made with light mayonnaise",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",135
+27446225,"Chicken or turkey salad, made with light mayonnaise",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",54
+27446225,"Chicken or turkey salad, made with light mayonnaise",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",81
+27446230,"Chicken or turkey salad, made with mayonnaise-type salad dressing",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",135
+27446230,"Chicken or turkey salad, made with mayonnaise-type salad dressing",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",54
+27446230,"Chicken or turkey salad, made with mayonnaise-type salad dressing",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",81
+27446235,"Chicken or turkey salad, made with light mayonnaise-type salad dressing",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",135
+27446235,"Chicken or turkey salad, made with light mayonnaise-type salad dressing",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",54
+27446235,"Chicken or turkey salad, made with light mayonnaise-type salad dressing",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",81
+27446240,"Chicken or turkey salad, made with creamy dressing",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",135
+27446240,"Chicken or turkey salad, made with creamy dressing",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",54
+27446240,"Chicken or turkey salad, made with creamy dressing",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",81
+27446245,"Chicken or turkey salad, made with light creamy dressing",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",135
+27446245,"Chicken or turkey salad, made with light creamy dressing",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",54
+27446245,"Chicken or turkey salad, made with light creamy dressing",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",81
+27446250,"Chicken or turkey salad, made with Italian dressing",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",135
+27446250,"Chicken or turkey salad, made with Italian dressing",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",54
+27446250,"Chicken or turkey salad, made with Italian dressing",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",81
+27446255,"Chicken or turkey salad, made with light Italian dressing",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",135
+27446255,"Chicken or turkey salad, made with light Italian dressing",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",54
+27446255,"Chicken or turkey salad, made with light Italian dressing",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",81
+27446260,"Chicken or turkey salad, made with any type of fat free dressing",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",135
+27446260,"Chicken or turkey salad, made with any type of fat free dressing",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",54
+27446260,"Chicken or turkey salad, made with any type of fat free dressing",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",81
+27446300,"Chicken or turkey garden salad, chicken and/or turkey, tomato and/or carrots, other vegetables, no dressing",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",67.5
+27446310,"Chicken or turkey garden salad, chicken and/or turkey, other vegetables excluding tomato and carrots, no dressing",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",67.5
+27446315,"Chicken or turkey garden salad with bacon and cheese, chicken and/or turkey, bacon, cheese, lettuce and/or greens, tomato and/or carrots, other vegetables, no dressing",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",67.5
+27446330,"Chicken or turkey garden salad with cheese, chicken and/or turkey, cheese, lettuce and/or greens, tomato and/or carrots, other vegetables, no dressing",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",70
+27446350,"Asian chicken or turkey garden salad, chicken and/or turkey, lettuce, fruit, nuts, no dressing",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",67.5
+27446355,"Asian chicken or turkey garden salad with crispy noodles, chicken and/or turkey, lettuce, fruit, nuts, crispy noodles, no dressing",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",97
+27446360,"Chicken or turkey caesar garden salad, chicken and/or turkey, lettuce, tomato, cheese, no dressing",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",70
+27446400,"Chicken or turkey and vegetables including carrots, broccoli, and/or dark-green leafy; no potatoes, cheese sauce",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",7.5
+27446400,"Chicken or turkey and vegetables including carrots, broccoli, and/or dark-green leafy; no potatoes, cheese sauce",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",3
+27446400,"Chicken or turkey and vegetables including carrots, broccoli, and/or dark-green leafy; no potatoes, cheese sauce",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",4.5
+27446410,"Chicken or turkey and vegetables excluding carrots, broccoli, and dark-green leafy; no potatoes, cheese sauce",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",7.5
+27446410,"Chicken or turkey and vegetables excluding carrots, broccoli, and dark-green leafy; no potatoes, cheese sauce",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",3
+27446410,"Chicken or turkey and vegetables excluding carrots, broccoli, and dark-green leafy; no potatoes, cheese sauce",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",4.5
+27448020,"Chicken or turkey fricassee, with sauce, no potatoes, potatoes reported separately, Puerto Rican style",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",261
+27448020,"Chicken or turkey fricassee, with sauce, no potatoes, potatoes reported separately, Puerto Rican style",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",104.4
+27448020,"Chicken or turkey fricassee, with sauce, no potatoes, potatoes reported separately, Puerto Rican style",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",156.6
+27448030,"Chicken or turkey fricassee, no sauce, no potatoes, Puerto Rican style",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",261
+27448030,"Chicken or turkey fricassee, no sauce, no potatoes, Puerto Rican style",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",104.4
+27448030,"Chicken or turkey fricassee, no sauce, no potatoes, Puerto Rican style",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",156.6
+27450040,"Shrimp chow mein or chop suey, no noodles",36624,"Restaurant, Chinese, vegetable chow mein, without meat or noodles",680.4
+27460010,"Chow mein or chop suey, NS as to type of meat, no noodles",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",168.75
+27460010,"Chow mein or chop suey, NS as to type of meat, no noodles",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",67.5
+27460010,"Chow mein or chop suey, NS as to type of meat, no noodles",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",101.25
+27460010,"Chow mein or chop suey, NS as to type of meat, no noodles",36624,"Restaurant, Chinese, vegetable chow mein, without meat or noodles",680.4
+27460490,"Julienne salad, meat, cheese, eggs, vegetables, no dressing",5186,"Turkey, all classes, light meat, cooked, roasted",35
+27460510,"Antipasto with ham, fish, cheese, vegetables",7028,"Ham, sliced, pre-packaged, deli meat (96%fat free, water added)",113
+27460750,"Liver, beef or calves, and onions",13327,"Beef, variety meats and by-products, liver, cooked, pan-fried",85
+27462000,"Stewed chitterlings, Puerto Rican style",10099,"Pork, fresh, variety meats and by-products, chitterlings, cooked, simmered",453.6
+27464000,"Gumbo, no rice",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",181.5
+27464000,"Gumbo, no rice",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",72.6
+27464000,"Gumbo, no rice",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",108.9
+27500050,"Sandwich, NFS",7971,"Bologna, meat and poultry",31.87793058
+27500100,"Meat sandwich, NFS",7971,"Bologna, meat and poultry",31.87793058
+27500300,"Wrap sandwich, NFS",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",35.4375
+27500300,"Wrap sandwich, NFS",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",14.175
+27500300,"Wrap sandwich, NFS",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",21.2625
+27510190,"Cheeseburger, from school cafeteria",23563,"Beef, ground, 90% lean meat / 10% fat, patty, cooked, broiled",40
+27510565,"Hamburger, from school cafeteria",23563,"Beef, ground, 90% lean meat / 10% fat, patty, cooked, broiled",40
+27510700,Meatball and spaghetti sauce submarine sandwich,21158,"Fast foods, submarine sandwich, meatball marinara on white bread",100
+27520300,"Ham sandwich, with spread",7028,"Ham, sliced, pre-packaged, deli meat (96%fat free, water added)",57
+27520310,Ham sandwich with lettuce and spread,7028,"Ham, sliced, pre-packaged, deli meat (96%fat free, water added)",57
+27520320,"Ham and cheese sandwich, with lettuce and spread",7028,"Ham, sliced, pre-packaged, deli meat (96%fat free, water added)",57
+27520360,"Ham and cheese sandwich, on bun, with lettuce and spread",7028,"Ham, sliced, pre-packaged, deli meat (96%fat free, water added)",57
+27520370,"Hot ham and cheese sandwich, on bun",7028,"Ham, sliced, pre-packaged, deli meat (96%fat free, water added)",85
+27540110,"Sliced chicken sandwich, with spread",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",56.7
+27540111,"Sliced chicken sandwich, with cheese and spread",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",56.7
+27540120,Chicken salad or chicken spread sandwich,5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",25.3
+27540120,Chicken salad or chicken spread sandwich,5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",10.12
+27540120,Chicken salad or chicken spread sandwich,5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",15.18
+27540130,Chicken barbecue sandwich,5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",28.35
+27540130,Chicken barbecue sandwich,5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",11.34
+27540130,Chicken barbecue sandwich,5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",17.01
+27540152,"Chicken fillet sandwich, grilled, from fast food",5062,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw",97.41550696
+27540153,"Chicken fillet sandwich, grilled, from fast food, with cheese",5062,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw",97.41550696
+27540195,"Chicken fillet sandwich, grilled, on white bun",5062,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw",97.41550696
+27540196,"Chicken fillet sandwich, grilled, on white bun, with cheese",5062,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw",97.41550696
+27540205,"Chicken fillet sandwich, grilled, on wheat bun",5062,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw",97.41550696
+27540206,"Chicken fillet sandwich, grilled, on wheat bun, with cheese",5062,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw",97.41550696
+27540300,"Chicken fillet wrap sandwich, grilled, from fast food",5062,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw",97.41550696
+27540310,"Turkey sandwich, with spread",5168,"Turkey, whole, meat only, cooked, roasted",85.05
+27540320,Turkey salad or turkey spread sandwich,5168,"Turkey, whole, meat only, cooked, roasted",52.5
+27560110,"Bologna sandwich, with spread",7971,"Bologna, meat and poultry",28.35
+27560120,"Bologna and cheese sandwich, with spread",7971,"Bologna, meat and poultry",28.35
+27564120,"Frankfurter or hot dog sandwich, beef and pork, plain, on white bun",7962,"Frankfurter, meat and poultry, unheated",57
+27564121,"Frankfurter or hot dog sandwich, beef and pork, plain, on wheat bun",7962,"Frankfurter, meat and poultry, unheated",57
+27564122,"Frankfurter or hot dog sandwich, beef and pork, plain, on whole wheat bun",7962,"Frankfurter, meat and poultry, unheated",57
+27564123,"Frankfurter or hot dog sandwich, beef and pork, plain, on whole grain white bun",7962,"Frankfurter, meat and poultry, unheated",57
+27564124,"Frankfurter or hot dog sandwich, beef and pork, plain, on multigrain bun",7962,"Frankfurter, meat and poultry, unheated",57
+27564130,"Frankfurter or hot dog sandwich, beef and pork, plain, on white bread",7962,"Frankfurter, meat and poultry, unheated",57
+27564140,"Frankfurter or hot dog sandwich, beef and pork, plain, on wheat bread",7962,"Frankfurter, meat and poultry, unheated",57
+27564150,"Frankfurter or hot dog sandwich, beef and pork, plain, on whole wheat bread",7962,"Frankfurter, meat and poultry, unheated",57
+27564160,"Frankfurter or hot dog sandwich, beef and pork, plain, on whole grain white bread",7962,"Frankfurter, meat and poultry, unheated",57
+27564170,"Frankfurter or hot dog sandwich, beef and pork, plain, on multigrain bread",7962,"Frankfurter, meat and poultry, unheated",57
+27564180,"Frankfurter or hot dog sandwich, meat and poultry, plain, on white bun",7962,"Frankfurter, meat and poultry, unheated",57
+27564181,"Frankfurter or hot dog sandwich, meat and poultry, plain, on wheat bun",7962,"Frankfurter, meat and poultry, unheated",57
+27564182,"Frankfurter or hot dog sandwich, meat and poultry, plain, on whole wheat bun",7962,"Frankfurter, meat and poultry, unheated",57
+27564183,"Frankfurter or hot dog sandwich, meat and poultry, plain, on whole grain white bun",7962,"Frankfurter, meat and poultry, unheated",57
+27564184,"Frankfurter or hot dog sandwich, meat and poultry, plain, on multigrain bun",7962,"Frankfurter, meat and poultry, unheated",57
+27564190,"Frankfurter or hot dog sandwich, meat and poultry, plain, on white bread",7962,"Frankfurter, meat and poultry, unheated",57
+27564200,"Frankfurter or hot dog sandwich, meat and poultry, plain, on wheat bread",7962,"Frankfurter, meat and poultry, unheated",57
+27564210,"Frankfurter or hot dog sandwich, meat and poultry, plain, on whole wheat bread",7962,"Frankfurter, meat and poultry, unheated",57
+27564220,"Frankfurter or hot dog sandwich, meat and poultry, plain, on whole grain white bread",7962,"Frankfurter, meat and poultry, unheated",57
+27564230,"Frankfurter or hot dog sandwich, meat and poultry, plain, on multigrain bread",7962,"Frankfurter, meat and poultry, unheated",57
+27564300,"Frankfurter or hot dog sandwich, reduced fat or light, plain, on white bun",42280,"Frankfurter, meat and poultry, low fat",57
+27564301,"Frankfurter or hot dog sandwich, reduced fat or light, plain, on wheat bun",42280,"Frankfurter, meat and poultry, low fat",57
+27564302,"Frankfurter or hot dog sandwich, reduced fat or light, plain, on whole wheat bun",42280,"Frankfurter, meat and poultry, low fat",57
+27564303,"Frankfurter or hot dog sandwich, reduced fat or light, plain, on whole grain white bun",42280,"Frankfurter, meat and poultry, low fat",57
+27564304,"Frankfurter or hot dog sandwich, reduced fat or light, plain, on multigrain bun",42280,"Frankfurter, meat and poultry, low fat",57
+27564310,"Frankfurter or hot dog sandwich, reduced fat or light, plain, on white bread",42280,"Frankfurter, meat and poultry, low fat",57
+27564320,"Frankfurter or hot dog sandwich, reduced fat or light, plain, on wheat bread",42280,"Frankfurter, meat and poultry, low fat",57
+27564330,"Frankfurter or hot dog sandwich, reduced fat or light, plain, on whole wheat bread",42280,"Frankfurter, meat and poultry, low fat",57
+27564340,"Frankfurter or hot dog sandwich, reduced fat or light, plain, on whole grain white bread",42280,"Frankfurter, meat and poultry, low fat",57
+27564350,"Frankfurter or hot dog sandwich, reduced fat or light, plain, on multigrain bread",42280,"Frankfurter, meat and poultry, low fat",57
+27564420,"Frankfurter or hot dog sandwich, meatless, plain, on bun",43130,"Frankfurter, meatless",70
+27564430,"Frankfurter or hot dog sandwich, meatless, plain, on bread",43130,"Frankfurter, meatless",70
+27564560,"Frankfurter or hot dog sandwich, meatless, on bun, with meatless chili",43130,"Frankfurter, meatless",70
+27564570,"Frankfurter or hot dog sandwich, meatless, on bread, with meatless chili",43130,"Frankfurter, meatless",70
+27610730,"Beef with vegetables, baby food, toddler",43417,"Babyfood, meat, beef with vegetables, toddler",100
+28101000,"Frozen dinner, NFS",23578,"Beef, ground, 75% lean meat / 25% fat, patty, cooked, broiled",20.10342599
+28110000,"Beef dinner, NFS, frozen meal",23578,"Beef, ground, 75% lean meat / 25% fat, patty, cooked, broiled",20.10342599
+28110150,"Beef with vegetable, diet frozen meal",23580,"Beef, ground, 75% lean meat / 25% fat, crumbles, cooked, pan-browned",103.6
+28110300,"Salisbury steak dinner, NFS, frozen meal",23578,"Beef, ground, 75% lean meat / 25% fat, patty, cooked, broiled",20.10342599
+28110310,"Salisbury steak with gravy, potatoes, vegetable, frozen meal",23578,"Beef, ground, 75% lean meat / 25% fat, patty, cooked, broiled",62.2
+28110330,"Salisbury steak with gravy, whipped potatoes, vegetable, dessert, frozen meal",23578,"Beef, ground, 75% lean meat / 25% fat, patty, cooked, broiled",65.2
+28110350,"Salisbury steak with gravy, potatoes, vegetable, dessert, frozen meal",23578,"Beef, ground, 75% lean meat / 25% fat, patty, cooked, broiled",150.8
+28110380,"Salisbury steak with gravy, macaroni and cheese, frozen meal",23578,"Beef, ground, 75% lean meat / 25% fat, patty, cooked, broiled",30
+28110390,"Salisbury steak, potatoes, vegetable, dessert, diet frozen meal",23568,"Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled",15.3
+28110660,"Meatballs, Swedish, in gravy, with noodles, diet frozen meal",23575,"Beef, ground, 80% lean meat / 20% fat, crumbles, cooked, pan-browned",15.8
+28113110,"Salisbury steak, baked, with tomato sauce, vegetable, diet frozen meal",23568,"Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled",69.9
+28140100,"Chicken dinner, NFS, frozen meal",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",20.9889122
+28140320,"Chicken and noodles with vegetable, dessert, frozen meal",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",4.85
+28140320,"Chicken and noodles with vegetable, dessert, frozen meal",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",1.94
+28140320,"Chicken and noodles with vegetable, dessert, frozen meal",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",2.91
+28140710,"Chicken, fried, with potatoes, vegetable, frozen meal",21469,"Fast Foods, Fried Chicken, Breast, meat and skin and breading",54.4
+28140710,"Chicken, fried, with potatoes, vegetable, frozen meal",21470,"Fast Foods, Fried Chicken, Drumstick, meat and skin with breading",21.76
+28140710,"Chicken, fried, with potatoes, vegetable, frozen meal",21471,"Fast Foods, Fried Chicken, Thigh, meat and skin and breading",32.64
+28140720,"Chicken patty, or nuggets, boneless, breaded, potatoes, vegetable, frozen meal",21469,"Fast Foods, Fried Chicken, Breast, meat and skin and breading",40
+28140720,"Chicken patty, or nuggets, boneless, breaded, potatoes, vegetable, frozen meal",21470,"Fast Foods, Fried Chicken, Drumstick, meat and skin with breading",16
+28140720,"Chicken patty, or nuggets, boneless, breaded, potatoes, vegetable, frozen meal",21471,"Fast Foods, Fried Chicken, Thigh, meat and skin and breading",24
+28140810,"Chicken, fried, with potatoes, vegetable, dessert, frozen meal",21469,"Fast Foods, Fried Chicken, Breast, meat and skin and breading",54
+28140810,"Chicken, fried, with potatoes, vegetable, dessert, frozen meal",21470,"Fast Foods, Fried Chicken, Drumstick, meat and skin with breading",21.6
+28140810,"Chicken, fried, with potatoes, vegetable, dessert, frozen meal",21471,"Fast Foods, Fried Chicken, Thigh, meat and skin and breading",32.4
+28141010,"Chicken, fried, with potatoes, vegetable, dessert, frozen meal, large meat portion",21469,"Fast Foods, Fried Chicken, Breast, meat and skin and breading",98.55
+28141010,"Chicken, fried, with potatoes, vegetable, dessert, frozen meal, large meat portion",21470,"Fast Foods, Fried Chicken, Drumstick, meat and skin with breading",39.42
+28141010,"Chicken, fried, with potatoes, vegetable, dessert, frozen meal, large meat portion",21471,"Fast Foods, Fried Chicken, Thigh, meat and skin and breading",59.13
+28141250,"Chicken with rice and vegetable, diet frozen meal",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",72.3
+28141650,"Chicken and vegetables au gratin with rice, diet frozen entree",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",64.5
+28143020,"Chicken and vegetable entree with rice, diet frozen meal",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",39
+28143020,"Chicken and vegetable entree with rice, diet frozen meal",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",15.6
+28143020,"Chicken and vegetable entree with rice, diet frozen meal",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",23.4
+28143040,"Chicken chow mein with rice, diet frozen meal",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",27.115
+28143040,"Chicken chow mein with rice, diet frozen meal",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",10.846
+28143040,"Chicken chow mein with rice, diet frozen meal",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",16.269
+28143080,"Chicken with noodles and cheese sauce, diet frozen meal",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",29.8
+28143130,"Chicken and vegetable entree with noodles, frozen meal",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",25.515
+28143130,"Chicken and vegetable entree with noodles, frozen meal",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",10.206
+28143130,"Chicken and vegetable entree with noodles, frozen meal",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",15.309
+28143150,"Chicken and vegetable entree with noodles, diet frozen meal",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",36.1
+28143150,"Chicken and vegetable entree with noodles, diet frozen meal",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",14.44
+28143150,"Chicken and vegetable entree with noodles, diet frozen meal",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",21.66
+28143170,"Chicken in cream sauce with noodles and vegetable, frozen meal",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",70.04
+28143180,"Chicken in butter sauce with potatoes and vegetable, diet frozen meal",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",150
+28143190,"Chicken in mushroom sauce, white and wild rice, vegetable, frozen meal",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",60
+28143200,"Chicken in soy-based sauce, rice and vegetables, frozen meal",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",18
+28144100,"Chicken and vegetable entree with noodles and cream sauce, frozen meal",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",28.35
+28144100,"Chicken and vegetable entree with noodles and cream sauce, frozen meal",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",11.34
+28144100,"Chicken and vegetable entree with noodles and cream sauce, frozen meal",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",17.01
+28145100,"Turkey with gravy, dressing, vegetable and fruit, diet frozen meal",5168,"Turkey, whole, meat only, cooked, roasted",17.1
+28145110,"Turkey with vegetable, stuffing, diet frozen meal",5220,"Turkey, whole, breast, meat only, cooked, roasted",27.3
+28160300,"Meat loaf dinner, NFS, frozen meal",23581,"Beef, ground, 75% lean meat / 25% fat, loaf, cooked, baked",18.78415301
+28160310,"Meat loaf with potatoes, vegetable, frozen meal",23581,"Beef, ground, 75% lean meat / 25% fat, loaf, cooked, baked",55
+28311010,Pepperpot soup,13341,"Beef, variety meats and by-products, tripe, raw",340.2
+28311020,"Menudo soup, home recipe",10173,"Pork, fresh, variety meats and by-products, feet, cooked, simmered",142
+28311020,"Menudo soup, home recipe",13341,"Beef, variety meats and by-products, tripe, raw",907.2
+28311030,"Menudo soup, canned, prepared with water or ready-to-serve",13341,"Beef, variety meats and by-products, tripe, raw",453.6
+28315160,Italian Wedding Soup,23575,"Beef, ground, 80% lean meat / 20% fat, crumbles, cooked, pan-browned",140.071999
+28340210,"Chicken rice soup, Puerto Rican style",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",252
+28340210,"Chicken rice soup, Puerto Rican style",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",100.8
+28340210,"Chicken rice soup, Puerto Rican style",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",151.2
+28340220,"Chicken soup with noodles and potatoes, Puerto Rican style",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",218.25
+28340220,"Chicken soup with noodles and potatoes, Puerto Rican style",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",87.3
+28340220,"Chicken soup with noodles and potatoes, Puerto Rican style",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",130.95
+28340580,"Chicken or turkey soup with vegetables, broccoli, carrots, celery, potatoes and onions, Asian style",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",136
+28340580,"Chicken or turkey soup with vegetables, broccoli, carrots, celery, potatoes and onions, Asian style",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",54.4
+28340580,"Chicken or turkey soup with vegetables, broccoli, carrots, celery, potatoes and onions, Asian style",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",81.6
+28340590,"Chicken or turkey corn soup with noodles, home recipe",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",135
+28340590,"Chicken or turkey corn soup with noodles, home recipe",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",54
+28340590,"Chicken or turkey corn soup with noodles, home recipe",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",81
+28340660,"Chicken or turkey vegetable soup, home recipe",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",135
+28340660,"Chicken or turkey vegetable soup, home recipe",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",54
+28340660,"Chicken or turkey vegetable soup, home recipe",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",81
+28340670,"Chicken or turkey vegetable soup with rice, home recipe, Mexican style",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",340.2
+28340670,"Chicken or turkey vegetable soup with rice, home recipe, Mexican style",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",136.08
+28340670,"Chicken or turkey vegetable soup with rice, home recipe, Mexican style",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",204.12
+28340680,"Chicken or turkey and corn hominy soup,  home recipe, Mexican style",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",384
+28340680,"Chicken or turkey and corn hominy soup,  home recipe, Mexican style",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",153.6
+28340680,"Chicken or turkey and corn hominy soup,  home recipe, Mexican style",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",230.4
+28340700,Bird's nest soup,5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",33.75
+28340700,Bird's nest soup,5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",13.5
+28340700,Bird's nest soup,5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",20.25
+28340800,"Chicken or turkey soup with vegetables and fruit, Asian Style",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",181.5
+28340800,"Chicken or turkey soup with vegetables and fruit, Asian Style",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",72.6
+28340800,"Chicken or turkey soup with vegetables and fruit, Asian Style",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",108.9
+28360210,"Spanish vegetable soup, Puerto Rican style",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",112
+28360210,"Spanish vegetable soup, Puerto Rican style",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",44.8
+28360210,"Spanish vegetable soup, Puerto Rican style",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",67.2
+32105210,Chicken egg foo yung,5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",92.1375
+32105210,Chicken egg foo yung,5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",36.855
+32105210,Chicken egg foo yung,5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",55.2825
+32202000,"Egg, cheese, ham, and bacon on bun",7028,"Ham, sliced, pre-packaged, deli meat (96%fat free, water added)",28
+32202025,"Egg, cheese and ham on bagel",7028,"Ham, sliced, pre-packaged, deli meat (96%fat free, water added)",113
+41206030,Beans and franks,42280,"Frankfurter, meat and poultry, low fat",10
+41311030,Lentil curry,12117,"Nuts, coconut milk, raw (liquid expressed from grated meat and water)",2.8
+41311040,Lentil curry with rice,12117,"Nuts, coconut milk, raw (liquid expressed from grated meat and water)",2.8
+41810200,"Bacon strip, meatless",16104,"Bacon, meatless",100
+41810250,Bacon bits,43212,"Bacon bits, meatless",100
+41810400,"Breakfast link, pattie, or slice, meatless",16107,"Sausage, meatless",100
+41810600,"Chicken, meatless, NFS",43128,"Chicken, meatless",100
+41810610,"Chicken, meatless, breaded, fried",43410,"Chicken, meatless, breaded, fried",100
+41811400,"Frankfurter or hot dog, meatless",43130,"Frankfurter, meatless",100
+41811600,"Luncheon slice, meatless-beef, chicken, salami or turkey",43131,"Luncheon slices, meatless",100
+41811800,"Meatball, meatless",43132,"Meatballs, meatless",100
+41812000,"Sandwich spread, meat substitute type",43135,"Sandwich spread, meatless",100
+41812400,Vegetarian pot pie,43128,"Chicken, meatless",155.925
+41812450,"Vegetarian chili, made with meat substitute",43137,Vegetarian meatloaf or patties,226.8
+42106000,"Coconut, fresh",12104,"Nuts, coconut meat, raw",100
+42106020,"Coconut, packaged",12109,"Nuts, coconut meat, dried (desiccated), sweetened, flaked, packaged",100
+42401010,"Coconut milk, used in cooking",12117,"Nuts, coconut milk, raw (liquid expressed from grated meat and water)",100
+52220110,Arepa Dominicana,12104,"Nuts, coconut meat, raw",20
+52220110,Arepa Dominicana,12117,"Nuts, coconut milk, raw (liquid expressed from grated meat and water)",120
+53105300,"Cake or cupcake, German chocolate, with icing or filling",12109,"Nuts, coconut meat, dried (desiccated), sweetened, flaked, packaged",85
+53116600,"Cake, rice flour, without icing or filling",12117,"Nuts, coconut milk, raw (liquid expressed from grated meat and water)",360
+53343070,"Pie, coconut cream, individual size or tart",12104,"Nuts, coconut meat, raw",35.438
+55701000,Cake made with glutinous rice,12117,"Nuts, coconut milk, raw (liquid expressed from grated meat and water)",420
+58100200,Burrito with chicken,5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",270
+58100200,Burrito with chicken,5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",108
+58100200,Burrito with chicken,5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",162
+58100220,Burrito with chicken and beans,5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",135
+58100220,Burrito with chicken and beans,5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",54
+58100220,Burrito with chicken and beans,5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",81
+58100235,Burrito with chicken and sour cream,5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",270
+58100235,Burrito with chicken and sour cream,5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",108
+58100235,Burrito with chicken and sour cream,5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",162
+58100245,"Burrito with chicken, beans, and sour cream",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",135
+58100245,"Burrito with chicken, beans, and sour cream",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",54
+58100245,"Burrito with chicken, beans, and sour cream",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",81
+58100255,"Burrito with chicken, beans, and rice",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",135
+58100255,"Burrito with chicken, beans, and rice",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",54
+58100255,"Burrito with chicken, beans, and rice",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",81
+58100260,"Burrito with chicken, beans, rice, and sour cream",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",135
+58100260,"Burrito with chicken, beans, rice, and sour cream",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",54
+58100260,"Burrito with chicken, beans, rice, and sour cream",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",81
+58100620,"Enchilada with chicken and beans, red-chile or enchilada sauce",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",84.375
+58100620,"Enchilada with chicken and beans, red-chile or enchilada sauce",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",33.75
+58100620,"Enchilada with chicken and beans, red-chile or enchilada sauce",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",50.625
+58100625,"Enchilada with chicken and beans, green-chile or enchilada sauce",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",84.375
+58100625,"Enchilada with chicken and beans, green-chile or enchilada sauce",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",33.75
+58100625,"Enchilada with chicken and beans, green-chile or enchilada sauce",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",50.625
+58100630,"Enchilada with chicken, red-chile or enchilada sauce",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",168.75
+58100630,"Enchilada with chicken, red-chile or enchilada sauce",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",67.5
+58100630,"Enchilada with chicken, red-chile or enchilada sauce",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",101.25
+58100635,"Enchilada with chicken, green-chile or enchilada sauce",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",168.75
+58100635,"Enchilada with chicken, green-chile or enchilada sauce",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",67.5
+58100635,"Enchilada with chicken, green-chile or enchilada sauce",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",101.25
+58101450,Soft taco with chicken,5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",181.5
+58101450,Soft taco with chicken,5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",72.6
+58101450,Soft taco with chicken,5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",108.9
+58101460,Soft taco with chicken and sour cream,5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",181.5
+58101460,Soft taco with chicken and sour cream,5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",72.6
+58101460,Soft taco with chicken and sour cream,5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",108.9
+58101520,Taco or tostada with chicken,5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",181.5
+58101520,Taco or tostada with chicken,5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",72.6
+58101520,Taco or tostada with chicken,5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",108.9
+58101525,Taco or tostada with chicken and sour cream,5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",181.5
+58101525,Taco or tostada with chicken and sour cream,5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",72.6
+58101525,Taco or tostada with chicken and sour cream,5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",108.9
+58101625,Soft taco with chicken and beans,5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",90.5
+58101625,Soft taco with chicken and beans,5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",36.2
+58101625,Soft taco with chicken and beans,5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",54.3
+58101635,"Soft taco with chicken, beans, and sour cream",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",90.5
+58101635,"Soft taco with chicken, beans, and sour cream",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",36.2
+58101635,"Soft taco with chicken, beans, and sour cream",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",54.3
+58101735,Taco or tostada with chicken and beans,5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",90.5
+58101735,Taco or tostada with chicken and beans,5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",36.2
+58101735,Taco or tostada with chicken and beans,5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",54.3
+58101750,"Taco or tostada with chicken, beans, and sour cream",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",90.5
+58101750,"Taco or tostada with chicken, beans, and sour cream",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",36.2
+58101750,"Taco or tostada with chicken, beans, and sour cream",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",54.3
+58101935,Taco or tostada salad with chicken,5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",168.75
+58101935,Taco or tostada salad with chicken,5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",67.5
+58101935,Taco or tostada salad with chicken,5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",101.25
+58101950,Taco or tostada salad with chicken and sour cream,5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",168.75
+58101950,Taco or tostada salad with chicken and sour cream,5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",67.5
+58101950,Taco or tostada salad with chicken and sour cream,5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",101.25
+58103120,Tamale with meat,5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",272.5
+58103120,Tamale with meat,5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",109
+58103120,Tamale with meat,5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",163.5
+58103130,Tamale with chicken,5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",272.5
+58103130,Tamale with chicken,5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",109
+58103130,Tamale with chicken,5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",163.5
+58104150,Nachos with chicken and cheese,5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",168.75
+58104150,Nachos with chicken and cheese,5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",67.5
+58104150,Nachos with chicken and cheese,5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",101.25
+58104190,"Nachos with chicken, cheese, and sour cream",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",168.75
+58104190,"Nachos with chicken, cheese, and sour cream",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",67.5
+58104190,"Nachos with chicken, cheese, and sour cream",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",101.25
+58104320,"Gordita, sope, or chalupa with chicken and sour cream",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",181.5
+58104320,"Gordita, sope, or chalupa with chicken and sour cream",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",72.6
+58104320,"Gordita, sope, or chalupa with chicken and sour cream",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",108.9
+58104340,"Gordita, sope, or chalupa with chicken",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",181.5
+58104340,"Gordita, sope, or chalupa with chicken",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",72.6
+58104340,"Gordita, sope, or chalupa with chicken",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",108.9
+58104530,Chimichanga with chicken,5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",90.5
+58104530,Chimichanga with chicken,5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",36.2
+58104530,Chimichanga with chicken,5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",54.3
+58104550,Chimichanga with chicken and sour cream,5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",90.5
+58104550,Chimichanga with chicken and sour cream,5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",36.2
+58104550,Chimichanga with chicken and sour cream,5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",54.3
+58104740,Quesadilla with chicken,5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",42.1875
+58104740,Quesadilla with chicken,5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",16.875
+58104740,Quesadilla with chicken,5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",25.3125
+58104770,Quesadilla with vegetables and chicken,5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",21.1
+58104770,Quesadilla with vegetables and chicken,5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",8.44
+58104770,Quesadilla with vegetables and chicken,5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",12.66
+58105000,Fajita with chicken and vegetables,5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",227
+58105000,Fajita with chicken and vegetables,5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",90.8
+58105000,Fajita with chicken and vegetables,5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",136.2
+58106650,"Pizza with extra meat, thin crust",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",67
+58106650,"Pizza with extra meat, thin crust",23570,"Beef, ground, 85% lean meat / 15% fat, crumbles, cooked, pan-browned",67
+58106655,"Pizza with extra meat, medium crust",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",62
+58106655,"Pizza with extra meat, medium crust",23570,"Beef, ground, 85% lean meat / 15% fat, crumbles, cooked, pan-browned",62
+58106660,"Pizza with extra meat, thick crust",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",67
+58106660,"Pizza with extra meat, thick crust",23570,"Beef, ground, 85% lean meat / 15% fat, crumbles, cooked, pan-browned",67
+58106700,"Pizza with meat and vegetables, from frozen, thin crust",21226,"Pizza, meat and vegetable topping, regular crust, frozen, cooked",100
+58106702,"Pizza with meat and vegetables, from frozen, medium crust",21226,"Pizza, meat and vegetable topping, regular crust, frozen, cooked",100
+58106705,"Pizza with meat and vegetables, from frozen, thick crust",21227,"Pizza, meat and vegetable topping, rising crust, frozen, cooked",100
+58106720,"Pizza with meat and vegetables, from restaurant or fast food, thin crust",23570,"Beef, ground, 85% lean meat / 15% fat, crumbles, cooked, pan-browned",53
+58106725,"Pizza with meat and vegetables, from restaurant or fast food, medium crust",21304,"Fast Food, Pizza Chain, 14"" pizza, meat and vegetable topping, regular crust",100
+58106730,"Pizza with meat and vegetables, from restaurant or fast food, thick crust",23570,"Beef, ground, 85% lean meat / 15% fat, crumbles, cooked, pan-browned",32
+58106736,"Pizza with extra meat and extra vegetables, thin crust",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",49
+58106736,"Pizza with extra meat and extra vegetables, thin crust",23570,"Beef, ground, 85% lean meat / 15% fat, crumbles, cooked, pan-browned",49
+58106737,"Pizza with extra meat and extra vegetables, thick crust",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",46
+58106737,"Pizza with extra meat and extra vegetables, thick crust",23570,"Beef, ground, 85% lean meat / 15% fat, crumbles, cooked, pan-browned",46
+58106738,"Pizza with extra meat and extra vegetables, medium crust",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",46
+58106738,"Pizza with extra meat and extra vegetables, medium crust",23570,"Beef, ground, 85% lean meat / 15% fat, crumbles, cooked, pan-browned",46
+58108010,"Calzone, with meat and cheese",23580,"Beef, ground, 75% lean meat / 25% fat, crumbles, cooked, pan-browned",113.4
+58116130,"Empanada, Mexican turnover, filled with chicken and vegetables",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",101.25
+58116130,"Empanada, Mexican turnover, filled with chicken and vegetables",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",40.5
+58116130,"Empanada, Mexican turnover, filled with chicken and vegetables",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",60.75
+58117310,"Kibby, Puerto Rican style",23572,"Beef, ground, 80% lean meat / 20% fat, raw",226.8
+58118210,"Cornmeal coconut dessert, Puerto Rican style",12117,"Nuts, coconut milk, raw (liquid expressed from grated meat and water)",960
+58120110,"Crepe, filled with meat, poultry, or seafood, with sauce",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",67.5
+58120110,"Crepe, filled with meat, poultry, or seafood, with sauce",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",27
+58120110,"Crepe, filled with meat, poultry, or seafood, with sauce",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",40.5
+58120120,"Crepe, filled with meat, poultry, or seafood, no sauce",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",57
+58126000,Turnover filled with ground beef and cabbage,23580,"Beef, ground, 75% lean meat / 25% fat, crumbles, cooked, pan-browned",928
+58126150,"Turnover, meat- and cheese-filled, tomato-based sauce",22961,"HOT POCKETS, meatballs & mozzarella stuffed sandwich, frozen",100
+58126300,"Turnover, meat- and cheese-filled, tomato-based sauce, lower in fat",32027,"Turnover, meat- and cheese-filled, tomato-based sauce, reduced fat, frozen",100
+58126400,"Turnover, filled with egg, meat and cheese",32028,"Turnover, filled with egg, meat and cheese, frozen",100
+58128110,Chicken cornbread,5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",185.625
+58128110,Chicken cornbread,5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",74.25
+58128110,Chicken cornbread,5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",111.375
+58130011,Lasagna with meat,22916,"Lasagna with meat & sauce, frozen entree",100
+58130013,"Lasagna with meat, canned",22900,"Ravioli, meat-filled, with tomato sauce or meat sauce, canned",100
+58130014,"Lasagna with meat, from restaurant",36041,"Restaurant, Italian, lasagna with meat",100
+58130016,"Lasagna with meat, frozen",22916,"Lasagna with meat & sauce, frozen entree",100
+58131323,"Ravioli, meat-filled, with tomato sauce or meat sauce, canned",22900,"Ravioli, meat-filled, with tomato sauce or meat sauce, canned",100
+58134210,"Stuffed shells, with chicken, with tomato sauce",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",202.5
+58134210,"Stuffed shells, with chicken, with tomato sauce",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",81
+58134210,"Stuffed shells, with chicken, with tomato sauce",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",121.5
+58134610,"Tortellini, meat-filled, with tomato sauce",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",10.15
+58134610,"Tortellini, meat-filled, with tomato sauce",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",4.06
+58134610,"Tortellini, meat-filled, with tomato sauce",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",6.09
+58134613,"Tortellini, meat-filled, with tomato sauce, canned",23580,"Beef, ground, 75% lean meat / 25% fat, crumbles, cooked, pan-browned",0.7
+58134650,"Tortellini, meat-filled, no sauce",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",10.15
+58134650,"Tortellini, meat-filled, no sauce",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",4.06
+58134650,"Tortellini, meat-filled, no sauce",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",6.09
+58135110,Chow fun noodles with meat and vegetables,36624,"Restaurant, Chinese, vegetable chow mein, without meat or noodles",680.4
+58135120,"Chow fun noodles with vegetables, meatless",36624,"Restaurant, Chinese, vegetable chow mein, without meat or noodles",680.4
+58136110,"Lo mein, NFS",36625,"Restaurant, Chinese, vegetable lo mein, without meat",100
+58136120,"Lo mein, meatless",36625,"Restaurant, Chinese, vegetable lo mein, without meat",100
+58136130,"Lo mein, with shrimp",36625,"Restaurant, Chinese, vegetable lo mein, without meat",1360.8
+58136140,"Lo mein, with pork",36625,"Restaurant, Chinese, vegetable lo mein, without meat",1360.8
+58136150,"Lo mein, with beef",36625,"Restaurant, Chinese, vegetable lo mein, without meat",1360.8
+58136160,"Lo mein, with chicken",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",168.75
+58136160,"Lo mein, with chicken",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",67.5
+58136160,"Lo mein, with chicken",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",101.25
+58136160,"Lo mein, with chicken",36625,"Restaurant, Chinese, vegetable lo mein, without meat",1360.8
+58137210,"Pad Thai, NFS",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",135
+58137210,"Pad Thai, NFS",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",54
+58137210,"Pad Thai, NFS",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",81
+58137230,Pad Thai with chicken,5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",135
+58137230,Pad Thai with chicken,5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",54
+58137230,Pad Thai with chicken,5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",81
+58137300,"Adobo, with noodles",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",680.4
+58145136,"Macaroni or noodles with cheese and meat, prepared from Hamburger Helper mix",23572,"Beef, ground, 80% lean meat / 20% fat, raw",453.6
+58145190,Macaroni or noodles with cheese and chicken or turkey,5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",181.5
+58145190,Macaroni or noodles with cheese and chicken or turkey,5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",72.6
+58145190,Macaroni or noodles with cheese and chicken or turkey,5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",108.9
+58146341,"Pasta with tomato-based sauce and poultry, restaurant",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",12.1875
+58146342,"Pasta with tomato-based sauce and poultry, home recipe",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",12.1875
+58146343,"Pasta with tomato-based sauce and poultry, ready-to-heat",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",12.1875
+58146351,"Pasta with tomato-based sauce, poultry, and added vegetables, restaurant",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",12.1875
+58146352,"Pasta with tomato-based sauce, poultry, and added vegetables, home recipe",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",12.1875
+58146353,"Pasta with tomato-based sauce, poultry, and added vegetables, ready-to-heat",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",12.1875
+58146421,"Pasta with cream sauce and poultry, restaurant",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",12.1875
+58146422,"Pasta with cream sauce and poultry, home recipe",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",12.1875
+58146423,"Pasta with cream sauce and poultry, ready-to-heat",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",12.1875
+58146431,"Pasta with cream sauce, poultry, and added vegetables, restaurant",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",12.1875
+58146432,"Pasta with cream sauce, poultry, and added vegetables, home recipe",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",12.1875
+58146433,"Pasta with cream sauce, poultry, and added vegetables, ready-to-heat",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",12.1875
+58146641,"Pasta, whole grain, with tomato-based sauce and poultry, restaurant",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",12.1875
+58146642,"Pasta, whole grain, with tomato-based sauce and poultry, home recipe",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",12.1875
+58146643,"Pasta, whole grain, with tomato-based sauce and poultry, ready-to-heat",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",12.1875
+58146651,"Pasta, whole grain, with tomato-based sauce, poultry, and added vegetables, restaurant",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",12.1875
+58146652,"Pasta, whole grain, with tomato-based sauce, poultry, and added vegetables, home recipe",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",12.1875
+58146653,"Pasta, whole grain, with tomato-based sauce, poultry, and added vegetables, ready-to-heat",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",12.1875
+58146721,"Pasta, whole grain, with cream sauce and poultry, restaurant",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",12.1875
+58146722,"Pasta, whole grain, with cream sauce and poultry, home recipe",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",12.1875
+58146723,"Pasta, whole grain, with cream sauce and poultry, ready-to-heat",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",12.1875
+58146731,"Pasta, whole grain, with cream sauce, poultry, and added vegetables, restaurant",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",12.1875
+58146732,"Pasta, whole grain, with cream sauce, poultry, and added vegetables, home recipe",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",12.1875
+58146733,"Pasta, whole grain, with cream sauce, poultry, and added vegetables, ready-to-heat",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",12.1875
+58147520,"Yat Ga Mein with meat, fish, or poultry",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",56.25
+58147520,"Yat Ga Mein with meat, fish, or poultry",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",22.5
+58147520,"Yat Ga Mein with meat, fish, or poultry",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",33.75
+58147520,"Yat Ga Mein with meat, fish, or poultry",36624,"Restaurant, Chinese, vegetable chow mein, without meat or noodles",680.4
+58148170,Macaroni or pasta salad with chicken,5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",135
+58148170,Macaroni or pasta salad with chicken,5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",54
+58148170,Macaroni or pasta salad with chicken,5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",81
+58150110,"Rice, fried, meatless",36602,"Restaurant, Chinese, fried rice, without meat",100
+58150310,"Rice, fried, NFS",36602,"Restaurant, Chinese, fried rice, without meat",100
+58150320,"Rice, fried, with chicken",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",7.5
+58150320,"Rice, fried, with chicken",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",3
+58150320,"Rice, fried, with chicken",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",4.5
+58150320,"Rice, fried, with chicken",36602,"Restaurant, Chinese, fried rice, without meat",85
+58150330,"Rice, fried, with pork",36602,"Restaurant, Chinese, fried rice, without meat",85
+58150340,"Rice, fried, with beef",36602,"Restaurant, Chinese, fried rice, without meat",85
+58150510,"Rice, fried, with shrimp",36602,"Restaurant, Chinese, fried rice, without meat",85
+58150530,"Adobo, with rice",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",680.4
+58155110,"Rice with chicken, Puerto Rican style",5091,"Chicken, broilers or fryers, thigh, meat and skin, raw",453.6
+58155310,"Paella with meat, Valenciana style",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",264.45
+58155310,"Paella with meat, Valenciana style",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",105.78
+58155310,"Paella with meat, Valenciana style",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",158.67
+58155410,"Soupy rice with chicken, Puerto Rican style",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",504
+58155410,"Soupy rice with chicken, Puerto Rican style",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",201.6
+58155410,"Soupy rice with chicken, Puerto Rican style",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",302.4
+58155510,"Soupy rice mixture with chicken and potatoes, Puerto Rican style",5361,"Chicken, broiler, rotisserie, BBQ, thigh, meat and skin",561
+58157300,"Congee, with meat, poultry, and/or seafood",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",60.5
+58157300,"Congee, with meat, poultry, and/or seafood",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",24.2
+58157300,"Congee, with meat, poultry, and/or seafood",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",36.3
+58157310,"Congee, with meat, poultry, and/or seafood, and vegetables",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",60.5
+58157310,"Congee, with meat, poultry, and/or seafood, and vegetables",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",24.2
+58157310,"Congee, with meat, poultry, and/or seafood, and vegetables",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",36.3
+58161200,"Rice, cooked with coconut milk",12117,"Nuts, coconut milk, raw (liquid expressed from grated meat and water)",976
+58163310,Flavored rice mixture,5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",2.5
+58163310,Flavored rice mixture,5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",1
+58163310,Flavored rice mixture,5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",1.5
+58301050,"Lasagna with cheese and meat sauce, diet frozen meal",23570,"Beef, ground, 85% lean meat / 15% fat, crumbles, cooked, pan-browned",34
+58302050,"Beef and noodles with meat sauce and cheese, diet frozen meal",23570,"Beef, ground, 85% lean meat / 15% fat, crumbles, cooked, pan-browned",49.61
+58304010,"Spaghetti and meatballs dinner, NFS, frozen meal",23580,"Beef, ground, 75% lean meat / 25% fat, crumbles, cooked, pan-browned",35
+58304050,"Spaghetti with meat and mushroom sauce, diet frozen meal",23570,"Beef, ground, 85% lean meat / 15% fat, crumbles, cooked, pan-browned",34.23
+58304060,"Spaghetti with meat sauce, diet frozen meal",23580,"Beef, ground, 75% lean meat / 25% fat, crumbles, cooked, pan-browned",9.549795362
+58306010,"Beef enchilada dinner, NFS, frozen meal",23580,"Beef, ground, 75% lean meat / 25% fat, crumbles, cooked, pan-browned",5.073051948
+58306020,"Beef enchilada, chili gravy, rice, refried beans, frozen meal",23580,"Beef, ground, 75% lean meat / 25% fat, crumbles, cooked, pan-browned",25
+58403040,"Chicken or turkey noodle soup, home recipe",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",135
+58403040,"Chicken or turkey noodle soup, home recipe",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",54
+58403040,"Chicken or turkey noodle soup, home recipe",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",81
+58404030,"Chicken or turkey rice soup, home recipe",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",135
+58404030,"Chicken or turkey rice soup, home recipe",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",54
+58404030,"Chicken or turkey rice soup, home recipe",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",81
+58509020,"Spaghetti, tomato sauce, and beef, baby food, junior",3050,"Babyfood, dinner, spaghetti and tomato and meat, junior",100
+63301010,Ambrosia,12104,"Nuts, coconut meat, raw",40
+73211110,"Sweet potato and pumpkin casserole, Puerto Rican style",12117,"Nuts, coconut milk, raw (liquid expressed from grated meat and water)",240
+75140500,"Broccoli salad with cauliflower, cheese, bacon bits, and dressing",43212,"Bacon bits, meatless",56
+75148010,"Cobb salad, no dressing",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",540
+75439500,"Chow mein or chop suey, meatless, no noodles",36624,"Restaurant, Chinese, vegetable chow mein, without meat or noodles",100
+75440600,Vegetable curry,12117,"Nuts, coconut milk, raw (liquid expressed from grated meat and water)",2.8
+75440610,Vegetable curry with rice,12117,"Nuts, coconut milk, raw (liquid expressed from grated meat and water)",2.8
+75460900,"Chow mein or chop suey, meatless, with noodles",36624,"Restaurant, Chinese, vegetable chow mein, without meat or noodles",680.4
+77141010,"Potato chicken pie, Puerto Rican style",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",226.8
+77141010,"Potato chicken pie, Puerto Rican style",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",90.72
+77141010,"Potato chicken pie, Puerto Rican style",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",136.08
+81312100,Curry sauce,12117,"Nuts, coconut milk, raw (liquid expressed from grated meat and water)",7
+89901006,"Chicken, for use with vegetables",5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",50
+89901006,"Chicken, for use with vegetables",5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",20
+89901006,"Chicken, for use with vegetables",5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",30
+91550100,"Coconut cream cake, Puerto Rican style",12117,"Nuts, coconut milk, raw (liquid expressed from grated meat and water)",240
+91560100,Haupia,12117,"Nuts, coconut milk, raw (liquid expressed from grated meat and water)",720
+91706400,"Coconut candy, Puerto Rican style",12117,"Nuts, coconut milk, raw (liquid expressed from grated meat and water)",480

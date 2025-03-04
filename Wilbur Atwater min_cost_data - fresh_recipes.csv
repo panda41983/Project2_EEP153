@@ -1,0 +1,988 @@
+parent_foodcode,parent_desc,ingred_code,ingred_desc,ingred_wt
+13210820,"Fresh corn custard, Puerto Rican style",2005,"Spices, caraway seed",1.117
+13210820,"Fresh corn custard, Puerto Rican style",2047,"Salt, table",7.5
+13210820,"Fresh corn custard, Puerto Rican style",11167,"Corn, sweet, yellow, raw",217.5
+13210820,"Fresh corn custard, Puerto Rican style",12117,"Nuts, coconut milk, raw (liquid expressed from grated meat and water)",480
+13210820,"Fresh corn custard, Puerto Rican style",19335,"Sugars, granulated",150
+72107201,"Collards, cooked, from fresh, NS as to fat added in cooking",2047,"Salt, table",1
+72107201,"Collards, cooked, from fresh, NS as to fat added in cooking",4323,"Table fat, averaged",4.729
+72107201,"Collards, cooked, from fresh, NS as to fat added in cooking",11162,"Collards, cooked, boiled, drained, without salt",190
+72107229,"Collards, cooked, from fresh, made with margarine",2047,"Salt, table",1
+72107229,"Collards, cooked, from fresh, made with margarine",4613,"Margarine-like, vegetable oil spread, 60% fat, tub, with salt",3.10115
+72107229,"Collards, cooked, from fresh, made with margarine",4694,"Margarine-like, vegetable oil spread, 60% fat, tub, with salt, with added vitamin D",1.66985
+72107229,"Collards, cooked, from fresh, made with margarine",11162,"Collards, cooked, boiled, drained, without salt",190
+72110201,"Cress, cooked, from fresh, NS as to fat added in cooking",2047,"Salt, table",1.002
+72110201,"Cress, cooked, from fresh, NS as to fat added in cooking",4323,"Table fat, averaged",4.729
+72110201,"Cress, cooked, from fresh, NS as to fat added in cooking",11204,"Cress, garden, cooked, boiled, drained, without salt",135
+72110211,"Cress, cooked, from fresh, fat not added in cooking",2047,"Salt, table",1
+72110211,"Cress, cooked, from fresh, fat not added in cooking",11204,"Cress, garden, cooked, boiled, drained, without salt",135
+72110233,"Cress, cooked, from fresh, made with oil",2047,"Salt, table",1
+72110233,"Cress, cooked, from fresh, made with oil",4322,"Vegetable oil, averaged",4.542
+72110233,"Cress, cooked, from fresh, made with oil",11204,"Cress, garden, cooked, boiled, drained, without salt",135
+72110234,"Cress, cooked, from fresh, made with butter",1001,"Butter, salted",4.729
+72110234,"Cress, cooked, from fresh, made with butter",2047,"Salt, table",1
+72110234,"Cress, cooked, from fresh, made with butter",11204,"Cress, garden, cooked, boiled, drained, without salt",135
+72110235,"Cress, cooked, from fresh, made with margarine",2047,"Salt, table",1
+72110235,"Cress, cooked, from fresh, made with margarine",4613,"Margarine-like, vegetable oil spread, 60% fat, tub, with salt",3.10115
+72110235,"Cress, cooked, from fresh, made with margarine",4694,"Margarine-like, vegetable oil spread, 60% fat, tub, with salt, with added vitamin D",1.66985
+72110235,"Cress, cooked, from fresh, made with margarine",11204,"Cress, garden, cooked, boiled, drained, without salt",135
+72118201,"Greens, cooked, from fresh, NS as to fat added in cooking",2047,"Salt, table",1
+72118201,"Greens, cooked, from fresh, NS as to fat added in cooking",4323,"Table fat, averaged",4.729
+72118201,"Greens, cooked, from fresh, NS as to fat added in cooking",11162,"Collards, cooked, boiled, drained, without salt",63.27
+72118201,"Greens, cooked, from fresh, NS as to fat added in cooking",11234,"Kale, cooked, boiled, drained, without salt",43.29
+72118201,"Greens, cooked, from fresh, NS as to fat added in cooking",11569,"Turnip greens, cooked, boiled, drained, without salt",47.952
+72118227,"Greens, cooked, from fresh, made with oil",2047,"Salt, table",1
+72118227,"Greens, cooked, from fresh, made with oil",4322,"Vegetable oil, averaged",4.542
+72118227,"Greens, cooked, from fresh, made with oil",11162,"Collards, cooked, boiled, drained, without salt",63.327
+72118227,"Greens, cooked, from fresh, made with oil",11234,"Kale, cooked, boiled, drained, without salt",43.329
+72118227,"Greens, cooked, from fresh, made with oil",11569,"Turnip greens, cooked, boiled, drained, without salt",47.995
+72118228,"Greens, cooked, from fresh, made with butter",1001,"Butter, salted",4.729
+72118228,"Greens, cooked, from fresh, made with butter",2047,"Salt, table",1
+72118228,"Greens, cooked, from fresh, made with butter",11162,"Collards, cooked, boiled, drained, without salt",63.327
+72118228,"Greens, cooked, from fresh, made with butter",11234,"Kale, cooked, boiled, drained, without salt",43.329
+72118228,"Greens, cooked, from fresh, made with butter",11569,"Turnip greens, cooked, boiled, drained, without salt",47.995
+72118229,"Greens, cooked, from fresh, made with margarine",2047,"Salt, table",1
+72118229,"Greens, cooked, from fresh, made with margarine",4613,"Margarine-like, vegetable oil spread, 60% fat, tub, with salt",3.10115
+72118229,"Greens, cooked, from fresh, made with margarine",4694,"Margarine-like, vegetable oil spread, 60% fat, tub, with salt, with added vitamin D",1.66985
+72118229,"Greens, cooked, from fresh, made with margarine",11162,"Collards, cooked, boiled, drained, without salt",63.327
+72118229,"Greens, cooked, from fresh, made with margarine",11234,"Kale, cooked, boiled, drained, without salt",43.329
+72118229,"Greens, cooked, from fresh, made with margarine",11569,"Turnip greens, cooked, boiled, drained, without salt",47.995
+72119201,"Kale, cooked, from fresh, NS as to fat added in cooking",2047,"Salt, table",1
+72119201,"Kale, cooked, from fresh, NS as to fat added in cooking",4323,"Table fat, averaged",4.729
+72119201,"Kale, cooked, from fresh, NS as to fat added in cooking",11234,"Kale, cooked, boiled, drained, without salt",130
+72119227,"Kale, cooked, from fresh, made with oil",2047,"Salt, table",1
+72119227,"Kale, cooked, from fresh, made with oil",4322,"Vegetable oil, averaged",4.542
+72119227,"Kale, cooked, from fresh, made with oil",11234,"Kale, cooked, boiled, drained, without salt",130
+72119228,"Kale, cooked, from fresh, made with butter",1001,"Butter, salted",4.729
+72119228,"Kale, cooked, from fresh, made with butter",2047,"Salt, table",1
+72119228,"Kale, cooked, from fresh, made with butter",11234,"Kale, cooked, boiled, drained, without salt",130
+72119229,"Kale, cooked, from fresh, made with margarine",2047,"Salt, table",1
+72119229,"Kale, cooked, from fresh, made with margarine",4613,"Margarine-like, vegetable oil spread, 60% fat, tub, with salt",3.10115
+72119229,"Kale, cooked, from fresh, made with margarine",4694,"Margarine-like, vegetable oil spread, 60% fat, tub, with salt, with added vitamin D",1.66985
+72119229,"Kale, cooked, from fresh, made with margarine",11234,"Kale, cooked, boiled, drained, without salt",130
+72122201,"Mustard greens, cooked, from fresh, NS as to fat added in cooking",2047,"Salt, table",1
+72122201,"Mustard greens, cooked, from fresh, NS as to fat added in cooking",4323,"Table fat, averaged",4.729
+72122201,"Mustard greens, cooked, from fresh, NS as to fat added in cooking",11271,"Mustard greens, cooked, boiled, drained, without salt",140
+72122227,"Mustard greens, cooked, from fresh, made with oil",2047,"Salt, table",1
+72122227,"Mustard greens, cooked, from fresh, made with oil",4322,"Vegetable oil, averaged",4.542
+72122227,"Mustard greens, cooked, from fresh, made with oil",11271,"Mustard greens, cooked, boiled, drained, without salt",140
+72122228,"Mustard greens, cooked, from fresh, made with butter",1001,"Butter, salted",4.729
+72122228,"Mustard greens, cooked, from fresh, made with butter",2047,"Salt, table",1
+72122228,"Mustard greens, cooked, from fresh, made with butter",11271,"Mustard greens, cooked, boiled, drained, without salt",140
+72122229,"Mustard greens, cooked, from fresh, made with margarine",2047,"Salt, table",1
+72122229,"Mustard greens, cooked, from fresh, made with margarine",4613,"Margarine-like, vegetable oil spread, 60% fat, tub, with salt",3.10115
+72122229,"Mustard greens, cooked, from fresh, made with margarine",4694,"Margarine-like, vegetable oil spread, 60% fat, tub, with salt, with added vitamin D",1.66985
+72122229,"Mustard greens, cooked, from fresh, made with margarine",11271,"Mustard greens, cooked, boiled, drained, without salt",140
+72125201,"Spinach, cooked, from fresh, NS as to fat added in cooking",2047,"Salt, table",1
+72125201,"Spinach, cooked, from fresh, NS as to fat added in cooking",4323,"Table fat, averaged",4.729
+72125201,"Spinach, cooked, from fresh, NS as to fat added in cooking",11458,"Spinach, cooked, boiled, drained, without salt",180
+72125219,"Spinach, cooked, from fresh, made with margarine",2047,"Salt, table",1
+72125219,"Spinach, cooked, from fresh, made with margarine",4613,"Margarine-like, vegetable oil spread, 60% fat, tub, with salt",3.10115
+72125219,"Spinach, cooked, from fresh, made with margarine",4694,"Margarine-like, vegetable oil spread, 60% fat, tub, with salt, with added vitamin D",1.66985
+72125219,"Spinach, cooked, from fresh, made with margarine",11458,"Spinach, cooked, boiled, drained, without salt",180
+72125231,"Spinach, from fresh, creamed",2047,"Salt, table",0.4
+72125231,"Spinach, from fresh, creamed",6166,"Sauce, homemade, white, medium",125
+72125231,"Spinach, from fresh, creamed",11458,"Spinach, cooked, boiled, drained, without salt",180
+72125251,"Spinach, cooked, from fresh, with cheese sauce",1164,"Cheese sauce, prepared from recipe",80.992
+72125251,"Spinach, cooked, from fresh, with cheese sauce",2047,"Salt, table",0.4
+72125251,"Spinach, cooked, from fresh, with cheese sauce",11458,"Spinach, cooked, boiled, drained, without salt",180
+72128201,"Turnip greens, cooked, from fresh, NS as to fat added in cooking",2047,"Salt, table",1
+72128201,"Turnip greens, cooked, from fresh, NS as to fat added in cooking",4323,"Table fat, averaged",4.729
+72128201,"Turnip greens, cooked, from fresh, NS as to fat added in cooking",11569,"Turnip greens, cooked, boiled, drained, without salt",144
+72128227,"Turnip greens, cooked, from fresh, made with oil",2047,"Salt, table",1
+72128227,"Turnip greens, cooked, from fresh, made with oil",4322,"Vegetable oil, averaged",4.542
+72128227,"Turnip greens, cooked, from fresh, made with oil",11569,"Turnip greens, cooked, boiled, drained, without salt",144
+72128228,"Turnip greens, cooked, from fresh, made with butter",1001,"Butter, salted",4.729
+72128228,"Turnip greens, cooked, from fresh, made with butter",2047,"Salt, table",1
+72128228,"Turnip greens, cooked, from fresh, made with butter",11569,"Turnip greens, cooked, boiled, drained, without salt",144
+72128229,"Turnip greens, cooked, from fresh, made with margarine",2047,"Salt, table",1
+72128229,"Turnip greens, cooked, from fresh, made with margarine",4613,"Margarine-like, vegetable oil spread, 60% fat, tub, with salt",3.10115
+72128229,"Turnip greens, cooked, from fresh, made with margarine",4694,"Margarine-like, vegetable oil spread, 60% fat, tub, with salt, with added vitamin D",1.66985
+72128229,"Turnip greens, cooked, from fresh, made with margarine",11569,"Turnip greens, cooked, boiled, drained, without salt",144
+72128401,"Turnip greens with roots, cooked, from fresh, NS as to fat added in cooking",2047,"Salt, table",1
+72128401,"Turnip greens with roots, cooked, from fresh, NS as to fat added in cooking",4323,"Table fat, averaged",4.729
+72128401,"Turnip greens with roots, cooked, from fresh, NS as to fat added in cooking",11565,"Turnips, cooked, boiled, drained, without salt",78
+72128401,"Turnip greens with roots, cooked, from fresh, NS as to fat added in cooking",11569,"Turnip greens, cooked, boiled, drained, without salt",72
+72128411,"Turnip greens with roots, cooked, from fresh, fat not added in cooking",2047,"Salt, table",1
+72128411,"Turnip greens with roots, cooked, from fresh, fat not added in cooking",11565,"Turnips, cooked, boiled, drained, without salt",78
+72128411,"Turnip greens with roots, cooked, from fresh, fat not added in cooking",11569,"Turnip greens, cooked, boiled, drained, without salt",72
+72128421,"Turnip greens with roots, cooked, from fresh, fat added in cooking",2047,"Salt, table",1
+72128421,"Turnip greens with roots, cooked, from fresh, fat added in cooking",4323,"Table fat, averaged",4.729
+72128421,"Turnip greens with roots, cooked, from fresh, fat added in cooking",11565,"Turnips, cooked, boiled, drained, without salt",78
+72128421,"Turnip greens with roots, cooked, from fresh, fat added in cooking",11569,"Turnip greens, cooked, boiled, drained, without salt",72
+72201201,"Broccoli, cooked, from fresh, NS as to fat added in cooking",2047,"Salt, table",1
+72201201,"Broccoli, cooked, from fresh, NS as to fat added in cooking",4323,"Table fat, averaged",4.729
+72201201,"Broccoli, cooked, from fresh, NS as to fat added in cooking",11091,"Broccoli, cooked, boiled, drained, without salt",156
+72201225,"Broccoli, cooked, from fresh, made with margarine",2047,"Salt, table",1
+72201225,"Broccoli, cooked, from fresh, made with margarine",4613,"Margarine-like, vegetable oil spread, 60% fat, tub, with salt",3.10115
+72201225,"Broccoli, cooked, from fresh, made with margarine",4694,"Margarine-like, vegetable oil spread, 60% fat, tub, with salt, with added vitamin D",1.66985
+72201225,"Broccoli, cooked, from fresh, made with margarine",11091,"Broccoli, cooked, boiled, drained, without salt",156
+72201231,"Broccoli, cooked, from fresh, with cheese sauce",1164,"Cheese sauce, prepared from recipe",80.992
+72201231,"Broccoli, cooked, from fresh, with cheese sauce",2047,"Salt, table",0.4
+72201231,"Broccoli, cooked, from fresh, with cheese sauce",11091,"Broccoli, cooked, boiled, drained, without salt",156
+72201241,"Broccoli, cooked, from fresh, with mushroom sauce",1111,"Milk, averaged fat, with added vitamin A and D",30.5
+72201241,"Broccoli, cooked, from fresh, with mushroom sauce",2047,"Salt, table",0.4
+72201241,"Broccoli, cooked, from fresh, with mushroom sauce",6043,"Soup, cream of mushroom, canned, condensed",83.658
+72201241,"Broccoli, cooked, from fresh, with mushroom sauce",11091,"Broccoli, cooked, boiled, drained, without salt",156
+72201251,"Broccoli, cooked, from fresh, with cream sauce",2047,"Salt, table",0.4
+72201251,"Broccoli, cooked, from fresh, with cream sauce",6166,"Sauce, homemade, white, medium",125
+72201251,"Broccoli, cooked, from fresh, with cream sauce",11091,"Broccoli, cooked, boiled, drained, without salt",156
+72203020,"Broccoli, chinese, cooked, from fresh, NS as to fat added in cooking",2047,"Salt, table",1
+72203020,"Broccoli, chinese, cooked, from fresh, NS as to fat added in cooking",4323,"Table fat, averaged",4.729
+72203020,"Broccoli, chinese, cooked, from fresh, NS as to fat added in cooking",11969,"Broccoli, chinese, cooked",88
+72203050,"Broccoli, chinese cooked, from fresh, fat not added in cooking",2047,"Salt, table",1
+72203050,"Broccoli, chinese cooked, from fresh, fat not added in cooking",11969,"Broccoli, chinese, cooked",88
+72203110,"Broccoli, chinese, cooked, from fresh, fat added in cooking, NS as to type of fat",2047,"Salt, table",1
+72203110,"Broccoli, chinese, cooked, from fresh, fat added in cooking, NS as to type of fat",4323,"Table fat, averaged",4.729
+72203110,"Broccoli, chinese, cooked, from fresh, fat added in cooking, NS as to type of fat",11969,"Broccoli, chinese, cooked",88
+72203120,"Broccoli, chinese, cooked, from fresh, made with oil",2047,"Salt, table",1
+72203120,"Broccoli, chinese, cooked, from fresh, made with oil",4322,"Vegetable oil, averaged",4.542
+72203120,"Broccoli, chinese, cooked, from fresh, made with oil",11969,"Broccoli, chinese, cooked",88
+72203130,"Broccoli, chinese, cooked, from fresh, made with butter",1001,"Butter, salted",4.729
+72203130,"Broccoli, chinese, cooked, from fresh, made with butter",2047,"Salt, table",1
+72203130,"Broccoli, chinese, cooked, from fresh, made with butter",11969,"Broccoli, chinese, cooked",88
+72203140,"Broccoli, chinese, cooked, from fresh, made with margarine",2047,"Salt, table",1
+72203140,"Broccoli, chinese, cooked, from fresh, made with margarine",4613,"Margarine-like, vegetable oil spread, 60% fat, tub, with salt",3.10115
+72203140,"Broccoli, chinese, cooked, from fresh, made with margarine",4694,"Margarine-like, vegetable oil spread, 60% fat, tub, with salt, with added vitamin D",1.66985
+72203140,"Broccoli, chinese, cooked, from fresh, made with margarine",11969,"Broccoli, chinese, cooked",88
+73102201,"Carrots, cooked, from fresh, NS as to fat added in cooking",2047,"Salt, table",1
+73102201,"Carrots, cooked, from fresh, NS as to fat added in cooking",4323,"Table fat, averaged",4.729
+73102201,"Carrots, cooked, from fresh, NS as to fat added in cooking",11125,"Carrots, cooked, boiled, drained, without salt",155.2
+73102219,"Carrots, cooked, from fresh, made with margarine",2047,"Salt, table",1
+73102219,"Carrots, cooked, from fresh, made with margarine",4613,"Margarine-like, vegetable oil spread, 60% fat, tub, with salt",3.10115
+73102219,"Carrots, cooked, from fresh, made with margarine",4694,"Margarine-like, vegetable oil spread, 60% fat, tub, with salt, with added vitamin D",1.66985
+73102219,"Carrots, cooked, from fresh, made with margarine",11125,"Carrots, cooked, boiled, drained, without salt",155.2
+73102231,"Carrots, cooked, from fresh, creamed",2047,"Salt, table",0.4
+73102231,"Carrots, cooked, from fresh, creamed",6166,"Sauce, homemade, white, medium",125
+73102231,"Carrots, cooked, from fresh, creamed",11125,"Carrots, cooked, boiled, drained, without salt",155.2
+73102251,"Carrots, cooked, from fresh, with cheese sauce",1164,"Cheese sauce, prepared from recipe",80.992
+73102251,"Carrots, cooked, from fresh, with cheese sauce",2047,"Salt, table",0.4
+73102251,"Carrots, cooked, from fresh, with cheese sauce",11125,"Carrots, cooked, boiled, drained, without salt",155.2
+73111031,"Peas and carrots, from fresh, creamed",2047,"Salt, table",0.4
+73111031,"Peas and carrots, from fresh, creamed",6166,"Sauce, homemade, white, medium",125
+73111031,"Peas and carrots, from fresh, creamed",11125,"Carrots, cooked, boiled, drained, without salt",77.6
+73111031,"Peas and carrots, from fresh, creamed",11305,"Peas, green, cooked, boiled, drained, without salt",80
+73111201,"Peas and carrots, cooked, from fresh, NS as to fat added in cooking",2047,"Salt, table",1
+73111201,"Peas and carrots, cooked, from fresh, NS as to fat added in cooking",4323,"Table fat, averaged",4.729
+73111201,"Peas and carrots, cooked, from fresh, NS as to fat added in cooking",11125,"Carrots, cooked, boiled, drained, without salt",77.6
+73111201,"Peas and carrots, cooked, from fresh, NS as to fat added in cooking",11305,"Peas, green, cooked, boiled, drained, without salt",80
+73111227,"Peas and carrots, cooked, from fresh, made with oil",2047,"Salt, table",1
+73111227,"Peas and carrots, cooked, from fresh, made with oil",4322,"Vegetable oil, averaged",4.542
+73111227,"Peas and carrots, cooked, from fresh, made with oil",11323,"Peas and carrots, frozen, cooked, boiled, drained, without salt",160
+73111228,"Peas and carrots, cooked, from fresh, made with butter",1001,"Butter, salted",4.729
+73111228,"Peas and carrots, cooked, from fresh, made with butter",2047,"Salt, table",1
+73111228,"Peas and carrots, cooked, from fresh, made with butter",11323,"Peas and carrots, frozen, cooked, boiled, drained, without salt",160
+73111229,"Peas and carrots, cooked, from fresh, made with margarine",2047,"Salt, table",1
+73111229,"Peas and carrots, cooked, from fresh, made with margarine",4613,"Margarine-like, vegetable oil spread, 60% fat, tub, with salt",3.10115
+73111229,"Peas and carrots, cooked, from fresh, made with margarine",4694,"Margarine-like, vegetable oil spread, 60% fat, tub, with salt, with added vitamin D",1.66985
+73111229,"Peas and carrots, cooked, from fresh, made with margarine",11323,"Peas and carrots, frozen, cooked, boiled, drained, without salt",160
+73201001,"Pumpkin, cooked, from fresh, NS as to fat added in cooking",2047,"Salt, table",1
+73201001,"Pumpkin, cooked, from fresh, NS as to fat added in cooking",4323,"Table fat, averaged",4.729
+73201001,"Pumpkin, cooked, from fresh, NS as to fat added in cooking",11423,"Pumpkin, cooked, boiled, drained, without salt",245
+73201011,"Pumpkin, cooked, from fresh, fat not added in cooking",2047,"Salt, table",1
+73201011,"Pumpkin, cooked, from fresh, fat not added in cooking",11423,"Pumpkin, cooked, boiled, drained, without salt",245
+73201021,"Pumpkin, cooked, from fresh, fat added in cooking, NS as to type of fat",2047,"Salt, table",1
+73201021,"Pumpkin, cooked, from fresh, fat added in cooking, NS as to type of fat",4323,"Table fat, averaged",4.729
+73201021,"Pumpkin, cooked, from fresh, fat added in cooking, NS as to type of fat",11423,"Pumpkin, cooked, boiled, drained, without salt",245
+73201027,"Pumpkin, cooked, from fresh, made with oil",2047,"Salt, table",1
+73201027,"Pumpkin, cooked, from fresh, made with oil",4322,"Vegetable oil, averaged",4.542
+73201027,"Pumpkin, cooked, from fresh, made with oil",11423,"Pumpkin, cooked, boiled, drained, without salt",245
+73201028,"Pumpkin, cooked, from fresh, made with butter",1001,"Butter, salted",4.729
+73201028,"Pumpkin, cooked, from fresh, made with butter",2047,"Salt, table",1
+73201028,"Pumpkin, cooked, from fresh, made with butter",11423,"Pumpkin, cooked, boiled, drained, without salt",245
+73201029,"Pumpkin, cooked, from fresh, made with margarine",2047,"Salt, table",1
+73201029,"Pumpkin, cooked, from fresh, made with margarine",4613,"Margarine-like, vegetable oil spread, 60% fat, tub, with salt",3.10115
+73201029,"Pumpkin, cooked, from fresh, made with margarine",4694,"Margarine-like, vegetable oil spread, 60% fat, tub, with salt, with added vitamin D",1.66985
+73201029,"Pumpkin, cooked, from fresh, made with margarine",11423,"Pumpkin, cooked, boiled, drained, without salt",245
+74202011,"Tomatoes, from fresh, broiled",2047,"Salt, table",1
+74202011,"Tomatoes, from fresh, broiled",11529,"Tomatoes, red, ripe, raw, year round average",180
+74202051,"Tomatoes, red, from fresh, fried",1111,"Milk, averaged fat, with added vitamin A and D",14.3
+74202051,"Tomatoes, red, from fresh, fried",1123,"Egg, whole, raw, fresh",5.9
+74202051,"Tomatoes, red, from fresh, fried",2047,"Salt, table",0.3
+74202051,"Tomatoes, red, from fresh, fried",4322,"Vegetable oil, averaged",13.625
+74202051,"Tomatoes, red, from fresh, fried",11529,"Tomatoes, red, ripe, raw, year round average",81
+74202051,"Tomatoes, red, from fresh, fried",18369,"Leavening agents, baking powder, double-acting, sodium aluminum sulfate",0.6
+74202051,"Tomatoes, red, from fresh, fried",20081,"Wheat flour, white, all-purpose, enriched, bleached",10.8
+74203011,"Tomatoes, from fresh, scalloped",2047,"Salt, table",6
+74203011,"Tomatoes, from fresh, scalloped",4613,"Margarine-like, vegetable oil spread, 60% fat, tub, with salt",48.96
+74203011,"Tomatoes, from fresh, scalloped",4694,"Margarine-like, vegetable oil spread, 60% fat, tub, with salt, with added vitamin D",8.64
+74203011,"Tomatoes, from fresh, scalloped",11282,"Onions, raw",6.667
+74203011,"Tomatoes, from fresh, scalloped",11530,"Tomatoes, red, ripe, cooked",793.8
+74203011,"Tomatoes, from fresh, scalloped",18069,"Bread, white, commercially prepared (includes soft bread crumbs)",90
+74203011,"Tomatoes, from fresh, scalloped",19335,"Sugars, granulated",12.5
+74204011,"Tomatoes, from fresh, stewed",2047,"Salt, table",3
+74204011,"Tomatoes, from fresh, stewed",4613,"Margarine-like, vegetable oil spread, 60% fat, tub, with salt",12.24
+74204011,"Tomatoes, from fresh, stewed",4694,"Margarine-like, vegetable oil spread, 60% fat, tub, with salt, with added vitamin D",2.16
+74204011,"Tomatoes, from fresh, stewed",11143,"Celery, raw",15
+74204011,"Tomatoes, from fresh, stewed",11282,"Onions, raw",3.333
+74204011,"Tomatoes, from fresh, stewed",11530,"Tomatoes, red, ripe, cooked",600
+74204011,"Tomatoes, from fresh, stewed",18079,"Bread crumbs, dry, grated, plain",35.964
+74204011,"Tomatoes, from fresh, stewed",19335,"Sugars, granulated",8.333
+74205011,"Tomatoes, green, cooked, from fresh",1111,"Milk, averaged fat, with added vitamin A and D",14.3
+74205011,"Tomatoes, green, cooked, from fresh",1123,"Egg, whole, raw, fresh",5.9
+74205011,"Tomatoes, green, cooked, from fresh",2047,"Salt, table",0.3
+74205011,"Tomatoes, green, cooked, from fresh",4322,"Vegetable oil, averaged",13.625
+74205011,"Tomatoes, green, cooked, from fresh",11527,"Tomatoes, green, raw",60
+74205011,"Tomatoes, green, cooked, from fresh",18369,"Leavening agents, baking powder, double-acting, sodium aluminum sulfate",0.6
+74205011,"Tomatoes, green, cooked, from fresh",20081,"Wheat flour, white, all-purpose, enriched, bleached",10.8
+75201001,"Artichoke, cooked, from fresh, NS as to fat added in cooking",2047,"Salt, table",1
+75201001,"Artichoke, cooked, from fresh, NS as to fat added in cooking",4323,"Table fat, averaged",4.729
+75201001,"Artichoke, cooked, from fresh, NS as to fat added in cooking",11008,"Artichokes, (globe or french), cooked, boiled, drained, without salt",168
+75201034,"Artichoke, cooked, from fresh, made with oil",2047,"Salt, table",1
+75201034,"Artichoke, cooked, from fresh, made with oil",4322,"Vegetable oil, averaged",4.542
+75201034,"Artichoke, cooked, from fresh, made with oil",11008,"Artichokes, (globe or french), cooked, boiled, drained, without salt",168
+75201035,"Artichoke, cooked, from fresh, made with butter",1001,"Butter, salted",4.729
+75201035,"Artichoke, cooked, from fresh, made with butter",2047,"Salt, table",1
+75201035,"Artichoke, cooked, from fresh, made with butter",11008,"Artichokes, (globe or french), cooked, boiled, drained, without salt",168
+75201036,"Artichoke, cooked, from fresh, made with margarine",2047,"Salt, table",1
+75201036,"Artichoke, cooked, from fresh, made with margarine",4613,"Margarine-like, vegetable oil spread, 60% fat, tub, with salt",3.10115
+75201036,"Artichoke, cooked, from fresh, made with margarine",4694,"Margarine-like, vegetable oil spread, 60% fat, tub, with salt, with added vitamin D",1.66985
+75201036,"Artichoke, cooked, from fresh, made with margarine",11008,"Artichokes, (globe or french), cooked, boiled, drained, without salt",168
+75202001,"Asparagus, cooked, from fresh, NS as to fat added in cooking",2047,"Salt, table",1
+75202001,"Asparagus, cooked, from fresh, NS as to fat added in cooking",4323,"Table fat, averaged",4.729
+75202001,"Asparagus, cooked, from fresh, NS as to fat added in cooking",11012,"Asparagus, cooked, boiled, drained",180
+75202029,"Asparagus, cooked, from fresh, made with margarine",2047,"Salt, table",1
+75202029,"Asparagus, cooked, from fresh, made with margarine",4613,"Margarine-like, vegetable oil spread, 60% fat, tub, with salt",3.10115
+75202029,"Asparagus, cooked, from fresh, made with margarine",4694,"Margarine-like, vegetable oil spread, 60% fat, tub, with salt, with added vitamin D",1.66985
+75202029,"Asparagus, cooked, from fresh, made with margarine",11012,"Asparagus, cooked, boiled, drained",180
+75204001,"Beans, lima, immature, cooked, from fresh, NS as to fat added in cooking",2047,"Salt, table",1
+75204001,"Beans, lima, immature, cooked, from fresh, NS as to fat added in cooking",4323,"Table fat, averaged",4.729
+75204001,"Beans, lima, immature, cooked, from fresh, NS as to fat added in cooking",11032,"Lima beans, immature seeds, cooked, boiled, drained, without salt",170
+75204011,"Beans, lima, immature, cooked, from fresh, fat not added in cooking",2047,"Salt, table",1
+75204011,"Beans, lima, immature, cooked, from fresh, fat not added in cooking",11032,"Lima beans, immature seeds, cooked, boiled, drained, without salt",170
+75204021,"Beans, lima, immature, cooked, from fresh, fat added in cooking, NS as to type of fat",2047,"Salt, table",1
+75204021,"Beans, lima, immature, cooked, from fresh, fat added in cooking, NS as to type of fat",4323,"Table fat, averaged",4.729
+75204021,"Beans, lima, immature, cooked, from fresh, fat added in cooking, NS as to type of fat",11032,"Lima beans, immature seeds, cooked, boiled, drained, without salt",170
+75204027,"Beans, lima, immature, cooked, from fresh, made with oil",2047,"Salt, table",1
+75204027,"Beans, lima, immature, cooked, from fresh, made with oil",4322,"Vegetable oil, averaged",4.542
+75204027,"Beans, lima, immature, cooked, from fresh, made with oil",11032,"Lima beans, immature seeds, cooked, boiled, drained, without salt",170
+75204028,"Beans, lima, immature, cooked, from fresh, made with butter",1001,"Butter, salted",4.729
+75204028,"Beans, lima, immature, cooked, from fresh, made with butter",2047,"Salt, table",1
+75204028,"Beans, lima, immature, cooked, from fresh, made with butter",11032,"Lima beans, immature seeds, cooked, boiled, drained, without salt",170
+75204029,"Beans, lima, immature, cooked, from fresh, made with margarine",2047,"Salt, table",1
+75204029,"Beans, lima, immature, cooked, from fresh, made with margarine",4613,"Margarine-like, vegetable oil spread, 60% fat, tub, with salt",3.10115
+75204029,"Beans, lima, immature, cooked, from fresh, made with margarine",4694,"Margarine-like, vegetable oil spread, 60% fat, tub, with salt, with added vitamin D",1.66985
+75204029,"Beans, lima, immature, cooked, from fresh, made with margarine",11032,"Lima beans, immature seeds, cooked, boiled, drained, without salt",170
+75204963,"Beans, string, cooked, from fresh, NS as to color, made with oil",2047,"Salt, table",1
+75204963,"Beans, string, cooked, from fresh, NS as to color, made with oil",4322,"Vegetable oil, averaged",4.542
+75204963,"Beans, string, cooked, from fresh, NS as to color, made with oil",11053,"Beans, snap, green, cooked, boiled, drained, without salt",125
+75204964,"Beans, string, cooked, from fresh, NS as to color, made with butter",1001,"Butter, salted",4.729
+75204964,"Beans, string, cooked, from fresh, NS as to color, made with butter",2047,"Salt, table",1
+75204964,"Beans, string, cooked, from fresh, NS as to color, made with butter",11053,"Beans, snap, green, cooked, boiled, drained, without salt",125
+75204965,"Beans, string, cooked, from fresh, NS as to color, made with margarine",2047,"Salt, table",1
+75204965,"Beans, string, cooked, from fresh, NS as to color, made with margarine",4613,"Margarine-like, vegetable oil spread, 60% fat, tub, with salt",3.10115
+75204965,"Beans, string, cooked, from fresh, NS as to color, made with margarine",4694,"Margarine-like, vegetable oil spread, 60% fat, tub, with salt, with added vitamin D",1.66985
+75204965,"Beans, string, cooked, from fresh, NS as to color, made with margarine",11053,"Beans, snap, green, cooked, boiled, drained, without salt",125
+75204981,"Beans, string, cooked, from fresh, NS as to color, fat added in cooking, NS as to type of fat",2047,"Salt, table",1
+75204981,"Beans, string, cooked, from fresh, NS as to color, fat added in cooking, NS as to type of fat",4323,"Table fat, averaged",4.729
+75204981,"Beans, string, cooked, from fresh, NS as to color, fat added in cooking, NS as to type of fat",11053,"Beans, snap, green, cooked, boiled, drained, without salt",125
+75204991,"Beans, string, cooked, from fresh, NS as to color, fat not added in cooking",2047,"Salt, table",1
+75204991,"Beans, string, cooked, from fresh, NS as to color, fat not added in cooking",11053,"Beans, snap, green, cooked, boiled, drained, without salt",125
+75205001,"Beans, string, cooked, from fresh, NS as to color, NS as to fat added in cooking",2047,"Salt, table",1
+75205001,"Beans, string, cooked, from fresh, NS as to color, NS as to fat added in cooking",4323,"Table fat, averaged",4.729
+75205001,"Beans, string, cooked, from fresh, NS as to color, NS as to fat added in cooking",11053,"Beans, snap, green, cooked, boiled, drained, without salt",125
+75205011,"Beans, string, green, cooked, from fresh, NS as to fat added in cooking",2047,"Salt, table",1
+75205011,"Beans, string, green, cooked, from fresh, NS as to fat added in cooking",4323,"Table fat, averaged",4.729
+75205011,"Beans, string, green, cooked, from fresh, NS as to fat added in cooking",11053,"Beans, snap, green, cooked, boiled, drained, without salt",125
+75205046,"Beans, string, green, cooked, from fresh, made with margarine",2047,"Salt, table",1
+75205046,"Beans, string, green, cooked, from fresh, made with margarine",4613,"Margarine-like, vegetable oil spread, 60% fat, tub, with salt",3.10115
+75205046,"Beans, string, green, cooked, from fresh, made with margarine",4694,"Margarine-like, vegetable oil spread, 60% fat, tub, with salt, with added vitamin D",1.66985
+75205046,"Beans, string, green, cooked, from fresh, made with margarine",11053,"Beans, snap, green, cooked, boiled, drained, without salt",125
+75206001,"Beans, string, yellow, cooked, from fresh, NS as to fat added in cooking",2047,"Salt, table",1
+75206001,"Beans, string, yellow, cooked, from fresh, NS as to fat added in cooking",4323,"Table fat, averaged",4.729
+75206001,"Beans, string, yellow, cooked, from fresh, NS as to fat added in cooking",11724,"Beans, snap, yellow, cooked, boiled, drained, without salt",125
+75206011,"Beans, string, yellow, cooked, from fresh, fat not added in cooking",2047,"Salt, table",1
+75206011,"Beans, string, yellow, cooked, from fresh, fat not added in cooking",11724,"Beans, snap, yellow, cooked, boiled, drained, without salt",125
+75206021,"Beans, string, yellow, cooked, from fresh, fat added in cooking, NS as to type of fat",2047,"Salt, table",1
+75206021,"Beans, string, yellow, cooked, from fresh, fat added in cooking, NS as to type of fat",4323,"Table fat, averaged",4.729
+75206021,"Beans, string, yellow, cooked, from fresh, fat added in cooking, NS as to type of fat",11724,"Beans, snap, yellow, cooked, boiled, drained, without salt",125
+75206033,"Beans, string, yellow, cooked, from fresh, made with oil",2047,"Salt, table",1
+75206033,"Beans, string, yellow, cooked, from fresh, made with oil",4322,"Vegetable oil, averaged",4.542
+75206033,"Beans, string, yellow, cooked, from fresh, made with oil",11724,"Beans, snap, yellow, cooked, boiled, drained, without salt",125
+75206034,"Beans, string, yellow, cooked, from fresh, made with butter",1001,"Butter, salted",4.729
+75206034,"Beans, string, yellow, cooked, from fresh, made with butter",2047,"Salt, table",1
+75206034,"Beans, string, yellow, cooked, from fresh, made with butter",11724,"Beans, snap, yellow, cooked, boiled, drained, without salt",125
+75206035,"Beans, string, yellow, cooked, from fresh, made with margarine",2047,"Salt, table",1
+75206035,"Beans, string, yellow, cooked, from fresh, made with margarine",4613,"Margarine-like, vegetable oil spread, 60% fat, tub, with salt",3.10115
+75206035,"Beans, string, yellow, cooked, from fresh, made with margarine",4694,"Margarine-like, vegetable oil spread, 60% fat, tub, with salt, with added vitamin D",1.66985
+75206035,"Beans, string, yellow, cooked, from fresh, made with margarine",11724,"Beans, snap, yellow, cooked, boiled, drained, without salt",125
+75207001,"Bean sprouts, cooked, from fresh, NS as to fat added in cooking",2047,"Salt, table",1
+75207001,"Bean sprouts, cooked, from fresh, NS as to fat added in cooking",4322,"Vegetable oil, averaged",4.542
+75207001,"Bean sprouts, cooked, from fresh, NS as to fat added in cooking",11044,"Mung beans, mature seeds, sprouted, cooked, boiled, drained, without salt",62
+75207001,"Bean sprouts, cooked, from fresh, NS as to fat added in cooking",11453,"Soybeans, mature seeds, sprouted, cooked, steamed",47
+75207011,"Bean sprouts, cooked, from fresh, fat not added in cooking",2047,"Salt, table",1
+75207011,"Bean sprouts, cooked, from fresh, fat not added in cooking",11044,"Mung beans, mature seeds, sprouted, cooked, boiled, drained, without salt",62
+75207011,"Bean sprouts, cooked, from fresh, fat not added in cooking",11453,"Soybeans, mature seeds, sprouted, cooked, steamed",47
+75208001,"Beets, cooked, from fresh, NS as to fat added in cooking",2047,"Salt, table",1
+75208001,"Beets, cooked, from fresh, NS as to fat added in cooking",4323,"Table fat, averaged",4.729
+75208001,"Beets, cooked, from fresh, NS as to fat added in cooking",11081,"Beets, cooked, boiled, drained",170
+75208124,"Beets, cooked, from fresh, made with oil",2047,"Salt, table",1
+75208124,"Beets, cooked, from fresh, made with oil",4322,"Vegetable oil, averaged",4.542
+75208124,"Beets, cooked, from fresh, made with oil",11081,"Beets, cooked, boiled, drained",170
+75208125,"Beets, cooked, from fresh, made with butter",1001,"Butter, salted",4.729
+75208125,"Beets, cooked, from fresh, made with butter",2047,"Salt, table",1
+75208125,"Beets, cooked, from fresh, made with butter",11081,"Beets, cooked, boiled, drained",170
+75208126,"Beets, cooked, from fresh, made with margarine",2047,"Salt, table",1
+75208126,"Beets, cooked, from fresh, made with margarine",4613,"Margarine-like, vegetable oil spread, 60% fat, tub, with salt",3.10115
+75208126,"Beets, cooked, from fresh, made with margarine",4694,"Margarine-like, vegetable oil spread, 60% fat, tub, with salt, with added vitamin D",1.66985
+75208126,"Beets, cooked, from fresh, made with margarine",11081,"Beets, cooked, boiled, drained",170
+75209001,"Brussels sprouts, cooked, from fresh, NS as to fat added in cooking",2047,"Salt, table",1
+75209001,"Brussels sprouts, cooked, from fresh, NS as to fat added in cooking",4323,"Table fat, averaged",4.729
+75209001,"Brussels sprouts, cooked, from fresh, NS as to fat added in cooking",11099,"Brussels sprouts, cooked, boiled, drained, without salt",156
+75209040,"Brussels sprouts, cooked, from fresh, made with oil",2047,"Salt, table",1
+75209040,"Brussels sprouts, cooked, from fresh, made with oil",4322,"Vegetable oil, averaged",4.542
+75209040,"Brussels sprouts, cooked, from fresh, made with oil",11099,"Brussels sprouts, cooked, boiled, drained, without salt",156
+75209041,"Brussels sprouts, cooked, from fresh, made with butter",1001,"Butter, salted",4.729
+75209041,"Brussels sprouts, cooked, from fresh, made with butter",2047,"Salt, table",1
+75209041,"Brussels sprouts, cooked, from fresh, made with butter",11099,"Brussels sprouts, cooked, boiled, drained, without salt",156
+75209042,"Brussels sprouts, cooked, from fresh, made with margarine",2047,"Salt, table",1
+75209042,"Brussels sprouts, cooked, from fresh, made with margarine",4613,"Margarine-like, vegetable oil spread, 60% fat, tub, with salt",3.10115
+75209042,"Brussels sprouts, cooked, from fresh, made with margarine",4694,"Margarine-like, vegetable oil spread, 60% fat, tub, with salt, with added vitamin D",1.66985
+75209042,"Brussels sprouts, cooked, from fresh, made with margarine",11099,"Brussels sprouts, cooked, boiled, drained, without salt",156
+75214001,"Cauliflower, cooked, from fresh, NS as to fat added in cooking",2047,"Salt, table",1
+75214001,"Cauliflower, cooked, from fresh, NS as to fat added in cooking",4323,"Table fat, averaged",4.729
+75214001,"Cauliflower, cooked, from fresh, NS as to fat added in cooking",11136,"Cauliflower, cooked, boiled, drained, without salt",124
+75214029,"Cauliflower, cooked, from fresh, made with margarine",2047,"Salt, table",1
+75214029,"Cauliflower, cooked, from fresh, made with margarine",4613,"Margarine-like, vegetable oil spread, 60% fat, tub, with salt",3.10115
+75214029,"Cauliflower, cooked, from fresh, made with margarine",4694,"Margarine-like, vegetable oil spread, 60% fat, tub, with salt, with added vitamin D",1.66985
+75214029,"Cauliflower, cooked, from fresh, made with margarine",11136,"Cauliflower, cooked, boiled, drained, without salt",124
+75216001,"Corn, cooked, from fresh, NS as to color, NS as to fat added in cooking",2047,"Salt, table",1
+75216001,"Corn, cooked, from fresh, NS as to color, NS as to fat added in cooking",4323,"Table fat, averaged",4.729
+75216001,"Corn, cooked, from fresh, NS as to color, NS as to fat added in cooking",11168,"Corn, sweet, yellow, cooked, boiled, drained, without salt",164
+75216011,"Corn, cooked, from fresh, NS as to color, fat not added in cooking",2047,"Salt, table",1
+75216011,"Corn, cooked, from fresh, NS as to color, fat not added in cooking",11168,"Corn, sweet, yellow, cooked, boiled, drained, without salt",164
+75216021,"Corn, cooked, from fresh, NS as to color, fat added in cooking, NS as to type of fat",2047,"Salt, table",1
+75216021,"Corn, cooked, from fresh, NS as to color, fat added in cooking, NS as to type of fat",4323,"Table fat, averaged",4.729
+75216021,"Corn, cooked, from fresh, NS as to color, fat added in cooking, NS as to type of fat",11168,"Corn, sweet, yellow, cooked, boiled, drained, without salt",164
+75216027,"Corn, cooked, from fresh, NS as to color, made with oil",2047,"Salt, table",1
+75216027,"Corn, cooked, from fresh, NS as to color, made with oil",4322,"Vegetable oil, averaged",4.542
+75216027,"Corn, cooked, from fresh, NS as to color, made with oil",11168,"Corn, sweet, yellow, cooked, boiled, drained, without salt",164
+75216028,"Corn, cooked, from fresh, NS as to color, made with butter",1001,"Butter, salted",4.729
+75216028,"Corn, cooked, from fresh, NS as to color, made with butter",2047,"Salt, table",1
+75216028,"Corn, cooked, from fresh, NS as to color, made with butter",11168,"Corn, sweet, yellow, cooked, boiled, drained, without salt",164
+75216029,"Corn, cooked, from fresh, NS as to color, made with margarine",2047,"Salt, table",1
+75216029,"Corn, cooked, from fresh, NS as to color, made with margarine",4613,"Margarine-like, vegetable oil spread, 60% fat, tub, with salt",3.10115
+75216029,"Corn, cooked, from fresh, NS as to color, made with margarine",4694,"Margarine-like, vegetable oil spread, 60% fat, tub, with salt, with added vitamin D",1.66985
+75216029,"Corn, cooked, from fresh, NS as to color, made with margarine",11168,"Corn, sweet, yellow, cooked, boiled, drained, without salt",164
+75216101,"Corn, yellow, cooked, from fresh, NS as to fat added in cooking",2047,"Salt, table",1
+75216101,"Corn, yellow, cooked, from fresh, NS as to fat added in cooking",4323,"Table fat, averaged",4.729
+75216101,"Corn, yellow, cooked, from fresh, NS as to fat added in cooking",11168,"Corn, sweet, yellow, cooked, boiled, drained, without salt",164
+75216136,"Corn, yellow, cooked, from fresh, made with margarine",2047,"Salt, table",1
+75216136,"Corn, yellow, cooked, from fresh, made with margarine",4613,"Margarine-like, vegetable oil spread, 60% fat, tub, with salt",3.10115
+75216136,"Corn, yellow, cooked, from fresh, made with margarine",4694,"Margarine-like, vegetable oil spread, 60% fat, tub, with salt, with added vitamin D",1.66985
+75216136,"Corn, yellow, cooked, from fresh, made with margarine",11168,"Corn, sweet, yellow, cooked, boiled, drained, without salt",164
+75216161,"Corn, yellow and white, cooked, from fresh, NS as to fat added in cooking",2047,"Salt, table",1
+75216161,"Corn, yellow and white, cooked, from fresh, NS as to fat added in cooking",4323,"Table fat, averaged",4.729
+75216161,"Corn, yellow and white, cooked, from fresh, NS as to fat added in cooking",11168,"Corn, sweet, yellow, cooked, boiled, drained, without salt",82
+75216161,"Corn, yellow and white, cooked, from fresh, NS as to fat added in cooking",11901,"Corn, sweet, white, cooked, boiled, drained, without salt",78.5
+75216171,"Corn, yellow and white, cooked, from fresh, fat not added in cooking",2047,"Salt, table",1
+75216171,"Corn, yellow and white, cooked, from fresh, fat not added in cooking",11168,"Corn, sweet, yellow, cooked, boiled, drained, without salt",82
+75216171,"Corn, yellow and white, cooked, from fresh, fat not added in cooking",11901,"Corn, sweet, white, cooked, boiled, drained, without salt",78.5
+75216177,"Corn, yellow and white, cooked, from fresh, made with oil",2047,"Salt, table",1
+75216177,"Corn, yellow and white, cooked, from fresh, made with oil",4322,"Vegetable oil, averaged",4.542
+75216177,"Corn, yellow and white, cooked, from fresh, made with oil",11168,"Corn, sweet, yellow, cooked, boiled, drained, without salt",82
+75216177,"Corn, yellow and white, cooked, from fresh, made with oil",11901,"Corn, sweet, white, cooked, boiled, drained, without salt",78.5
+75216178,"Corn, yellow and white, cooked, from fresh, made with butter",1001,"Butter, salted",4.729
+75216178,"Corn, yellow and white, cooked, from fresh, made with butter",2047,"Salt, table",1
+75216178,"Corn, yellow and white, cooked, from fresh, made with butter",11168,"Corn, sweet, yellow, cooked, boiled, drained, without salt",82
+75216178,"Corn, yellow and white, cooked, from fresh, made with butter",11901,"Corn, sweet, white, cooked, boiled, drained, without salt",78.5
+75216179,"Corn, yellow and white, cooked, from fresh, made with margarine",2047,"Salt, table",1
+75216179,"Corn, yellow and white, cooked, from fresh, made with margarine",4613,"Margarine-like, vegetable oil spread, 60% fat, tub, with salt",3.10115
+75216179,"Corn, yellow and white, cooked, from fresh, made with margarine",4694,"Margarine-like, vegetable oil spread, 60% fat, tub, with salt, with added vitamin D",1.66985
+75216179,"Corn, yellow and white, cooked, from fresh, made with margarine",11168,"Corn, sweet, yellow, cooked, boiled, drained, without salt",82
+75216179,"Corn, yellow and white, cooked, from fresh, made with margarine",11901,"Corn, sweet, white, cooked, boiled, drained, without salt",78.5
+75216181,"Corn, yellow and white, cooked, from fresh, fat added in cooking, NS as to type of fat",2047,"Salt, table",1
+75216181,"Corn, yellow and white, cooked, from fresh, fat added in cooking, NS as to type of fat",4323,"Table fat, averaged",4.729
+75216181,"Corn, yellow and white, cooked, from fresh, fat added in cooking, NS as to type of fat",11168,"Corn, sweet, yellow, cooked, boiled, drained, without salt",82
+75216181,"Corn, yellow and white, cooked, from fresh, fat added in cooking, NS as to type of fat",11901,"Corn, sweet, white, cooked, boiled, drained, without salt",78.5
+75216201,"Corn, white, cooked, from fresh, NS as to fat added in cooking",2047,"Salt, table",1
+75216201,"Corn, white, cooked, from fresh, NS as to fat added in cooking",4323,"Table fat, averaged",4.729
+75216201,"Corn, white, cooked, from fresh, NS as to fat added in cooking",11901,"Corn, sweet, white, cooked, boiled, drained, without salt",157
+75216211,"Corn, white, cooked, from fresh, fat not added in cooking",2047,"Salt, table",1
+75216211,"Corn, white, cooked, from fresh, fat not added in cooking",11901,"Corn, sweet, white, cooked, boiled, drained, without salt",157
+75216221,"Corn, white, cooked, from fresh, fat added in cooking, NS as to type of fat",2047,"Salt, table",1
+75216221,"Corn, white, cooked, from fresh, fat added in cooking, NS as to type of fat",4323,"Table fat, averaged",4.729
+75216221,"Corn, white, cooked, from fresh, fat added in cooking, NS as to type of fat",11901,"Corn, sweet, white, cooked, boiled, drained, without salt",157
+75216227,"Corn, white, cooked, from fresh, made with oil",2047,"Salt, table",1
+75216227,"Corn, white, cooked, from fresh, made with oil",4322,"Vegetable oil, averaged",4.542
+75216227,"Corn, white, cooked, from fresh, made with oil",11901,"Corn, sweet, white, cooked, boiled, drained, without salt",157
+75216228,"Corn, white, cooked, from fresh, made with butter",1001,"Butter, salted",4.729
+75216228,"Corn, white, cooked, from fresh, made with butter",2047,"Salt, table",1
+75216228,"Corn, white, cooked, from fresh, made with butter",11901,"Corn, sweet, white, cooked, boiled, drained, without salt",157
+75216229,"Corn, white, cooked, from fresh, made with margarine",2047,"Salt, table",1
+75216229,"Corn, white, cooked, from fresh, made with margarine",4613,"Margarine-like, vegetable oil spread, 60% fat, tub, with salt",3.10115
+75216229,"Corn, white, cooked, from fresh, made with margarine",4694,"Margarine-like, vegetable oil spread, 60% fat, tub, with salt, with added vitamin D",1.66985
+75216229,"Corn, white, cooked, from fresh, made with margarine",11901,"Corn, sweet, white, cooked, boiled, drained, without salt",157
+75219001,"Mushrooms, cooked, from fresh, NS as to fat added in cooking",2047,"Salt, table",1
+75219001,"Mushrooms, cooked, from fresh, NS as to fat added in cooking",4323,"Table fat, averaged",4.729
+75219001,"Mushrooms, cooked, from fresh, NS as to fat added in cooking",11261,"Mushrooms, white, cooked, boiled, drained, without salt",156
+75219035,"Mushrooms, cooked, from fresh, made with margarine",2047,"Salt, table",1
+75219035,"Mushrooms, cooked, from fresh, made with margarine",4613,"Margarine-like, vegetable oil spread, 60% fat, tub, with salt",3.10115
+75219035,"Mushrooms, cooked, from fresh, made with margarine",4694,"Margarine-like, vegetable oil spread, 60% fat, tub, with salt, with added vitamin D",1.66985
+75219035,"Mushrooms, cooked, from fresh, made with margarine",11261,"Mushrooms, white, cooked, boiled, drained, without salt",156
+75220001,"Okra, cooked, from fresh, NS as to fat added in cooking",2047,"Salt, table",1
+75220001,"Okra, cooked, from fresh, NS as to fat added in cooking",4323,"Table fat, averaged",4.729
+75220001,"Okra, cooked, from fresh, NS as to fat added in cooking",11279,"Okra, cooked, boiled, drained, without salt",160
+75220027,"Okra, cooked, from fresh, made with oil",2047,"Salt, table",1
+75220027,"Okra, cooked, from fresh, made with oil",4322,"Vegetable oil, averaged",4.542
+75220027,"Okra, cooked, from fresh, made with oil",11279,"Okra, cooked, boiled, drained, without salt",160
+75220028,"Okra, cooked, from fresh, made with butter",1001,"Butter, salted",4.729
+75220028,"Okra, cooked, from fresh, made with butter",2047,"Salt, table",1
+75220028,"Okra, cooked, from fresh, made with butter",11279,"Okra, cooked, boiled, drained, without salt",160
+75220029,"Okra, cooked, from fresh, made with margarine",2047,"Salt, table",1
+75220029,"Okra, cooked, from fresh, made with margarine",4613,"Margarine-like, vegetable oil spread, 60% fat, tub, with salt",3.10115
+75220029,"Okra, cooked, from fresh, made with margarine",4694,"Margarine-like, vegetable oil spread, 60% fat, tub, with salt, with added vitamin D",1.66985
+75220029,"Okra, cooked, from fresh, made with margarine",11279,"Okra, cooked, boiled, drained, without salt",160
+75221001,"Onions, cooked, from fresh, NS as to fat added in cooking",2047,"Salt, table",1
+75221001,"Onions, cooked, from fresh, NS as to fat added in cooking",4323,"Table fat, averaged",4.729
+75221001,"Onions, cooked, from fresh, NS as to fat added in cooking",11283,"Onions, cooked, boiled, drained, without salt",210
+75221017,"Onions, cooked, from fresh, made with oil",2047,"Salt, table",1
+75221017,"Onions, cooked, from fresh, made with oil",4322,"Vegetable oil, averaged",4.542
+75221017,"Onions, cooked, from fresh, made with oil",11283,"Onions, cooked, boiled, drained, without salt",210
+75221018,"Onions, cooked, from fresh, made with butter",1001,"Butter, salted",4.729
+75221018,"Onions, cooked, from fresh, made with butter",2047,"Salt, table",1
+75221018,"Onions, cooked, from fresh, made with butter",11283,"Onions, cooked, boiled, drained, without salt",210
+75221019,"Onions, cooked, from fresh, made with margarine",2047,"Salt, table",1
+75221019,"Onions, cooked, from fresh, made with margarine",4613,"Margarine-like, vegetable oil spread, 60% fat, tub, with salt",3.10115
+75221019,"Onions, cooked, from fresh, made with margarine",4694,"Margarine-like, vegetable oil spread, 60% fat, tub, with salt, with added vitamin D",1.66985
+75221019,"Onions, cooked, from fresh, made with margarine",11283,"Onions, cooked, boiled, drained, without salt",210
+75221031,"Onions, pearl, cooked, from fresh",2047,"Salt, table",1
+75221031,"Onions, pearl, cooked, from fresh",11283,"Onions, cooked, boiled, drained, without salt",210
+75221041,"Onions, green, cooked, from fresh, NS as to fat added in cooking",2047,"Salt, table",0.6
+75221041,"Onions, green, cooked, from fresh, NS as to fat added in cooking",4323,"Table fat, averaged",3.2
+75221041,"Onions, green, cooked, from fresh, NS as to fat added in cooking",11291,"Onions, spring or scallions (includes tops and bulb), raw",100
+75221051,"Onions, green, cooked, from fresh, fat not added in cooking",2047,"Salt, table",1
+75221051,"Onions, green, cooked, from fresh, fat not added in cooking",11291,"Onions, spring or scallions (includes tops and bulb), raw",100
+75223001,"Peas, cowpeas, field peas, or blackeye peas, not dried, cooked, from fresh, NS as to fat added in cooking",2047,"Salt, table",1
+75223001,"Peas, cowpeas, field peas, or blackeye peas, not dried, cooked, from fresh, NS as to fat added in cooking",4323,"Table fat, averaged",4.729
+75223001,"Peas, cowpeas, field peas, or blackeye peas, not dried, cooked, from fresh, NS as to fat added in cooking",11196,"Cowpeas (blackeyes), immature seeds, frozen, cooked, boiled, drained, without salt",170
+75223011,"Peas, cowpeas, field peas, or blackeye peas, not dried, cooked, from fresh, fat not added in cooking",2047,"Salt, table",1
+75223011,"Peas, cowpeas, field peas, or blackeye peas, not dried, cooked, from fresh, fat not added in cooking",11192,"Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",165
+75223021,"Peas, cowpeas, field peas, or blackeye peas, not dried, cooked, from fresh, fat added in cooking, NS as to type of fat",2047,"Salt, table",1
+75223021,"Peas, cowpeas, field peas, or blackeye peas, not dried, cooked, from fresh, fat added in cooking, NS as to type of fat",4323,"Table fat, averaged",4.729
+75223021,"Peas, cowpeas, field peas, or blackeye peas, not dried, cooked, from fresh, fat added in cooking, NS as to type of fat",11192,"Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",165
+75223027,"Peas, cowpeas, field peas, or blackeye peas, not dried, cooked, from fresh, made with oil",2047,"Salt, table",1
+75223027,"Peas, cowpeas, field peas, or blackeye peas, not dried, cooked, from fresh, made with oil",4322,"Vegetable oil, averaged",4.542
+75223027,"Peas, cowpeas, field peas, or blackeye peas, not dried, cooked, from fresh, made with oil",11192,"Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",165
+75223028,"Peas, cowpeas, field peas, or blackeye peas, not dried, cooked, from fresh, made with butter",1001,"Butter, salted",4.729
+75223028,"Peas, cowpeas, field peas, or blackeye peas, not dried, cooked, from fresh, made with butter",2047,"Salt, table",1
+75223028,"Peas, cowpeas, field peas, or blackeye peas, not dried, cooked, from fresh, made with butter",11192,"Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",165
+75223029,"Peas, cowpeas, field peas, or blackeye peas, not dried, cooked, from fresh, made with margarine",2047,"Salt, table",1
+75223029,"Peas, cowpeas, field peas, or blackeye peas, not dried, cooked, from fresh, made with margarine",4613,"Margarine-like, vegetable oil spread, 60% fat, tub, with salt",3.10115
+75223029,"Peas, cowpeas, field peas, or blackeye peas, not dried, cooked, from fresh, made with margarine",4694,"Margarine-like, vegetable oil spread, 60% fat, tub, with salt, with added vitamin D",1.66985
+75223029,"Peas, cowpeas, field peas, or blackeye peas, not dried, cooked, from fresh, made with margarine",11192,"Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",165
+75224011,"Peas, green, cooked, from fresh, NS as to fat added in cooking",2047,"Salt, table",1
+75224011,"Peas, green, cooked, from fresh, NS as to fat added in cooking",4323,"Table fat, averaged",4.729
+75224011,"Peas, green, cooked, from fresh, NS as to fat added in cooking",11305,"Peas, green, cooked, boiled, drained, without salt",160
+75224045,"Peas, green, cooked, from fresh, made with margarine",2047,"Salt, table",1
+75224045,"Peas, green, cooked, from fresh, made with margarine",4613,"Margarine-like, vegetable oil spread, 60% fat, tub, with salt",3.10115
+75224045,"Peas, green, cooked, from fresh, made with margarine",4694,"Margarine-like, vegetable oil spread, 60% fat, tub, with salt, with added vitamin D",1.66985
+75224045,"Peas, green, cooked, from fresh, made with margarine",11305,"Peas, green, cooked, boiled, drained, without salt",160
+75225011,"Pigeon peas, cooked, from fresh, fat not added in cooking",2047,"Salt, table",1
+75225011,"Pigeon peas, cooked, from fresh, fat not added in cooking",11345,"Pigeonpeas, immature seeds, cooked, boiled, drained, without salt",153
+75225016,"Pigeon peas, cooked, from fresh, NS as to fat added in cooking",2047,"Salt, table",1
+75225016,"Pigeon peas, cooked, from fresh, NS as to fat added in cooking",4323,"Table fat, averaged",4.729
+75225016,"Pigeon peas, cooked, from fresh, NS as to fat added in cooking",11345,"Pigeonpeas, immature seeds, cooked, boiled, drained, without salt",153
+75225017,"Pigeon peas, cooked, from fresh, fat added in cooking",2047,"Salt, table",1
+75225017,"Pigeon peas, cooked, from fresh, fat added in cooking",4323,"Table fat, averaged",4.729
+75225017,"Pigeon peas, cooked, from fresh, fat added in cooking",11345,"Pigeonpeas, immature seeds, cooked, boiled, drained, without salt",153
+75226091,"Peppers, hot, cooked, from fresh, NS as to fat added in cooking",2047,"Salt, table",0.6
+75226091,"Peppers, hot, cooked, from fresh, NS as to fat added in cooking",4323,"Table fat, averaged",3.2
+75226091,"Peppers, hot, cooked, from fresh, NS as to fat added in cooking",11670,"Peppers, hot chili, green, raw",100
+75226101,"Peppers, hot, cooked, from fresh, fat not added in cooking",2047,"Salt, table",0.6
+75226101,"Peppers, hot, cooked, from fresh, fat not added in cooking",11670,"Peppers, hot chili, green, raw",100
+75231001,"Snowpea, cooked, from fresh, NS as to fat added in cooking",2047,"Salt, table",1
+75231001,"Snowpea, cooked, from fresh, NS as to fat added in cooking",4322,"Vegetable oil, averaged",4.542
+75231001,"Snowpea, cooked, from fresh, NS as to fat added in cooking",11301,"Peas, edible-podded, boiled, drained, without salt",160
+75231026,"Snowpea, cooked, from fresh, made with oil",2047,"Salt, table",1
+75231026,"Snowpea, cooked, from fresh, made with oil",4322,"Vegetable oil, averaged",4.542
+75231026,"Snowpea, cooked, from fresh, made with oil",11301,"Peas, edible-podded, boiled, drained, without salt",160
+75231027,"Snowpea, cooked, from fresh, made with butter",1001,"Butter, salted",4.729
+75231027,"Snowpea, cooked, from fresh, made with butter",2047,"Salt, table",1
+75231027,"Snowpea, cooked, from fresh, made with butter",11301,"Peas, edible-podded, boiled, drained, without salt",160
+75231028,"Snowpea, cooked, from fresh, made with margarine",2047,"Salt, table",1
+75231028,"Snowpea, cooked, from fresh, made with margarine",4613,"Margarine-like, vegetable oil spread, 60% fat, tub, with salt",3.10115
+75231028,"Snowpea, cooked, from fresh, made with margarine",4694,"Margarine-like, vegetable oil spread, 60% fat, tub, with salt, with added vitamin D",1.66985
+75231028,"Snowpea, cooked, from fresh, made with margarine",11301,"Peas, edible-podded, boiled, drained, without salt",160
+75233001,"Squash, summer, yellow or green, cooked, from fresh, NS as to fat added in cooking",2047,"Salt, table",1
+75233001,"Squash, summer, yellow or green, cooked, from fresh, NS as to fat added in cooking",4323,"Table fat, averaged",4.729
+75233001,"Squash, summer, yellow or green, cooked, from fresh, NS as to fat added in cooking",11642,"Squash, summer, all varieties, cooked, boiled, drained, without salt",180
+75233029,"Squash, summer, yellow or green, cooked, from fresh, made with margarine",2047,"Salt, table",1
+75233029,"Squash, summer, yellow or green, cooked, from fresh, made with margarine",4613,"Margarine-like, vegetable oil spread, 60% fat, tub, with salt",3.10115
+75233029,"Squash, summer, yellow or green, cooked, from fresh, made with margarine",4694,"Margarine-like, vegetable oil spread, 60% fat, tub, with salt, with added vitamin D",1.66985
+75233029,"Squash, summer, yellow or green, cooked, from fresh, made with margarine",11642,"Squash, summer, all varieties, cooked, boiled, drained, without salt",180
+75234001,"Turnip, cooked, from fresh, NS as to fat added in cooking",2047,"Salt, table",1
+75234001,"Turnip, cooked, from fresh, NS as to fat added in cooking",4323,"Table fat, averaged",4.729
+75234001,"Turnip, cooked, from fresh, NS as to fat added in cooking",11565,"Turnips, cooked, boiled, drained, without salt",156
+75234011,"Turnip, cooked, from fresh, fat not added in cooking",2047,"Salt, table",1
+75234011,"Turnip, cooked, from fresh, fat not added in cooking",11565,"Turnips, cooked, boiled, drained, without salt",156
+75234027,"Turnip, cooked, from fresh, made with oil",2047,"Salt, table",1
+75234027,"Turnip, cooked, from fresh, made with oil",4322,"Vegetable oil, averaged",4.542
+75234027,"Turnip, cooked, from fresh, made with oil",11565,"Turnips, cooked, boiled, drained, without salt",156
+75234028,"Turnip, cooked, from fresh, made with butter",1001,"Butter, salted",4.729
+75234028,"Turnip, cooked, from fresh, made with butter",2047,"Salt, table",1
+75234028,"Turnip, cooked, from fresh, made with butter",11565,"Turnips, cooked, boiled, drained, without salt",156
+75234029,"Turnip, cooked, from fresh, made with margarine",2047,"Salt, table",1
+75234029,"Turnip, cooked, from fresh, made with margarine",4613,"Margarine-like, vegetable oil spread, 60% fat, tub, with salt",3.10115
+75234029,"Turnip, cooked, from fresh, made with margarine",4694,"Margarine-like, vegetable oil spread, 60% fat, tub, with salt, with added vitamin D",1.66985
+75234029,"Turnip, cooked, from fresh, made with margarine",11565,"Turnips, cooked, boiled, drained, without salt",156
+75401011,"Asparagus, from fresh, creamed or with cheese sauce",1164,"Cheese sauce, prepared from recipe",40.508
+75401011,"Asparagus, from fresh, creamed or with cheese sauce",2047,"Salt, table",0.4
+75401011,"Asparagus, from fresh, creamed or with cheese sauce",6166,"Sauce, homemade, white, medium",41.675
+75401011,"Asparagus, from fresh, creamed or with cheese sauce",11012,"Asparagus, cooked, boiled, drained",180
+75402011,"Beans, lima, immature, from fresh, creamed or with cheese sauce",1164,"Cheese sauce, prepared from recipe",40.508
+75402011,"Beans, lima, immature, from fresh, creamed or with cheese sauce",2047,"Salt, table",0.4
+75402011,"Beans, lima, immature, from fresh, creamed or with cheese sauce",6166,"Sauce, homemade, white, medium",41.675
+75402011,"Beans, lima, immature, from fresh, creamed or with cheese sauce",11032,"Lima beans, immature seeds, cooked, boiled, drained, without salt",170
+75402021,"Beans, lima, immature, cooked, from fresh, with mushroom sauce",1111,"Milk, averaged fat, with added vitamin A and D",30.5
+75402021,"Beans, lima, immature, cooked, from fresh, with mushroom sauce",2047,"Salt, table",0.4
+75402021,"Beans, lima, immature, cooked, from fresh, with mushroom sauce",6043,"Soup, cream of mushroom, canned, condensed",83.658
+75402021,"Beans, lima, immature, cooked, from fresh, with mushroom sauce",11032,"Lima beans, immature seeds, cooked, boiled, drained, without salt",170
+75403011,"Beans, string, green, from fresh, creamed or with cheese sauce",1164,"Cheese sauce, prepared from recipe",40.508
+75403011,"Beans, string, green, from fresh, creamed or with cheese sauce",2047,"Salt, table",0.4
+75403011,"Beans, string, green, from fresh, creamed or with cheese sauce",6166,"Sauce, homemade, white, medium",41.675
+75403011,"Beans, string, green, from fresh, creamed or with cheese sauce",11053,"Beans, snap, green, cooked, boiled, drained, without salt",125
+75403021,"Beans, string, green, cooked, from fresh, with mushroom sauce",1111,"Milk, averaged fat, with added vitamin A and D",30.5
+75403021,"Beans, string, green, cooked, from fresh, with mushroom sauce",2047,"Salt, table",0.4
+75403021,"Beans, string, green, cooked, from fresh, with mushroom sauce",6043,"Soup, cream of mushroom, canned, condensed",83.658
+75403021,"Beans, string, green, cooked, from fresh, with mushroom sauce",11053,"Beans, snap, green, cooked, boiled, drained, without salt",125
+75404011,"Beans, string, yellow, from fresh, creamed or with cheese sauce",1164,"Cheese sauce, prepared from recipe",40.508
+75404011,"Beans, string, yellow, from fresh, creamed or with cheese sauce",2047,"Salt, table",0.4
+75404011,"Beans, string, yellow, from fresh, creamed or with cheese sauce",6166,"Sauce, homemade, white, medium",41.675
+75404011,"Beans, string, yellow, from fresh, creamed or with cheese sauce",11724,"Beans, snap, yellow, cooked, boiled, drained, without salt",125
+75406011,"Brussels sprouts, from fresh, creamed",2047,"Salt, table",0.4
+75406011,"Brussels sprouts, from fresh, creamed",6166,"Sauce, homemade, white, medium",125
+75406011,"Brussels sprouts, from fresh, creamed",11099,"Brussels sprouts, cooked, boiled, drained, without salt",156
+75409011,"Cauliflower, from fresh, creamed",2047,"Salt, table",0.4
+75409011,"Cauliflower, from fresh, creamed",6166,"Sauce, homemade, white, medium",125
+75409011,"Cauliflower, from fresh, creamed",11136,"Cauliflower, cooked, boiled, drained, without salt",124
+75411031,"Corn, cooked, from fresh, with cream sauce, made with milk",2047,"Salt, table",0.4
+75411031,"Corn, cooked, from fresh, with cream sauce, made with milk",6166,"Sauce, homemade, white, medium",125
+75411031,"Corn, cooked, from fresh, with cream sauce, made with milk",11168,"Corn, sweet, yellow, cooked, boiled, drained, without salt",164
+75414011,"Mushrooms, from fresh, creamed",2047,"Salt, table",0.4
+75414011,"Mushrooms, from fresh, creamed",6166,"Sauce, homemade, white, medium",125
+75414011,"Mushrooms, from fresh, creamed",11261,"Mushrooms, white, cooked, boiled, drained, without salt",156
+75415011,"Onions, from fresh, creamed",2047,"Salt, table",0.4
+75415011,"Onions, from fresh, creamed",6166,"Sauce, homemade, white, medium",125
+75415011,"Onions, from fresh, creamed",11283,"Onions, cooked, boiled, drained, without salt",210
+75415021,"Onion rings, from fresh, batter-dipped, baked or fried",1091,"Milk, dry, nonfat, regular, without added vitamin A and vitamin D",11.25
+75415021,"Onion rings, from fresh, batter-dipped, baked or fried",1133,"Egg, whole, dried",3.75
+75415021,"Onion rings, from fresh, batter-dipped, baked or fried",2047,"Salt, table",0.5
+75415021,"Onion rings, from fresh, batter-dipped, baked or fried",4322,"Vegetable oil, averaged",35
+75415021,"Onion rings, from fresh, batter-dipped, baked or fried",11282,"Onions, raw",77.05
+75415021,"Onion rings, from fresh, batter-dipped, baked or fried",18372,"Leavening agents, baking soda",2.3
+75415021,"Onion rings, from fresh, batter-dipped, baked or fried",20081,"Wheat flour, white, all-purpose, enriched, bleached",62.5
+75417011,"Peas, from fresh, creamed",2047,"Salt, table",0.4
+75417011,"Peas, from fresh, creamed",6166,"Sauce, homemade, white, medium",125
+75417011,"Peas, from fresh, creamed",11305,"Peas, green, cooked, boiled, drained, without salt",160
+75417021,"Peas, cooked, from fresh, with mushroom sauce",1111,"Milk, averaged fat, with added vitamin A and D",30.5
+75417021,"Peas, cooked, from fresh, with mushroom sauce",2047,"Salt, table",0.4
+75417021,"Peas, cooked, from fresh, with mushroom sauce",6043,"Soup, cream of mushroom, canned, condensed",83.658
+75417021,"Peas, cooked, from fresh, with mushroom sauce",11305,"Peas, green, cooked, boiled, drained, without salt",160
+75417031,"Peas, cooked, from fresh, with tomato sauce",2047,"Salt, table",0.4
+75417031,"Peas, cooked, from fresh, with tomato sauce",11305,"Peas, green, cooked, boiled, drained, without salt",160
+75417031,"Peas, cooked, from fresh, with tomato sauce",11549,"Tomato products, canned, sauce",85.658
+75418051,"Squash, summer, from fresh, creamed",2047,"Salt, table",0.4
+75418051,"Squash, summer, from fresh, creamed",6166,"Sauce, homemade, white, medium",125
+75418051,"Squash, summer, from fresh, creamed",11642,"Squash, summer, all varieties, cooked, boiled, drained, without salt",180
+75418101,"Turnips, from fresh, creamed",2047,"Salt, table",0.4
+75418101,"Turnips, from fresh, creamed",6166,"Sauce, homemade, white, medium",125
+75418101,"Turnips, from fresh, creamed",11565,"Turnips, cooked, boiled, drained, without salt",156
+22301000,"Ham, fresh, cooked, NS as to fat eaten",2047,"Salt, table, iodized",0.84
+22301000,"Ham, fresh, cooked, NS as to fat eaten",10009,"Pork, fresh, leg (ham), whole, separable lean and fat, cooked, roasted",100
+22301110,"Ham, fresh, cooked, lean and fat eaten",2047,"Salt, table, iodized",0.84
+22301110,"Ham, fresh, cooked, lean and fat eaten",10009,"Pork, fresh, leg (ham), whole, separable lean and fat, cooked, roasted",100
+22301120,"Ham, fresh, cooked, lean only eaten",2047,"Salt, table, iodized",0.84
+22301120,"Ham, fresh, cooked, lean only eaten",10011,"Pork, fresh, leg (ham), whole, separable lean only, cooked, roasted",100
+22600200,"Pork bacon, NS as to fresh, smoked or cured, cooked",10862,"Pork, cured, bacon, pre-sliced, cooked, pan-fried",100
+22600210,"Pork bacon, NS as to fresh, smoked or cured, reduced sodium, cooked",43378,"Pork, cured, bacon, cooked, broiled, pan-fried or roasted, reduced sodium",100
+22601040,"Bacon or side pork, fresh, cooked",10862,"Pork, cured, bacon, pre-sliced, cooked, pan-fried",100
+26153100,"Tuna, fresh, raw",15127,"Fish, tuna, fresh, yellowfin, raw",100
+26153110,"Tuna, fresh, cooked, NS as to cooking method",2047,"Salt, table, iodized",3
+26153110,"Tuna, fresh, cooked, NS as to cooking method",4322,"Vegetable oil, averaged",14
+26153110,"Tuna, fresh, cooked, NS as to cooking method",9152,"Lemon juice, raw",5.167
+26153110,"Tuna, fresh, cooked, NS as to cooking method",15127,"Fish, tuna, fresh, yellowfin, raw",453.6
+26153120,"Tuna, fresh, baked or broiled, fat added",2047,"Salt, table, iodized",3
+26153120,"Tuna, fresh, baked or broiled, fat added",4322,"Vegetable oil, averaged",14
+26153120,"Tuna, fresh, baked or broiled, fat added",9152,"Lemon juice, raw",5.167
+26153120,"Tuna, fresh, baked or broiled, fat added",15127,"Fish, tuna, fresh, yellowfin, raw",453.6
+26153122,"Tuna, fresh, baked or broiled, no added fat",2047,"Salt, table, iodized",3
+26153122,"Tuna, fresh, baked or broiled, no added fat",9152,"Lemon juice, raw",5.167
+26153122,"Tuna, fresh, baked or broiled, no added fat",15127,"Fish, tuna, fresh, yellowfin, raw",453.6
+26153130,"Tuna, fresh, coated, baked or broiled, fat added",1111,"Milk, averaged fat, with added vitamin A and D",61
+26153130,"Tuna, fresh, coated, baked or broiled, fat added",2030,"Spices, pepper, black",0.267
+26153130,"Tuna, fresh, coated, baked or broiled, fat added",2047,"Salt, table, iodized",3
+26153130,"Tuna, fresh, coated, baked or broiled, fat added",4322,"Vegetable oil, averaged",28
+26153130,"Tuna, fresh, coated, baked or broiled, fat added",15127,"Fish, tuna, fresh, yellowfin, raw",453.6
+26153130,"Tuna, fresh, coated, baked or broiled, fat added",18079,"Bread, crumbs, dry, grated, plain",35.996
+26153130,"Tuna, fresh, coated, baked or broiled, fat added",20081,"Wheat flour, white, all-purpose, enriched, bleached",41.663
+26153131,"Tuna, fresh, coated, baked or broiled, no added fat",1111,"Milk, averaged fat, with added vitamin A and D",61
+26153131,"Tuna, fresh, coated, baked or broiled, no added fat",2030,"Spices, pepper, black",0.267
+26153131,"Tuna, fresh, coated, baked or broiled, no added fat",2047,"Salt, table, iodized",3
+26153131,"Tuna, fresh, coated, baked or broiled, no added fat",15127,"Fish, tuna, fresh, yellowfin, raw",453.6
+26153131,"Tuna, fresh, coated, baked or broiled, no added fat",18079,"Bread, crumbs, dry, grated, plain",35.996
+26153131,"Tuna, fresh, coated, baked or broiled, no added fat",20081,"Wheat flour, white, all-purpose, enriched, bleached",41.663
+26153140,"Tuna, fresh, coated, fried",1123,"Egg, whole, raw, fresh",50
+26153140,"Tuna, fresh, coated, fried",2030,"Spices, pepper, black",0.267
+26153140,"Tuna, fresh, coated, fried",2047,"Salt, table, iodized",3
+26153140,"Tuna, fresh, coated, fried",4322,"Vegetable oil, averaged",46.3
+26153140,"Tuna, fresh, coated, fried",15127,"Fish, tuna, fresh, yellowfin, raw",453.6
+26153140,"Tuna, fresh, coated, fried",18079,"Bread, crumbs, dry, grated, plain",72.004
+26153160,"Tuna, fresh, steamed or poached",2047,"Salt, table, iodized",3
+26153160,"Tuna, fresh, steamed or poached",15127,"Fish, tuna, fresh, yellowfin, raw",453.6
+26153170,"Tuna, fresh, dried",15127,"Fish, tuna, fresh, yellowfin, raw",100
+26153190,"Tuna, fresh, smoked",2047,"Salt, table, iodized",0.75
+26153190,"Tuna, fresh, smoked",15201,"Fish, mackerel, Pacific and jack, mixed species, cooked, dry heat",100
+42106000,"Coconut, fresh",12104,"Nuts, coconut meat, raw",100
+61201010,"Grapefruit juice, 100%, freshly squeezed",9128,"Grapefruit juice, white, raw",100
+61204010,"Lemon juice, 100%, freshly squeezed",9152,"Lemon juice, raw",100
+61207010,"Lime juice, 100%, freshly squeezed",9160,"Lime juice, raw",100
+61210010,"Orange juice, 100%,  freshly squeezed",9206,"Orange juice, raw (Includes foods for USDA's Food Distribution Program)",100
+63311000,"Fruit salad, fresh or raw,  excluding citrus fruits, no dressing",9003,"Apples, raw, with skin (Includes foods for USDA's Food Distribution Program)",62.5
+63311000,"Fruit salad, fresh or raw,  excluding citrus fruits, no dressing",9040,"Bananas, raw",75
+63311000,"Fruit salad, fresh or raw,  excluding citrus fruits, no dressing",9132,"Grapes, red or green (European type, such as Thompson seedless), raw",46
+63311000,"Fruit salad, fresh or raw,  excluding citrus fruits, no dressing",9181,"Melons, cantaloupe, raw",39
+63311000,"Fruit salad, fresh or raw,  excluding citrus fruits, no dressing",9316,"Strawberries, raw",76
+63311000,"Fruit salad, fresh or raw,  excluding citrus fruits, no dressing",9326,"Watermelon, raw",38
+63311050,"Fruit salad, fresh or raw, including citrus fruits, no dressing",9003,"Apples, raw, with skin (Includes foods for USDA's Food Distribution Program)",62.5
+63311050,"Fruit salad, fresh or raw, including citrus fruits, no dressing",9040,"Bananas, raw",75
+63311050,"Fruit salad, fresh or raw, including citrus fruits, no dressing",9132,"Grapes, red or green (European type, such as Thompson seedless), raw",46
+63311050,"Fruit salad, fresh or raw, including citrus fruits, no dressing",9181,"Melons, cantaloupe, raw",39
+63311050,"Fruit salad, fresh or raw, including citrus fruits, no dressing",9200,"Oranges, raw, all commercial varieties",90
+63311050,"Fruit salad, fresh or raw, including citrus fruits, no dressing",9316,"Strawberries, raw",76
+63311050,"Fruit salad, fresh or raw, including citrus fruits, no dressing",9326,"Watermelon, raw",38
+71103000,"Potato, boiled, from fresh, peel not eaten, NS as to fat",2047,"Salt, table, iodized",0.4
+71103000,"Potato, boiled, from fresh, peel not eaten, NS as to fat",4321,"Oil, table fat, averaged",5
+71103000,"Potato, boiled, from fresh, peel not eaten, NS as to fat",11363,"Potatoes, baked, flesh, without salt",100
+71103010,"Potato, boiled, from fresh, peel not eaten, no added fat",2047,"Salt, table, iodized",0.4
+71103010,"Potato, boiled, from fresh, peel not eaten, no added fat",11363,"Potatoes, baked, flesh, without salt",100
+71103020,"Potato, boiled, from fresh, peel not eaten, fat added, NS as to fat type",2047,"Salt, table, iodized",0.4
+71103020,"Potato, boiled, from fresh, peel not eaten, fat added, NS as to fat type",4321,"Oil, table fat, averaged",5
+71103020,"Potato, boiled, from fresh, peel not eaten, fat added, NS as to fat type",11363,"Potatoes, baked, flesh, without salt",100
+71103030,"Potato, boiled, from fresh, peel not eaten, made with oil",2047,"Salt, table, iodized",0.4
+71103030,"Potato, boiled, from fresh, peel not eaten, made with oil",4322,"Vegetable oil, averaged",5
+71103030,"Potato, boiled, from fresh, peel not eaten, made with oil",11363,"Potatoes, baked, flesh, without salt",100
+71103040,"Potato, boiled, from fresh, peel not eaten, made with butter",1001,"Butter, salted",5
+71103040,"Potato, boiled, from fresh, peel not eaten, made with butter",2047,"Salt, table, iodized",0.4
+71103040,"Potato, boiled, from fresh, peel not eaten, made with butter",11363,"Potatoes, baked, flesh, without salt",100
+71103050,"Potato, boiled, from fresh, peel not eaten, made with margarine",2047,"Salt, table, iodized",0.4
+71103050,"Potato, boiled, from fresh, peel not eaten, made with margarine",4610,"Margarine, regular, 80% fat, composite, stick, with salt",16.25
+71103050,"Potato, boiled, from fresh, peel not eaten, made with margarine",4613,"Margarine-like, vegetable oil spread, 60% fat, tub, with salt",48.75
+71103050,"Potato, boiled, from fresh, peel not eaten, made with margarine",4691,"Margarine, regular, 80% fat, composite, stick, with salt, with added vitamin D",8.75
+71103050,"Potato, boiled, from fresh, peel not eaten, made with margarine",4694,"Margarine-like, vegetable oil spread, 60% fat, tub, with salt, with added vitamin D",26.25
+71103050,"Potato, boiled, from fresh, peel not eaten, made with margarine",11363,"Potatoes, baked, flesh, without salt",100
+71103105,"Potato, boiled, from fresh, peel eaten, NS as to fat",2047,"Salt, table, iodized",0.4
+71103105,"Potato, boiled, from fresh, peel eaten, NS as to fat",4321,"Oil, table fat, averaged",5
+71103105,"Potato, boiled, from fresh, peel eaten, NS as to fat",11674,"Potatoes, baked, flesh and skin, without salt",100
+71103115,"Potato, boiled, from fresh, peel eaten, fat added, NS as to fat type",2047,"Salt, table, iodized",0.4
+71103115,"Potato, boiled, from fresh, peel eaten, fat added, NS as to fat type",4321,"Oil, table fat, averaged",5
+71103115,"Potato, boiled, from fresh, peel eaten, fat added, NS as to fat type",11674,"Potatoes, baked, flesh and skin, without salt",100
+71103125,"Potato, boiled, from fresh,  peel eaten, no addded fat",2047,"Salt, table, iodized",0.4
+71103125,"Potato, boiled, from fresh,  peel eaten, no addded fat",11674,"Potatoes, baked, flesh and skin, without salt",100
+71103135,"Potato, boiled, from fresh, peel eaten, made with oil",2047,"Salt, table, iodized",0.4
+71103135,"Potato, boiled, from fresh, peel eaten, made with oil",4322,"Vegetable oil, averaged",5
+71103135,"Potato, boiled, from fresh, peel eaten, made with oil",11674,"Potatoes, baked, flesh and skin, without salt",100
+71103140,"Potato, boiled, from fresh, peel eaten, made with butter",1001,"Butter, salted",5
+71103140,"Potato, boiled, from fresh, peel eaten, made with butter",2047,"Salt, table, iodized",0.4
+71103140,"Potato, boiled, from fresh, peel eaten, made with butter",11674,"Potatoes, baked, flesh and skin, without salt",100
+71103150,"Potato, boiled, from fresh, peel eaten, made with margarine",2047,"Salt, table, iodized",0.4
+71103150,"Potato, boiled, from fresh, peel eaten, made with margarine",4610,"Margarine, regular, 80% fat, composite, stick, with salt",16.25
+71103150,"Potato, boiled, from fresh, peel eaten, made with margarine",4613,"Margarine-like, vegetable oil spread, 60% fat, tub, with salt",48.75
+71103150,"Potato, boiled, from fresh, peel eaten, made with margarine",4691,"Margarine, regular, 80% fat, composite, stick, with salt, with added vitamin D",8.75
+71103150,"Potato, boiled, from fresh, peel eaten, made with margarine",4694,"Margarine-like, vegetable oil spread, 60% fat, tub, with salt, with added vitamin D",26.25
+71103150,"Potato, boiled, from fresh, peel eaten, made with margarine",11674,"Potatoes, baked, flesh and skin, without salt",100
+71104040,"Potato, roasted, from fresh, peel eaten, NS as to fat",2047,"Salt, table, iodized",0.4
+71104040,"Potato, roasted, from fresh, peel eaten, NS as to fat",4321,"Oil, table fat, averaged",5
+71104040,"Potato, roasted, from fresh, peel eaten, NS as to fat",11674,"Potatoes, baked, flesh and skin, without salt",100
+71104050,"Potato, roasted, from fresh, peel eaten, no added fat",2047,"Salt, table, iodized",0.4
+71104050,"Potato, roasted, from fresh, peel eaten, no added fat",11674,"Potatoes, baked, flesh and skin, without salt",100
+71104060,"Potato, roasted, from fresh, peel eaten, fat added, NS as to fat type",2047,"Salt, table, iodized",0.4
+71104060,"Potato, roasted, from fresh, peel eaten, fat added, NS as to fat type",4321,"Oil, table fat, averaged",5
+71104060,"Potato, roasted, from fresh, peel eaten, fat added, NS as to fat type",11674,"Potatoes, baked, flesh and skin, without salt",100
+71104070,"Potato, roasted, from fresh, peel eaten, made with oil",2047,"Salt, table, iodized",0.4
+71104070,"Potato, roasted, from fresh, peel eaten, made with oil",4322,"Vegetable oil, averaged",5
+71104070,"Potato, roasted, from fresh, peel eaten, made with oil",11674,"Potatoes, baked, flesh and skin, without salt",100
+71104080,"Potato, roasted, from fresh, peel eaten, made with butter",1001,"Butter, salted",5
+71104080,"Potato, roasted, from fresh, peel eaten, made with butter",2047,"Salt, table, iodized",0.4
+71104080,"Potato, roasted, from fresh, peel eaten, made with butter",11674,"Potatoes, baked, flesh and skin, without salt",100
+71104090,"Potato, roasted, from fresh, peel eaten, made with margarine",2047,"Salt, table, iodized",0.4
+71104090,"Potato, roasted, from fresh, peel eaten, made with margarine",4610,"Margarine, regular, 80% fat, composite, stick, with salt",16.25
+71104090,"Potato, roasted, from fresh, peel eaten, made with margarine",4613,"Margarine-like, vegetable oil spread, 60% fat, tub, with salt",48.75
+71104090,"Potato, roasted, from fresh, peel eaten, made with margarine",4691,"Margarine, regular, 80% fat, composite, stick, with salt, with added vitamin D",8.75
+71104090,"Potato, roasted, from fresh, peel eaten, made with margarine",4694,"Margarine-like, vegetable oil spread, 60% fat, tub, with salt, with added vitamin D",26.25
+71104090,"Potato, roasted, from fresh, peel eaten, made with margarine",11674,"Potatoes, baked, flesh and skin, without salt",100
+71104100,"Potato, roasted, from fresh, peel not eaten, NS as to fat",2047,"Salt, table, iodized",0.4
+71104100,"Potato, roasted, from fresh, peel not eaten, NS as to fat",4321,"Oil, table fat, averaged",5
+71104100,"Potato, roasted, from fresh, peel not eaten, NS as to fat",11363,"Potatoes, baked, flesh, without salt",100
+71104110,"Potato, roasted, from fresh, peel not eaten, fat added, NS as to fat type",2047,"Salt, table, iodized",0.4
+71104110,"Potato, roasted, from fresh, peel not eaten, fat added, NS as to fat type",4321,"Oil, table fat, averaged",5
+71104110,"Potato, roasted, from fresh, peel not eaten, fat added, NS as to fat type",11363,"Potatoes, baked, flesh, without salt",100
+71104120,"Potato, roasted, from fresh, peel not eaten, no added fat",2047,"Salt, table, iodized",0.4
+71104120,"Potato, roasted, from fresh, peel not eaten, no added fat",11363,"Potatoes, baked, flesh, without salt",100
+71104130,"Potato, roasted, from fresh, peel not eaten, made with oil",2047,"Salt, table, iodized",0.4
+71104130,"Potato, roasted, from fresh, peel not eaten, made with oil",4322,"Vegetable oil, averaged",5
+71104130,"Potato, roasted, from fresh, peel not eaten, made with oil",11363,"Potatoes, baked, flesh, without salt",100
+71104140,"Potato, roasted, from fresh, peel not eaten, made with butter",1001,"Butter, salted",5
+71104140,"Potato, roasted, from fresh, peel not eaten, made with butter",2047,"Salt, table, iodized",0.4
+71104140,"Potato, roasted, from fresh, peel not eaten, made with butter",11363,"Potatoes, baked, flesh, without salt",100
+71104150,"Potato, roasted, from fresh, peel not eaten, made with margarine",2047,"Salt, table, iodized",0.4
+71104150,"Potato, roasted, from fresh, peel not eaten, made with margarine",4610,"Margarine, regular, 80% fat, composite, stick, with salt",16.25
+71104150,"Potato, roasted, from fresh, peel not eaten, made with margarine",4613,"Margarine-like, vegetable oil spread, 60% fat, tub, with salt",48.75
+71104150,"Potato, roasted, from fresh, peel not eaten, made with margarine",4691,"Margarine, regular, 80% fat, composite, stick, with salt, with added vitamin D",8.75
+71104150,"Potato, roasted, from fresh, peel not eaten, made with margarine",4694,"Margarine-like, vegetable oil spread, 60% fat, tub, with salt, with added vitamin D",26.25
+71104150,"Potato, roasted, from fresh, peel not eaten, made with margarine",11363,"Potatoes, baked, flesh, without salt",100
+71305030,"Potato, scalloped, from fresh",1009,"Cheese, cheddar (Includes foods for USDA's Food Distribution Program)",45
+71305030,"Potato, scalloped, from fresh",1111,"Milk, averaged fat, with added vitamin A and D",50
+71305030,"Potato, scalloped, from fresh",2047,"Salt, table, iodized",0.8
+71305030,"Potato, scalloped, from fresh",4323,"Table fat, averaged",4
+71305030,"Potato, scalloped, from fresh",11363,"Potatoes, baked, flesh, without salt",100
+71305030,"Potato, scalloped, from fresh",20081,"Wheat flour, white, all-purpose, enriched, bleached",3
+71305040,"Potato, scalloped, from fresh, with meat",1009,"Cheese, cheddar (Includes foods for USDA's Food Distribution Program)",45
+71305040,"Potato, scalloped, from fresh, with meat",1111,"Milk, averaged fat, with added vitamin A and D",50
+71305040,"Potato, scalloped, from fresh, with meat",2047,"Salt, table, iodized",0.8
+71305040,"Potato, scalloped, from fresh, with meat",4323,"Table fat, averaged",7
+71305040,"Potato, scalloped, from fresh, with meat",10879,"Pork, cured, ham -- water added, whole, boneless, separable lean only, heated, roasted",8
+71305040,"Potato, scalloped, from fresh, with meat",11363,"Potatoes, baked, flesh, without salt",100
+71305040,"Potato, scalloped, from fresh, with meat",20081,"Wheat flour, white, all-purpose, enriched, bleached",3
+71401000,"Potato, french fries, NS as to fresh or frozen",4322,"Vegetable oil, averaged",9.090909091
+71401000,"Potato, french fries, NS as to fresh or frozen",11403,"Potatoes, french fried, all types, salt added in processing, frozen, home-prepared, oven heated",90.90909091
+71401010,"Potato, french fries, from fresh, fried",2047,"Salt, table, iodized",0.4
+71401010,"Potato, french fries, from fresh, fried",4322,"Vegetable oil, averaged",15
+71401010,"Potato, french fries, from fresh, fried",11363,"Potatoes, baked, flesh, without salt",50
+71401010,"Potato, french fries, from fresh, fried",11674,"Potatoes, baked, flesh and skin, without salt",50
+71401015,"Potato, french fries, from fresh, baked",2047,"Salt, table, iodized",0.4
+71401015,"Potato, french fries, from fresh, baked",4322,"Vegetable oil, averaged",10
+71401015,"Potato, french fries, from fresh, baked",11363,"Potatoes, baked, flesh, without salt",50
+71401015,"Potato, french fries, from fresh, baked",11674,"Potatoes, baked, flesh and skin, without salt",50
+71403040,"Potato, home fries, from fresh",2047,"Salt, table, iodized",0.8
+71403040,"Potato, home fries, from fresh",4322,"Vegetable oil, averaged",13
+71403040,"Potato, home fries, from fresh",11363,"Potatoes, baked, flesh, without salt",50
+71403040,"Potato, home fries, from fresh",11674,"Potatoes, baked, flesh and skin, without salt",50
+71405010,"Potato, hash brown, from fresh",2047,"Salt, table, iodized",1
+71405010,"Potato, hash brown, from fresh",4322,"Vegetable oil, averaged",14
+71405010,"Potato, hash brown, from fresh",11363,"Potatoes, baked, flesh, without salt",50
+71405010,"Potato, hash brown, from fresh",11674,"Potatoes, baked, flesh and skin, without salt",50
+71405019,"Potato, hash brown, from fresh, with cheese",1009,"Cheese, cheddar (Includes foods for USDA's Food Distribution Program)",20
+71405019,"Potato, hash brown, from fresh, with cheese",2047,"Salt, table, iodized",1
+71405019,"Potato, hash brown, from fresh, with cheese",4322,"Vegetable oil, averaged",14
+71405019,"Potato, hash brown, from fresh, with cheese",11363,"Potatoes, baked, flesh, without salt",50
+71405019,"Potato, hash brown, from fresh, with cheese",11674,"Potatoes, baked, flesh and skin, without salt",50
+71501010,"Potato, mashed, from fresh, made with milk",1049,"Cream, fluid, half and half",25
+71501010,"Potato, mashed, from fresh, made with milk",2047,"Salt, table, iodized",0.6
+71501010,"Potato, mashed, from fresh, made with milk",4323,"Table fat, averaged",3
+71501010,"Potato, mashed, from fresh, made with milk",11363,"Potatoes, baked, flesh, without salt",100
+71501011,"Potato, mashed, from fresh, made with milk, with cheese",1009,"Cheese, cheddar (Includes foods for USDA's Food Distribution Program)",12
+71501011,"Potato, mashed, from fresh, made with milk, with cheese",1049,"Cream, fluid, half and half",19.44012442
+71501011,"Potato, mashed, from fresh, made with milk, with cheese",2047,"Salt, table, iodized",0.466562986
+71501011,"Potato, mashed, from fresh, made with milk, with cheese",4323,"Table fat, averaged",2.33281493
+71501011,"Potato, mashed, from fresh, made with milk, with cheese",11363,"Potatoes, baked, flesh, without salt",77.76049767
+71501012,"Potato, mashed, from fresh, made with milk, with gravy",1049,"Cream, fluid, half and half",19.44012442
+71501012,"Potato, mashed, from fresh, made with milk, with gravy",2047,"Salt, table, iodized",0.466562986
+71501012,"Potato, mashed, from fresh, made with milk, with gravy",4323,"Table fat, averaged",2.33281493
+71501012,"Potato, mashed, from fresh, made with milk, with gravy",6119,"Gravy, chicken, canned or bottled, ready-to-serve",25
+71501012,"Potato, mashed, from fresh, made with milk, with gravy",11363,"Potatoes, baked, flesh, without salt",77.76049767
+71501013,"Potato, mashed, from fresh, NFS",1049,"Cream, fluid, half and half",19.44012442
+71501013,"Potato, mashed, from fresh, NFS",2047,"Salt, table, iodized",0.466562986
+71501013,"Potato, mashed, from fresh, NFS",4323,"Table fat, averaged",2.33281493
+71501013,"Potato, mashed, from fresh, NFS",11363,"Potatoes, baked, flesh, without salt",77.76049767
+71505030,"Potato tots, from fresh, fried or baked",4322,"Vegetable oil, averaged",7
+71505030,"Potato tots, from fresh, fried or baked",11398,"Potato puffs, frozen, unprepared",100
+72107211,"Collards, fresh, cooked, no added fat",2047,"Salt, table, iodized",0.3
+72107211,"Collards, fresh, cooked, no added fat",11161,"Collards, raw",100
+72107221,"Collards, fresh, cooked, fat added, NS as to fat type",2047,"Salt, table, iodized",0.3
+72107221,"Collards, fresh, cooked, fat added, NS as to fat type",4321,"Oil, table fat, averaged",3
+72107221,"Collards, fresh, cooked, fat added, NS as to fat type",11161,"Collards, raw",100
+72107227,"Collards, fresh, cooked with oil",2047,"Salt, table, iodized",0.3
+72107227,"Collards, fresh, cooked with oil",4322,"Vegetable oil, averaged",3
+72107227,"Collards, fresh, cooked with oil",11161,"Collards, raw",100
+72107228,"Collards, fresh, cooked with butter or margarine",2047,"Salt, table, iodized",0.3
+72107228,"Collards, fresh, cooked with butter or margarine",4323,"Table fat, averaged",3
+72107228,"Collards, fresh, cooked with butter or margarine",11161,"Collards, raw",100
+72118211,"Greens, fresh, cooked, no added fat",2047,"Salt, table, iodized",0.2991026919
+72118211,"Greens, fresh, cooked, no added fat",11161,"Collards, raw",39.88035892
+72118211,"Greens, fresh, cooked, no added fat",11233,"Kale, raw",39.88035892
+72118211,"Greens, fresh, cooked, no added fat",11270,"Mustard greens, raw",9.970089731
+72118211,"Greens, fresh, cooked, no added fat",11569,"Turnip greens, cooked, boiled, drained, without salt",9.970089731
+72118221,"Greens, fresh, cooked, fat added",2047,"Salt, table, iodized",0.2912849062
+72118221,"Greens, fresh, cooked, fat added",4321,"Oil, table fat, averaged",2.61374637
+72118221,"Greens, fresh, cooked, fat added",11161,"Collards, raw",38.72216844
+72118221,"Greens, fresh, cooked, fat added",11233,"Kale, raw",38.72216844
+72118221,"Greens, fresh, cooked, fat added",11270,"Mustard greens, raw",9.68054211
+72118221,"Greens, fresh, cooked, fat added",11569,"Turnip greens, cooked, boiled, drained, without salt",9.970089731
+72119211,"Kale, fresh, cooked, no added fat",2047,"Salt, table, iodized",0.3
+72119211,"Kale, fresh, cooked, no added fat",11233,"Kale, raw",100
+72119221,"Kale, fresh, cooked, fat added",2047,"Salt, table, iodized",0.3
+72119221,"Kale, fresh, cooked, fat added",4321,"Oil, table fat, averaged",3
+72119221,"Kale, fresh, cooked, fat added",11233,"Kale, raw",100
+72122211,"Mustard greens, fresh, cooked, no added fat",2047,"Salt, table, iodized",0.3
+72122211,"Mustard greens, fresh, cooked, no added fat",11270,"Mustard greens, raw",100
+72122221,"Mustard greens, fresh, cooked, fat added",2047,"Salt, table, iodized",0.3
+72122221,"Mustard greens, fresh, cooked, fat added",4321,"Oil, table fat, averaged",3
+72122221,"Mustard greens, fresh, cooked, fat added",11270,"Mustard greens, raw",100
+72125211,"Spinach, fresh, cooked, no added fat",2047,"Salt, table, iodized",0.3
+72125211,"Spinach, fresh, cooked, no added fat",11457,"Spinach, raw",100
+72125217,"Spinach, fresh, cooked with oil",2047,"Salt, table, iodized",0.3
+72125217,"Spinach, fresh, cooked with oil",4322,"Vegetable oil, averaged",3
+72125217,"Spinach, fresh, cooked with oil",11457,"Spinach, raw",100
+72125218,"Spinach, fresh, cooked with butter or margarine",2047,"Salt, table, iodized",0.3
+72125218,"Spinach, fresh, cooked with butter or margarine",4323,"Table fat, averaged",3
+72125218,"Spinach, fresh, cooked with butter or margarine",11457,"Spinach, raw",100
+72125221,"Spinach, fresh, cooked, fat added, NS as to fat type",2047,"Salt, table, iodized",0.3
+72125221,"Spinach, fresh, cooked, fat added, NS as to fat type",4321,"Oil, table fat, averaged",3
+72125221,"Spinach, fresh, cooked, fat added, NS as to fat type",11457,"Spinach, raw",100
+72128211,"Turnip greens, fresh, cooked, no added fat",2047,"Salt, table, iodized",0.3
+72128211,"Turnip greens, fresh, cooked, no added fat",11569,"Turnip greens, cooked, boiled, drained, without salt",100
+72128221,"Turnip greens, fresh, cooked, fat added",2047,"Salt, table, iodized",0.3
+72128221,"Turnip greens, fresh, cooked, fat added",4321,"Oil, table fat, averaged",3
+72128221,"Turnip greens, fresh, cooked, fat added",11569,"Turnip greens, cooked, boiled, drained, without salt",100
+72201211,"Broccoli, fresh, cooked, no added fat",2047,"Salt, table, iodized",0.3
+72201211,"Broccoli, fresh, cooked, no added fat",11090,"Broccoli, raw",100
+72201221,"Broccoli, fresh, cooked, fat added, NS as to fat type",2047,"Salt, table, iodized",0.3
+72201221,"Broccoli, fresh, cooked, fat added, NS as to fat type",4321,"Oil, table fat, averaged",3
+72201221,"Broccoli, fresh, cooked, fat added, NS as to fat type",11090,"Broccoli, raw",100
+72201223,"Broccoli, fresh, cooked with oil",2047,"Salt, table, iodized",0.3
+72201223,"Broccoli, fresh, cooked with oil",4322,"Vegetable oil, averaged",3
+72201223,"Broccoli, fresh, cooked with oil",11090,"Broccoli, raw",100
+72201224,"Broccoli, fresh, cooked with butter or margarine",2047,"Salt, table, iodized",0.3
+72201224,"Broccoli, fresh, cooked with butter or margarine",4323,"Table fat, averaged",3
+72201224,"Broccoli, fresh, cooked with butter or margarine",11090,"Broccoli, raw",100
+73102211,"Carrots, fresh, cooked, no added fat",2047,"Salt, table, iodized",0.3
+73102211,"Carrots, fresh, cooked, no added fat",11124,"Carrots, raw",100
+73102217,"Carrots, fresh, cooked with oil",2047,"Salt, table, iodized",0.3
+73102217,"Carrots, fresh, cooked with oil",4322,"Vegetable oil, averaged",3
+73102217,"Carrots, fresh, cooked with oil",11124,"Carrots, raw",100
+73102218,"Carrots, fresh, cooked with butter or margarine",2047,"Salt, table, iodized",0.3
+73102218,"Carrots, fresh, cooked with butter or margarine",4323,"Table fat, averaged",3
+73102218,"Carrots, fresh, cooked with butter or margarine",11124,"Carrots, raw",100
+73102221,"Carrots, fresh, cooked, fat added, NS as to fat type",2047,"Salt, table, iodized",0.3
+73102221,"Carrots, fresh, cooked, fat added, NS as to fat type",4321,"Oil, table fat, averaged",3
+73102221,"Carrots, fresh, cooked, fat added, NS as to fat type",11124,"Carrots, raw",100
+73111211,"Peas and carrots, fresh, cooked, no added fat",2047,"Salt, table, iodized",0.3
+73111211,"Peas and carrots, fresh, cooked, no added fat",11124,"Carrots, raw",50
+73111211,"Peas and carrots, fresh, cooked, no added fat",11304,"Peas, green, raw",50
+73111221,"Peas and carrots, fresh, cooked, fat added",2047,"Salt, table, iodized",0.3
+73111221,"Peas and carrots, fresh, cooked, fat added",4321,"Oil, table fat, averaged",3
+73111221,"Peas and carrots, fresh, cooked, fat added",11124,"Carrots, raw",50
+73111221,"Peas and carrots, fresh, cooked, fat added",11304,"Peas, green, raw",50
+73410300,"Sweet potato fries, NS as to fresh or frozen",4322,"Vegetable oil, averaged",9.090909091
+73410300,"Sweet potato fries, NS as to fresh or frozen",31023,"Sweet Potatoes, french fried, frozen as packaged, salt added in processing",90.90909091
+73410330,"Sweet potato fries, from fresh, fried",2047,"Salt, table, iodized",0.4
+73410330,"Sweet potato fries, from fresh, fried",4322,"Vegetable oil, averaged",15
+73410330,"Sweet potato fries, from fresh, fried",11508,"Sweet potato, cooked, baked in skin, flesh, without salt",100
+73410340,"Sweet potato fries, from fresh, baked",2047,"Salt, table, iodized",0.4
+73410340,"Sweet potato fries, from fresh, baked",4322,"Vegetable oil, averaged",10
+73410340,"Sweet potato fries, from fresh, baked",11508,"Sweet potato, cooked, baked in skin, flesh, without salt",100
+74201001,"Tomatoes, fresh, cooked",2047,"Salt, table, iodized",0.3
+74201001,"Tomatoes, fresh, cooked",4321,"Oil, table fat, averaged",3
+74201001,"Tomatoes, fresh, cooked",11529,"Tomatoes, red, ripe, raw, year round average",100
+75201011,"Artichoke, fresh, cooked, no added fat",2047,"Salt, table, iodized",0.3
+75201011,"Artichoke, fresh, cooked, no added fat",11008,"Artichokes, (globe or french), cooked, boiled, drained, without salt",100
+75201021,"Artichoke, fresh, cooked, fat added",2047,"Salt, table, iodized",0.3
+75201021,"Artichoke, fresh, cooked, fat added",4321,"Oil, table fat, averaged",3
+75201021,"Artichoke, fresh, cooked, fat added",11008,"Artichokes, (globe or french), cooked, boiled, drained, without salt",100
+75202011,"Asparagus, fresh, cooked, no added fat",2047,"Salt, table, iodized",0.3
+75202011,"Asparagus, fresh, cooked, no added fat",11011,"Asparagus, raw",100
+75202021,"Asparagus, fresh, cooked, fat added, NS as to fat type",2047,"Salt, table, iodized",0.3
+75202021,"Asparagus, fresh, cooked, fat added, NS as to fat type",4321,"Oil, table fat, averaged",3
+75202021,"Asparagus, fresh, cooked, fat added, NS as to fat type",11011,"Asparagus, raw",100
+75202027,"Asparagus, fresh, cooked with oil",2047,"Salt, table, iodized",0.3
+75202027,"Asparagus, fresh, cooked with oil",4322,"Vegetable oil, averaged",3
+75202027,"Asparagus, fresh, cooked with oil",11011,"Asparagus, raw",100
+75202028,"Asparagus, fresh, cooked with butter or margarine",2047,"Salt, table, iodized",0.3
+75202028,"Asparagus, fresh, cooked with butter or margarine",4323,"Table fat, averaged",3
+75202028,"Asparagus, fresh, cooked with butter or margarine",11011,"Asparagus, raw",100
+75205021,"Green beans, fresh, cooked, no added fat",2047,"Salt, table, iodized",0.3
+75205021,"Green beans, fresh, cooked, no added fat",11052,"Beans, snap, green, raw",100
+75205031,"Green beans, fresh, cooked, fat added, NS as to fat type",2047,"Salt, table, iodized",0.3
+75205031,"Green beans, fresh, cooked, fat added, NS as to fat type",4321,"Oil, table fat, averaged",3
+75205031,"Green beans, fresh, cooked, fat added, NS as to fat type",11052,"Beans, snap, green, raw",100
+75205044,"Green beans, fresh, cooked with oil",2047,"Salt, table, iodized",0.3
+75205044,"Green beans, fresh, cooked with oil",4322,"Vegetable oil, averaged",3
+75205044,"Green beans, fresh, cooked with oil",11052,"Beans, snap, green, raw",100
+75205045,"Green beans, fresh, cooked with butter or margarine",2047,"Salt, table, iodized",0.3
+75205045,"Green beans, fresh, cooked with butter or margarine",4323,"Table fat, averaged",3
+75205045,"Green beans, fresh, cooked with butter or margarine",11052,"Beans, snap, green, raw",100
+75208011,"Beets, fresh, cooked, no added fat",2047,"Salt, table, iodized",0.3
+75208011,"Beets, fresh, cooked, no added fat",11080,"Beets, raw",100
+75208021,"Beets, fresh, cooked, fat added",2047,"Salt, table, iodized",0.3
+75208021,"Beets, fresh, cooked, fat added",4321,"Oil, table fat, averaged",3
+75208021,"Beets, fresh, cooked, fat added",11080,"Beets, raw",100
+75209011,"Brussels sprouts, fresh, cooked, no added fat",2047,"Salt, table, iodized",0.3
+75209011,"Brussels sprouts, fresh, cooked, no added fat",11098,"Brussels sprouts, raw",100
+75209021,"Brussels sprouts, fresh, cooked, fat added",2047,"Salt, table, iodized",0.3
+75209021,"Brussels sprouts, fresh, cooked, fat added",4321,"Oil, table fat, averaged",3
+75209021,"Brussels sprouts, fresh, cooked, fat added",11098,"Brussels sprouts, raw",100
+75214011,"Cauliflower, fresh, cooked, no added fat",2047,"Salt, table, iodized",0.3
+75214011,"Cauliflower, fresh, cooked, no added fat",11135,"Cauliflower, raw",100
+75214021,"Cauliflower, fresh, cooked, fat added, NS as to fat type",2047,"Salt, table, iodized",0.3
+75214021,"Cauliflower, fresh, cooked, fat added, NS as to fat type",4321,"Oil, table fat, averaged",3
+75214021,"Cauliflower, fresh, cooked, fat added, NS as to fat type",11135,"Cauliflower, raw",100
+75214027,"Cauliflower, fresh, cooked with oil",2047,"Salt, table, iodized",0.3
+75214027,"Cauliflower, fresh, cooked with oil",4322,"Vegetable oil, averaged",3
+75214027,"Cauliflower, fresh, cooked with oil",11135,"Cauliflower, raw",100
+75214028,"Cauliflower, fresh, cooked with butter or margarine",2047,"Salt, table, iodized",0.3
+75214028,"Cauliflower, fresh, cooked with butter or margarine",4323,"Table fat, averaged",3
+75214028,"Cauliflower, fresh, cooked with butter or margarine",11135,"Cauliflower, raw",100
+75216111,"Corn, fresh, cooked, no added fat",2047,"Salt, table, iodized",0.3
+75216111,"Corn, fresh, cooked, no added fat",11167,"Corn, sweet, yellow, raw",100
+75216121,"Corn, fresh, cooked, fat added, NS as to fat type",2047,"Salt, table, iodized",0.3
+75216121,"Corn, fresh, cooked, fat added, NS as to fat type",4321,"Oil, table fat, averaged",3
+75216121,"Corn, fresh, cooked, fat added, NS as to fat type",11167,"Corn, sweet, yellow, raw",100
+75216134,"Corn, fresh, cooked with oil",2047,"Salt, table, iodized",0.3
+75216134,"Corn, fresh, cooked with oil",4322,"Vegetable oil, averaged",3
+75216134,"Corn, fresh, cooked with oil",11167,"Corn, sweet, yellow, raw",100
+75216135,"Corn, fresh, cooked with butter or margarine",2047,"Salt, table, iodized",0.3
+75216135,"Corn, fresh, cooked with butter or margarine",4323,"Table fat, averaged",3
+75216135,"Corn, fresh, cooked with butter or margarine",11167,"Corn, sweet, yellow, raw",100
+75219011,"Mushrooms, fresh, cooked, no added fat",2047,"Salt, table, iodized",0.3
+75219011,"Mushrooms, fresh, cooked, no added fat",11260,"Mushrooms, white, raw",100
+75219021,"Mushrooms, fresh, cooked, fat added, NS as to fat type",2047,"Salt, table, iodized",0.3
+75219021,"Mushrooms, fresh, cooked, fat added, NS as to fat type",4321,"Oil, table fat, averaged",3
+75219021,"Mushrooms, fresh, cooked, fat added, NS as to fat type",11260,"Mushrooms, white, raw",100
+75219033,"Mushrooms, fresh, cooked with oil",2047,"Salt, table, iodized",0.3
+75219033,"Mushrooms, fresh, cooked with oil",4322,"Vegetable oil, averaged",3
+75219033,"Mushrooms, fresh, cooked with oil",11260,"Mushrooms, white, raw",100
+75219034,"Mushrooms, fresh, cooked with butter or margarine",2047,"Salt, table, iodized",0.3
+75219034,"Mushrooms, fresh, cooked with butter or margarine",4323,"Table fat, averaged",3
+75219034,"Mushrooms, fresh, cooked with butter or margarine",11260,"Mushrooms, white, raw",100
+75220011,"Okra, fresh, cooked, no added fat",2047,"Salt, table, iodized",0.3
+75220011,"Okra, fresh, cooked, no added fat",11278,"Okra, raw",100
+75220021,"Okra, fresh, cooked, fat added",2047,"Salt, table, iodized",0.3
+75220021,"Okra, fresh, cooked, fat added",4321,"Oil, table fat, averaged",3
+75220021,"Okra, fresh, cooked, fat added",11278,"Okra, raw",100
+75224021,"Green peas, fresh, cooked, no added fat",2047,"Salt, table, iodized",0.3
+75224021,"Green peas, fresh, cooked, no added fat",11304,"Peas, green, raw",100
+75224031,"Green peas, fresh, cooked, fat added, NS as to fat type",2047,"Salt, table, iodized",0.3
+75224031,"Green peas, fresh, cooked, fat added, NS as to fat type",4321,"Oil, table fat, averaged",3
+75224031,"Green peas, fresh, cooked, fat added, NS as to fat type",11304,"Peas, green, raw",100
+75224043,"Green peas, fresh, cooked with oil",2047,"Salt, table, iodized",0.3
+75224043,"Green peas, fresh, cooked with oil",4322,"Vegetable oil, averaged",3
+75224043,"Green peas, fresh, cooked with oil",11304,"Peas, green, raw",100
+75224044,"Green peas, fresh, cooked with butter or margarine",2047,"Salt, table, iodized",0.3
+75224044,"Green peas, fresh, cooked with butter or margarine",4323,"Table fat, averaged",3
+75224044,"Green peas, fresh, cooked with butter or margarine",11304,"Peas, green, raw",100
+75231011,"Snowpea, fresh, cooked, no added fat",2047,"Salt, table, iodized",0.3
+75231011,"Snowpea, fresh, cooked, no added fat",11300,"Peas, edible-podded, raw",100
+75231021,"Snowpea, fresh, cooked, fat added",2047,"Salt, table, iodized",0.3
+75231021,"Snowpea, fresh, cooked, fat added",4321,"Oil, table fat, averaged",3
+75231021,"Snowpea, fresh, cooked, fat added",11300,"Peas, edible-podded, raw",100
+75233011,"Summer squash, yellow or green, fresh, cooked, no added fat",2047,"Salt, table, iodized",0.3
+75233011,"Summer squash, yellow or green, fresh, cooked, no added fat",11467,"Squash, summer, crookneck and straightneck, raw",50
+75233011,"Summer squash, yellow or green, fresh, cooked, no added fat",11477,"Squash, summer, zucchini, includes skin, raw",50
+75233021,"Summer squash, yellow or green, fresh, cooked, fat added, NS as to fat type",2047,"Salt, table, iodized",0.3
+75233021,"Summer squash, yellow or green, fresh, cooked, fat added, NS as to fat type",4321,"Oil, table fat, averaged",3
+75233021,"Summer squash, yellow or green, fresh, cooked, fat added, NS as to fat type",11467,"Squash, summer, crookneck and straightneck, raw",50
+75233021,"Summer squash, yellow or green, fresh, cooked, fat added, NS as to fat type",11477,"Squash, summer, zucchini, includes skin, raw",50
+75233027,"Summer squash, yellow or green, fresh, cooked with oil",2047,"Salt, table, iodized",0.3
+75233027,"Summer squash, yellow or green, fresh, cooked with oil",4322,"Vegetable oil, averaged",3
+75233027,"Summer squash, yellow or green, fresh, cooked with oil",11467,"Squash, summer, crookneck and straightneck, raw",50
+75233027,"Summer squash, yellow or green, fresh, cooked with oil",11477,"Squash, summer, zucchini, includes skin, raw",50
+75233028,"Summer squash, yellow or green, fresh, cooked with butter or margarine",2047,"Salt, table, iodized",0.3
+75233028,"Summer squash, yellow or green, fresh, cooked with butter or margarine",4323,"Table fat, averaged",3
+75233028,"Summer squash, yellow or green, fresh, cooked with butter or margarine",11467,"Squash, summer, crookneck and straightneck, raw",50
+75233028,"Summer squash, yellow or green, fresh, cooked with butter or margarine",11477,"Squash, summer, zucchini, includes skin, raw",50
+75502500,"Cabbage, fresh, pickled, Japanese style",2047,"Salt, table, iodized",2.5
+75502500,"Cabbage, fresh, pickled, Japanese style",2053,"Vinegar, distilled",5
+75502500,"Cabbage, fresh, pickled, Japanese style",11109,"Cabbage, raw",85
+75502500,"Cabbage, fresh, pickled, Japanese style",14429,"Beverages, water, tap, municipal",5
+75502500,"Cabbage, fresh, pickled, Japanese style",19335,"Sugars, granulated",5
